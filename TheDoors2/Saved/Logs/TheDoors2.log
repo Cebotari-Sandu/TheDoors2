@@ -713,3 +713,238 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.25-15.32.01:844][ 76]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.465ms to complete.
 [2020.02.25-15.32.18:903][ 96]LogSlate: Window 'Message Log' being destroyed
 [2020.02.25-15.32.18:909][ 96]LogSlate: Window 'Message Log' being destroyed
+[2020.02.25-15.32.49:162][497]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{38e7418d-430c-4b75-b028-033dd759d70a}.
+[2020.02.25-15.32.49:162][497]LogTemp: Resetting audio stream to device id 
+[2020.02.25-15.32.49:179][497]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.25-15.32.49:179][497]LogAudioMixer: Display: Name: Headphones (Cirrus Logic CS8409 (AB 57))
+[2020.02.25-15.32.49:179][497]LogAudioMixer: Display: Is Default: Yes
+[2020.02.25-15.32.49:179][497]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.25-15.32.49:179][497]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.25-15.32.49:179][497]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.25-15.32.49:179][497]LogAudioMixer: Display: Channel Order:
+[2020.02.25-15.32.49:179][497]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.25-15.32.49:179][497]LogAudioMixer: Display: 1: FrontRight
+[2020.02.25-15.35.44:909][123]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.25-15.35.44:928][123]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.25-15.35.44:929][123]PIE: New page: PIE session: NewMapLevelWithTerrain (Feb 25, 2020, 5:35:44 PM)
+[2020.02.25-15.35.44:931][123]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.02.25-15.35.44:932][123]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.02.25-15.35.44:933][123]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewMapLevelWithTerrain
+[2020.02.25-15.35.44:980][123]LogPlayLevel: PIE: StaticDuplicateObject took: (0.046954s)
+[2020.02.25-15.35.44:982][123]LogAIModule: Creating AISystem for world NewMapLevelWithTerrain
+[2020.02.25-15.35.44:982][123]LogPlayLevel: PIE: World Init took: (0.001445s)
+[2020.02.25-15.35.44:982][123]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewMapLevelWithTerrain.NewMapLevelWithTerrain to /Game/Maps/UEDPIE_0_NewMapLevelWithTerrain.NewMapLevelWithTerrain (0.048736s)
+[2020.02.25-15.35.45:009][123]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2020.02.25-15.35.45:042][123]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.25-15.35.45:042][123]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.25-15.35.45:042][123]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.25-15.35.45:042][123]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.25-15.35.45:042][123]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.25-15.35.45:042][123]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.25-15.35.45:042][123]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.25-15.35.45:042][123]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.25-15.35.45:042][123]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.25-15.35.45:042][123]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.25-15.35.45:055][123]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.25-15.35.45:055][123]LogAudioMixer: Display: Name: Headphones (Cirrus Logic CS8409 (AB 57))
+[2020.02.25-15.35.45:055][123]LogAudioMixer: Display: Is Default: Yes
+[2020.02.25-15.35.45:055][123]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.25-15.35.45:055][123]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.25-15.35.45:055][123]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.25-15.35.45:055][123]LogAudioMixer: Display: Channel Order:
+[2020.02.25-15.35.45:055][123]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.25-15.35.45:055][123]LogAudioMixer: Display: 1: FrontRight
+[2020.02.25-15.35.45:065][123]LogAudioMixer: Display: Using Audio Device Headphones (Cirrus Logic CS8409 (AB 57))
+[2020.02.25-15.35.45:067][123]LogInit: FAudioDevice initialized.
+[2020.02.25-15.35.45:078][123]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.02.25-15.35.45:081][123]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMapLevelWithTerrain.NewMapLevelWithTerrain up for play (max tick rate 60) at 2020.02.25-16.35.45
+[2020.02.25-15.35.45:081][123]LogWorld: Bringing up level for play took: 0.001845
+[2020.02.25-15.35.45:081][123]LogOnline: OSS: Creating online subsystem instance for: :Context_1
+[2020.02.25-15.35.45:088][123]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.02.25-15.35.45:094][123]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2020.02.25-15.35.45:095][123]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=0.000] for [FirstPersonCharacter_C]
+[2020.02.25-15.35.45:096][123]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type FirstPersonCharacter_C at Rotation: Pitch 0.000000 Yaw 0.000000 Roll 0.000000
+Translation: 0.000000 0.000000 0.000000
+Scale3D: 1.000000 1.000000 1.000000
+
+[2020.02.25-15.35.45:096][123]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_NewMapLevelWithTerrain 1.139
+[2020.02.25-15.35.47:124][242]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.25-15.35.47:124][242]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.25-15.35.47:124][242]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-15.35.47:124][242]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_NewMapLevelWithTerrain
+[2020.02.25-15.35.47:124][242]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.25-15.35.47:124][242]LogWorld: UWorld::CleanupWorld for NewMapLevelWithTerrain, bSessionEnded=true, bCleanupResources=true
+[2020.02.25-15.35.47:125][242]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.25-15.35.47:134][242]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.25-15.35.47:138][242]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.25-15.35.47:174][242]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.25-15.35.47:178][242]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-15.35.47:189][242]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2020.02.25-15.35.47:234][245]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2020.02.25-15.37.32:033][ 35]Cmd: TRANSACTION UNDO
+[2020.02.25-15.37.32:033][ 35]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2020.02.25-15.37.32:102][ 35]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2020.02.25-15.37.51:305][161]Cmd: TRANSACTION UNDO
+[2020.02.25-15.37.51:305][161]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2020.02.25-15.37.52:255][200]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2020.02.25-15.37.55:074][367]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.02.25-15.38.05:905][ 15]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.25-15.38.05:923][ 15]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.25-15.38.05:923][ 15]PIE: New page: PIE session: NewMapLevelWithTerrain (Feb 25, 2020, 5:38:05 PM)
+[2020.02.25-15.38.05:923][ 15]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewMapLevelWithTerrain
+[2020.02.25-15.38.05:971][ 15]LogPlayLevel: PIE: StaticDuplicateObject took: (0.046942s)
+[2020.02.25-15.38.05:972][ 15]LogAIModule: Creating AISystem for world NewMapLevelWithTerrain
+[2020.02.25-15.38.05:972][ 15]LogPlayLevel: PIE: World Init took: (0.001262s)
+[2020.02.25-15.38.05:972][ 15]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewMapLevelWithTerrain.NewMapLevelWithTerrain to /Game/Maps/UEDPIE_0_NewMapLevelWithTerrain.NewMapLevelWithTerrain (0.048391s)
+[2020.02.25-15.38.06:000][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2020.02.25-15.38.06:001][ 15]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.25-15.38.06:001][ 15]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.25-15.38.06:001][ 15]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.25-15.38.06:001][ 15]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.25-15.38.06:001][ 15]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.25-15.38.06:001][ 15]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.25-15.38.06:001][ 15]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.25-15.38.06:001][ 15]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.25-15.38.06:002][ 15]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.25-15.38.06:002][ 15]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.25-15.38.06:014][ 15]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.25-15.38.06:015][ 15]LogAudioMixer: Display: Name: Headphones (Cirrus Logic CS8409 (AB 57))
+[2020.02.25-15.38.06:015][ 15]LogAudioMixer: Display: Is Default: Yes
+[2020.02.25-15.38.06:015][ 15]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.25-15.38.06:015][ 15]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.25-15.38.06:015][ 15]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.25-15.38.06:015][ 15]LogAudioMixer: Display: Channel Order:
+[2020.02.25-15.38.06:015][ 15]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.25-15.38.06:015][ 15]LogAudioMixer: Display: 1: FrontRight
+[2020.02.25-15.38.06:025][ 15]LogAudioMixer: Display: Using Audio Device Headphones (Cirrus Logic CS8409 (AB 57))
+[2020.02.25-15.38.06:026][ 15]LogInit: FAudioDevice initialized.
+[2020.02.25-15.38.06:034][ 15]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.02.25-15.38.06:036][ 15]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMapLevelWithTerrain.NewMapLevelWithTerrain up for play (max tick rate 60) at 2020.02.25-16.38.06
+[2020.02.25-15.38.06:036][ 15]LogWorld: Bringing up level for play took: 0.001651
+[2020.02.25-15.38.06:036][ 15]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2020.02.25-15.38.06:042][ 15]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_NewMapLevelWithTerrain 0.084
+[2020.02.25-15.38.49:741][634]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.25-15.38.49:741][634]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.25-15.38.49:741][634]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-15.38.49:741][634]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_NewMapLevelWithTerrain
+[2020.02.25-15.38.49:741][634]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.25-15.38.49:741][634]LogWorld: UWorld::CleanupWorld for NewMapLevelWithTerrain, bSessionEnded=true, bCleanupResources=true
+[2020.02.25-15.38.49:742][634]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.25-15.38.49:750][634]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.25-15.38.49:753][634]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.25-15.38.49:779][634]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.25-15.38.49:782][634]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-15.38.49:791][634]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2020.02.25-15.38.49:851][636]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2020.02.25-15.39.06:944][656]Cmd: DELETE
+[2020.02.25-15.39.06:945][656]Cmd: ACTOR DELETE
+[2020.02.25-15.39.06:962][656]LogEditorActor: Deleted Actor: LandscapeGizmoActiveActor
+[2020.02.25-15.39.06:965][656]LogEditorActor: Deleted Actor: Landscape
+[2020.02.25-15.39.07:015][656]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.02.25-15.39.07:016][656]LogEditorActor: Deleted 2 Actors (0.060 secs)
+[2020.02.25-15.39.09:826][820]LogTexture: Display: Building textures: Texture2D_3 (G8, 128X128)
+[2020.02.25-15.39.23:296][621]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 128X128)
+[2020.02.25-15.39.32:087][127]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.25-15.39.32:104][127]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.25-15.39.32:104][127]PIE: New page: PIE session: NewMapLevelWithTerrain (Feb 25, 2020, 5:39:32 PM)
+[2020.02.25-15.39.32:104][127]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewMapLevelWithTerrain
+[2020.02.25-15.39.32:150][127]LogPlayLevel: PIE: StaticDuplicateObject took: (0.044903s)
+[2020.02.25-15.39.32:150][127]LogAIModule: Creating AISystem for world NewMapLevelWithTerrain
+[2020.02.25-15.39.32:151][127]LogPlayLevel: PIE: World Init took: (0.001004s)
+[2020.02.25-15.39.32:151][127]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewMapLevelWithTerrain.NewMapLevelWithTerrain to /Game/Maps/UEDPIE_0_NewMapLevelWithTerrain.NewMapLevelWithTerrain (0.046093s)
+[2020.02.25-15.39.32:178][127]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2020.02.25-15.39.32:180][127]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.25-15.39.32:180][127]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.25-15.39.32:180][127]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.25-15.39.32:180][127]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.25-15.39.32:180][127]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.25-15.39.32:180][127]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.25-15.39.32:180][127]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.25-15.39.32:180][127]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.25-15.39.32:180][127]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.25-15.39.32:180][127]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.25-15.39.32:193][127]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.25-15.39.32:193][127]LogAudioMixer: Display: Name: Headphones (Cirrus Logic CS8409 (AB 57))
+[2020.02.25-15.39.32:193][127]LogAudioMixer: Display: Is Default: Yes
+[2020.02.25-15.39.32:193][127]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.25-15.39.32:193][127]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.25-15.39.32:193][127]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.25-15.39.32:193][127]LogAudioMixer: Display: Channel Order:
+[2020.02.25-15.39.32:193][127]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.25-15.39.32:193][127]LogAudioMixer: Display: 1: FrontRight
+[2020.02.25-15.39.32:204][127]LogAudioMixer: Display: Using Audio Device Headphones (Cirrus Logic CS8409 (AB 57))
+[2020.02.25-15.39.32:206][127]LogInit: FAudioDevice initialized.
+[2020.02.25-15.39.32:211][127]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.02.25-15.39.32:214][127]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMapLevelWithTerrain.NewMapLevelWithTerrain up for play (max tick rate 60) at 2020.02.25-16.39.32
+[2020.02.25-15.39.32:214][127]LogWorld: Bringing up level for play took: 0.001605
+[2020.02.25-15.39.32:214][127]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2020.02.25-15.39.32:218][127]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_NewMapLevelWithTerrain 0.26
+[2020.02.25-15.40.13:625][608]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.25-15.40.13:633][608]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.02.25-15.40.13:663][608]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.02.25-15.40.13:663][608]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-15.40.13:663][608]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_NewMapLevelWithTerrain
+[2020.02.25-15.40.13:663][608]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.25-15.40.13:663][608]LogWorld: UWorld::CleanupWorld for NewMapLevelWithTerrain, bSessionEnded=true, bCleanupResources=true
+[2020.02.25-15.40.13:664][608]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.25-15.40.13:679][608]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.25-15.40.13:683][608]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.25-15.40.13:709][608]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.25-15.40.13:712][608]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-15.40.13:722][608]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2020.02.25-15.40.13:743][609]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2020.02.25-15.40.18:621][893]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.25-15.40.18:637][893]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.25-15.40.18:638][893]PIE: New page: PIE session: NewMapLevelWithTerrain (Feb 25, 2020, 5:40:18 PM)
+[2020.02.25-15.40.18:638][893]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewMapLevelWithTerrain
+[2020.02.25-15.40.18:684][893]LogPlayLevel: PIE: StaticDuplicateObject took: (0.046836s)
+[2020.02.25-15.40.18:685][893]LogAIModule: Creating AISystem for world NewMapLevelWithTerrain
+[2020.02.25-15.40.18:685][893]LogPlayLevel: PIE: World Init took: (0.001003s)
+[2020.02.25-15.40.18:685][893]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewMapLevelWithTerrain.NewMapLevelWithTerrain to /Game/Maps/UEDPIE_0_NewMapLevelWithTerrain.NewMapLevelWithTerrain (0.047998s)
+[2020.02.25-15.40.18:712][893]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2020.02.25-15.40.18:713][893]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.25-15.40.18:713][893]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.25-15.40.18:713][893]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.25-15.40.18:713][893]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.25-15.40.18:713][893]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.25-15.40.18:713][893]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.25-15.40.18:713][893]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.25-15.40.18:713][893]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.25-15.40.18:714][893]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.25-15.40.18:714][893]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.25-15.40.18:725][893]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.25-15.40.18:725][893]LogAudioMixer: Display: Name: Headphones (Cirrus Logic CS8409 (AB 57))
+[2020.02.25-15.40.18:725][893]LogAudioMixer: Display: Is Default: Yes
+[2020.02.25-15.40.18:725][893]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.25-15.40.18:725][893]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.25-15.40.18:725][893]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.25-15.40.18:725][893]LogAudioMixer: Display: Channel Order:
+[2020.02.25-15.40.18:725][893]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.25-15.40.18:725][893]LogAudioMixer: Display: 1: FrontRight
+[2020.02.25-15.40.18:735][893]LogAudioMixer: Display: Using Audio Device Headphones (Cirrus Logic CS8409 (AB 57))
+[2020.02.25-15.40.18:737][893]LogInit: FAudioDevice initialized.
+[2020.02.25-15.40.18:748][893]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.02.25-15.40.18:750][893]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMapLevelWithTerrain.NewMapLevelWithTerrain up for play (max tick rate 60) at 2020.02.25-16.40.18
+[2020.02.25-15.40.18:750][893]LogWorld: Bringing up level for play took: 0.001530
+[2020.02.25-15.40.18:750][893]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2020.02.25-15.40.18:754][893]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_NewMapLevelWithTerrain 0.796
+[2020.02.25-15.40.21:519][ 56]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.25-15.40.21:533][ 56]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.02.25-15.40.21:552][ 56]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.02.25-15.40.21:553][ 56]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-15.40.21:553][ 56]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_NewMapLevelWithTerrain
+[2020.02.25-15.40.21:553][ 56]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.25-15.40.21:553][ 56]LogWorld: UWorld::CleanupWorld for NewMapLevelWithTerrain, bSessionEnded=true, bCleanupResources=true
+[2020.02.25-15.40.21:553][ 56]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.25-15.40.21:561][ 56]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.25-15.40.21:565][ 56]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.25-15.40.21:592][ 56]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.25-15.40.21:595][ 56]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-15.40.21:604][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2020.02.25-15.40.21:625][ 57]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2020.02.25-15.40.25:513][284]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2020.02.25-15.40.25:648][284]LogSavePackage: Moving '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Saved/NewMapLevelWithTerrain56805BEB4D890F662CE8158E97DCBBCD.tmp' to '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Content/Maps/NewMapLevelWithTerrain.umap'
+[2020.02.25-15.40.25:739][284]LogSavePackage: Moving '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Saved/NewMapLevelWithTerrain_BuiltDataEFD4A64D42F59FC5757BB6AEA6488EB5.tmp' to '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Content/Maps/NewMapLevelWithTerrain_BuiltData.uasset'
+[2020.02.25-15.40.25:759][284]AssetCheck: New page: Asset Save: multiple assets
+[2020.02.25-15.40.25:760][284]LogContentValidation: Display: Validating World /Game/Maps/NewMapLevelWithTerrain.NewMapLevelWithTerrain
+[2020.02.25-15.40.25:760][284]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/NewMapLevelWithTerrain_BuiltData.NewMapLevelWithTerrain_BuiltData
