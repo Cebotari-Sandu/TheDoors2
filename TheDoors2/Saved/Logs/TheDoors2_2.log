@@ -2158,3 +2158,938 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.29-15.47.28:923][624]AssetCheck: New page: Asset Save: multiple assets
 [2020.02.29-15.47.28:923][624]LogContentValidation: Display: Validating World /Game/Maps/NewMapLevelWithTerrain.NewMapLevelWithTerrain
 [2020.02.29-15.47.28:923][624]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/NewMapLevelWithTerrain_BuiltData.NewMapLevelWithTerrain_BuiltData
+[2020.02.29-15.53.51:763][243]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2020.02.29-15.53.51:914][243]LogSavePackage: Moving '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Saved/NewMapLevelWithTerrain85EB578B4C94E875EEB9F7B5220F8BFB.tmp' to '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Content/Maps/NewMapLevelWithTerrain.umap'
+[2020.02.29-15.53.52:017][243]LogSavePackage: Moving '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Saved/NewMapLevelWithTerrain_BuiltDataF0681A3C4D16006A8CDBC39BFBBA9238.tmp' to '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Content/Maps/NewMapLevelWithTerrain_BuiltData.uasset'
+[2020.02.29-15.53.52:036][243]AssetCheck: New page: Asset Save: multiple assets
+[2020.02.29-15.53.52:036][243]LogContentValidation: Display: Validating World /Game/Maps/NewMapLevelWithTerrain.NewMapLevelWithTerrain
+[2020.02.29-15.53.52:036][243]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/NewMapLevelWithTerrain_BuiltData.NewMapLevelWithTerrain_BuiltData
+[2020.02.29-15.55.04:310][514]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2020.02.29-15.55.04:452][514]LogSavePackage: Moving '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Saved/NewMapLevelWithTerrain2FB271EE45F73AF7E4083FA2F8DF0A1D.tmp' to '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Content/Maps/NewMapLevelWithTerrain.umap'
+[2020.02.29-15.55.04:553][514]LogSavePackage: Moving '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Saved/NewMapLevelWithTerrain_BuiltData9BC7EF1D44FD1E4AB1D4C3A08B7F1193.tmp' to '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Content/Maps/NewMapLevelWithTerrain_BuiltData.uasset'
+[2020.02.29-15.55.04:570][514]AssetCheck: New page: Asset Save: multiple assets
+[2020.02.29-15.55.04:570][514]LogContentValidation: Display: Validating World /Game/Maps/NewMapLevelWithTerrain.NewMapLevelWithTerrain
+[2020.02.29-15.55.04:570][514]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/NewMapLevelWithTerrain_BuiltData.NewMapLevelWithTerrain_BuiltData
+[2020.02.29-15.56.37:845][  2]Cmd: DELETE
+[2020.02.29-15.56.37:845][  2]Cmd: ACTOR DELETE
+[2020.02.29-15.56.37:861][  2]LogEditorActor: Deleted Actor: BP_Sky_Sphere_C
+[2020.02.29-15.56.37:892][  2]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2020.02.29-15.56.37:893][  2]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2020.02.29-15.56.49:275][679]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.02.29-15.56.49:416][679]LogSavePackage: Moving '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Saved/NewMapLevelWithTerrainAE2E24A34DDA32CCB1D5D3A901CE272E.tmp' to '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Content/Maps/NewMapLevelWithTerrain.umap'
+[2020.02.29-15.56.49:512][679]LogSavePackage: Moving '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Saved/NewMapLevelWithTerrain_BuiltData6B5E352F44DA1719936A58BDE7F221D0.tmp' to '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Content/Maps/NewMapLevelWithTerrain_BuiltData.uasset'
+[2020.02.29-15.56.49:529][679]AssetCheck: New page: Asset Save: multiple assets
+[2020.02.29-15.56.49:529][679]LogContentValidation: Display: Validating World /Game/Maps/NewMapLevelWithTerrain.NewMapLevelWithTerrain
+[2020.02.29-15.56.49:529][679]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/NewMapLevelWithTerrain_BuiltData.NewMapLevelWithTerrain_BuiltData
+[2020.02.29-15.57.06:099][672]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.29-15.57.06:117][672]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.29-15.57.06:117][672]PIE: New page: PIE session: NewMapLevelWithTerrain (Feb 29, 2020, 5:57:06 PM)
+[2020.02.29-15.57.06:117][672]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewMapLevelWithTerrain
+[2020.02.29-15.57.06:384][672]LogPlayLevel: PIE: StaticDuplicateObject took: (0.266076s)
+[2020.02.29-15.57.06:385][672]LogAIModule: Creating AISystem for world NewMapLevelWithTerrain
+[2020.02.29-15.57.06:385][672]LogPlayLevel: PIE: World Init took: (0.001132s)
+[2020.02.29-15.57.06:385][672]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewMapLevelWithTerrain.NewMapLevelWithTerrain to /Game/Maps/UEDPIE_0_NewMapLevelWithTerrain.NewMapLevelWithTerrain (0.267369s)
+[2020.02.29-15.57.06:417][672]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2020.02.29-15.57.06:418][672]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.29-15.57.06:418][672]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.29-15.57.06:418][672]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.29-15.57.06:418][672]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.29-15.57.06:418][672]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.29-15.57.06:418][672]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.29-15.57.06:418][672]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.29-15.57.06:418][672]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.29-15.57.06:418][672]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.29-15.57.06:418][672]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.29-15.57.06:433][672]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.29-15.57.06:433][672]LogAudioMixer: Display: Name: Headphones (Cirrus Logic CS8409 (AB 57))
+[2020.02.29-15.57.06:433][672]LogAudioMixer: Display: Is Default: Yes
+[2020.02.29-15.57.06:433][672]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.29-15.57.06:433][672]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.29-15.57.06:433][672]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.29-15.57.06:433][672]LogAudioMixer: Display: Channel Order:
+[2020.02.29-15.57.06:433][672]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.29-15.57.06:433][672]LogAudioMixer: Display: 1: FrontRight
+[2020.02.29-15.57.06:443][672]LogAudioMixer: Display: Using Audio Device Headphones (Cirrus Logic CS8409 (AB 57))
+[2020.02.29-15.57.06:445][672]LogInit: FAudioDevice initialized.
+[2020.02.29-15.57.06:452][672]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.02.29-15.57.06:454][672]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMapLevelWithTerrain.NewMapLevelWithTerrain up for play (max tick rate 60) at 2020.02.29-16.57.06
+[2020.02.29-15.57.06:455][672]LogWorld: Bringing up level for play took: 0.001685
+[2020.02.29-15.57.06:455][672]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2020.02.29-15.57.06:459][672]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_NewMapLevelWithTerrain 0.639
+[2020.02.29-15.57.34:224][336]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.29-15.57.34:224][336]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.29-15.57.34:224][336]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.29-15.57.34:224][336]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_NewMapLevelWithTerrain
+[2020.02.29-15.57.34:224][336]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.29-15.57.34:224][336]LogWorld: UWorld::CleanupWorld for NewMapLevelWithTerrain, bSessionEnded=true, bCleanupResources=true
+[2020.02.29-15.57.34:225][336]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.29-15.57.34:237][336]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.29-15.57.34:241][336]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.29-15.57.34:269][336]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.29-15.57.34:273][336]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.29-15.57.34:282][336]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2020.02.29-15.57.34:351][338]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2020.02.29-15.57.36:217][448]MapCheck: New page: Map Check
+[2020.02.29-15.57.36:234][448]Cmd: MAP REBUILD ALLVISIBLE
+[2020.02.29-15.57.36:234][448]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.02.29-15.57.36:237][448]LogWorld: UWorld::CleanupWorld for NewMapLevelWithTerrain, bSessionEnded=true, bCleanupResources=false
+[2020.02.29-15.57.36:283][448]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2020.02.29-15.57.36:293][448]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.29-15.57.36:308][448]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.02.29-15.57.36:308][448]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.02.29-15.57.36:308][448]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.29-15.57.36:323][448]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.29-15.57.36:934][448]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.02.29-15.57.36:934][448]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.02.29-15.57.36:934][448]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.02.29-15.57.36:934][448]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.02.29-15.57.36:934][448]TextureStreamingBuild: Display: Compiling optional shaders took 0.651 seconds.
+[2020.02.29-15.57.36:942][448]LogLevel: Display: Export Material TexCoord Scales took 0.007 seconds.
+[2020.02.29-15.57.36:945][448]TextureStreamingBuild: Display: Build Texture Streaming took 0.003 seconds.
+[2020.02.29-15.57.36:973][448]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2020.02.29-15.57.36:975][448]LightingResults: New page: Lighting Build - Feb 29, 2020, 5:57:36 PM
+[2020.02.29-15.57.36:985][448]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.02.29-15.57.36:987][448]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.02.29-15.57.36:987][448]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.02.29-15.57.36:988][448]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.02.29-15.57.36:988][448]LogSwarmInterface: [TryOpenConnection] Local Process ID is 820
+[2020.02.29-15.57.41:498][448]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2020.02.29-15.57.41:499][448]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.02.29-15.57.41:499][448]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.02.29-15.57.41:499][448]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.02.29-15.57.41:499][448]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.02.29-15.57.41:499][448]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.02.29-15.57.41:642][448]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2020.02.29-15.57.41:642][448]MapCheck: New page: NewMapLevelWithTerrain - Feb 29, 2020, 5:57:41 PM
+[2020.02.29-15.57.41:642][448]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2020.02.29-15.57.41:642][448]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 0.398ms to complete.
+[2020.02.29-15.57.41:644][448]LogEditorBuildUtils: Build time 0:05
+[2020.02.29-15.57.42:118][452]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2020.02.29-15.57.47:203][731]Job is a success!
+[2020.02.29-15.57.47:477][732]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.107s
+[2020.02.29-15.57.47:477][732]LogVolumetricLightmapImport:      Indirection Texture 32x32x16 = 0.1Mb
+[2020.02.29-15.57.47:477][732]LogVolumetricLightmapImport:      BrickData (all levels) 2.5Mb (trimmed 0.1Mb due to 0.010000 MinBrickError)
+[2020.02.29-15.57.47:477][732]LogVolumetricLightmapImport:      Bricks at depth
+[2020.02.29-15.57.47:477][732]LogVolumetricLightmapImport:          0: 1.0% covering 100.0% of volume
+[2020.02.29-15.57.47:477][732]LogVolumetricLightmapImport:          1: 7.0% covering 11.3% of volume
+[2020.02.29-15.57.47:477][732]LogVolumetricLightmapImport:          2: 92.0% covering 2.3% of volume
+[2020.02.29-15.57.47:477][732]LogVolumetricLightmapImport:      Bricks in each level
+[2020.02.29-15.57.47:477][732]LogVolumetricLightmapImport:          NewMapLevelWithTerrain 			 413 bricks 	 100.0% (Persistent Level)
+[2020.02.29-15.57.47:727][732]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 512X256)
+[2020.02.29-15.57.47:727][732]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 512X512)
+[2020.02.29-15.57.47:727][732]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 512X512)
+[2020.02.29-15.57.47:727][732]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 64X32)
+[2020.02.29-15.57.47:727][732]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2020.02.29-15.57.47:727][732]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2020.02.29-15.57.47:783][732]LogTexture: Display: Building textures: ShadowMapTexture2D_14 (BGRA8, 32X32)
+[2020.02.29-15.57.47:783][732]LogTexture: Display: Building textures: ShadowMapTexture2D_13 (BGRA8, 1024X128)
+[2020.02.29-15.57.47:784][732]LogStaticLightingSystem: NewMapLevelWithTerrain_BuiltData storing lightmap data for 66 meshes in 2 LightmapResourceClusters (33.0 Meshes per cluster).
+[2020.02.29-15.57.47:819][732]Lightmass on DESKTOP-PTE761A: 5.13 sec total, 304 ms importing, 69 ms setup, 821 ms photons, 3.90 sec processing, 0 ms extra exporting [66/66 mappings]. Threads: 27.3 sec total, 7.24 sec processing.
+[2020.02.29-15.57.47:821][732]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2020.02.29-15.57.47:838][732]LogStaticLightingSystem: Illumination: 10.8 sec (240 ms encoding lightmaps, 29 ms encoding shadowmaps)
+[2020.02.29-15.57.47:838][732]LogStaticLightingSystem: Lightmap texture memory:  0.7 MB (0.7 MB streaming, 0.0 MB non-streaming), 4 textures
+[2020.02.29-15.57.47:838][732]LogStaticLightingSystem: Shadowmap texture memory: 0.7 MB (0.7 MB streaming, 0.0 MB non-streaming), 2 textures
+[2020.02.29-15.57.48:505][732]DumpUnbuiltLightIteractions
+[2020.02.29-15.57.48:505][732]Lights with unbuilt interactions: 0
+[2020.02.29-15.57.48:505][732]
+[2020.02.29-15.57.48:505][732]Primitives with unbuilt interactions: 0
+[2020.02.29-15.57.48:621][733]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.02.29-15.57.48:621][733]MapCheck: New page: NewMapLevelWithTerrain - Feb 29, 2020, 5:57:48 PM
+[2020.02.29-15.57.48:621][733]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.331ms to complete.
+[2020.02.29-15.58.20:077][620]LogSlate: Window 'Message Log' being destroyed
+[2020.02.29-15.58.20:090][620]LogSlate: Window 'Message Log' being destroyed
+[2020.02.29-15.58.21:667][712]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.29-15.58.21:685][712]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.29-15.58.21:685][712]PIE: New page: PIE session: NewMapLevelWithTerrain (Feb 29, 2020, 5:58:21 PM)
+[2020.02.29-15.58.21:685][712]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewMapLevelWithTerrain
+[2020.02.29-15.58.21:952][712]LogPlayLevel: PIE: StaticDuplicateObject took: (0.266414s)
+[2020.02.29-15.58.21:953][712]LogAIModule: Creating AISystem for world NewMapLevelWithTerrain
+[2020.02.29-15.58.21:953][712]LogPlayLevel: PIE: World Init took: (0.001081s)
+[2020.02.29-15.58.21:953][712]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewMapLevelWithTerrain.NewMapLevelWithTerrain to /Game/Maps/UEDPIE_0_NewMapLevelWithTerrain.NewMapLevelWithTerrain (0.267679s)
+[2020.02.29-15.58.21:981][712]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2020.02.29-15.58.21:983][712]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.29-15.58.21:983][712]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.29-15.58.21:983][712]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.29-15.58.21:983][712]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.29-15.58.21:983][712]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.29-15.58.21:983][712]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.29-15.58.21:983][712]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.29-15.58.21:983][712]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.29-15.58.21:983][712]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.29-15.58.21:983][712]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.29-15.58.21:995][712]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.29-15.58.21:995][712]LogAudioMixer: Display: Name: Headphones (Cirrus Logic CS8409 (AB 57))
+[2020.02.29-15.58.21:995][712]LogAudioMixer: Display: Is Default: Yes
+[2020.02.29-15.58.21:995][712]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.29-15.58.21:995][712]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.29-15.58.21:995][712]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.29-15.58.21:995][712]LogAudioMixer: Display: Channel Order:
+[2020.02.29-15.58.21:995][712]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.29-15.58.21:996][712]LogAudioMixer: Display: 1: FrontRight
+[2020.02.29-15.58.22:006][712]LogAudioMixer: Display: Using Audio Device Headphones (Cirrus Logic CS8409 (AB 57))
+[2020.02.29-15.58.22:007][712]LogInit: FAudioDevice initialized.
+[2020.02.29-15.58.22:018][712]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.02.29-15.58.22:020][712]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMapLevelWithTerrain.NewMapLevelWithTerrain up for play (max tick rate 60) at 2020.02.29-16.58.22
+[2020.02.29-15.58.22:020][712]LogWorld: Bringing up level for play took: 0.001551
+[2020.02.29-15.58.22:020][712]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2020.02.29-15.58.22:024][712]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_NewMapLevelWithTerrain 0.203
+[2020.02.29-15.58.32:932][363]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.29-15.58.32:932][363]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.29-15.58.32:932][363]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.29-15.58.32:932][363]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_NewMapLevelWithTerrain
+[2020.02.29-15.58.32:932][363]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.29-15.58.32:933][363]LogWorld: UWorld::CleanupWorld for NewMapLevelWithTerrain, bSessionEnded=true, bCleanupResources=true
+[2020.02.29-15.58.32:933][363]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.29-15.58.32:942][363]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.29-15.58.32:946][363]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.29-15.58.32:974][363]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.29-15.58.32:977][363]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.29-15.58.32:987][363]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2020.02.29-15.58.33:043][365]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2020.02.29-15.58.35:518][513]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2020.02.29-15.58.53:160][564]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2020.02.29-15.59.35:109][660]Cmd: DELETE
+[2020.02.29-15.59.35:109][660]Cmd: ACTOR DELETE
+[2020.02.29-15.59.35:112][660]LogEditorActor: Deleted Actor: SkyLight
+[2020.02.29-15.59.35:141][660]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2020.02.29-15.59.35:142][660]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2020.02.29-15.59.37:582][807]Cmd: TRANSACTION UNDO
+[2020.02.29-15.59.37:582][807]LogEditorTransaction: Undo Delete Actors
+[2020.02.29-15.59.45:028][236]Cmd: DELETE
+[2020.02.29-15.59.45:028][236]Cmd: ACTOR DELETE
+[2020.02.29-15.59.45:031][236]LogEditorActor: Deleted Actor: DirectionalLight
+[2020.02.29-15.59.45:058][236]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2020.02.29-15.59.45:060][236]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2020.02.29-15.59.46:216][306]Cmd: TRANSACTION UNDO
+[2020.02.29-15.59.46:216][306]LogEditorTransaction: Undo Delete Actors
+[2020.02.29-15.59.48:216][409]Cmd: TRANSACTION UNDO
+[2020.02.29-15.59.48:216][409]LogEditorTransaction: Undo Clicking on Actors
+[2020.02.29-16.00.15:231][ 17]Cmd: DELETE
+[2020.02.29-16.00.15:231][ 17]Cmd: ACTOR DELETE
+[2020.02.29-16.00.15:234][ 17]LogEditorActor: Deleted Actor: AtmosphericFog
+[2020.02.29-16.00.15:261][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2020.02.29-16.00.15:263][ 17]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2020.02.29-16.00.21:772][404]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2020.02.29-16.00.21:918][404]LogSavePackage: Moving '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Saved/NewMapLevelWithTerrain94FDFAC54C3C03CC1291B38D13BFD336.tmp' to '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Content/Maps/NewMapLevelWithTerrain.umap'
+[2020.02.29-16.00.22:024][404]LogSavePackage: Moving '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Saved/NewMapLevelWithTerrain_BuiltData9E22F15F4745681697221EA05E736EEE.tmp' to '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Content/Maps/NewMapLevelWithTerrain_BuiltData.uasset'
+[2020.02.29-16.00.22:043][404]AssetCheck: New page: Asset Save: multiple assets
+[2020.02.29-16.00.22:043][404]LogContentValidation: Display: Validating World /Game/Maps/NewMapLevelWithTerrain.NewMapLevelWithTerrain
+[2020.02.29-16.00.22:043][404]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/NewMapLevelWithTerrain_BuiltData.NewMapLevelWithTerrain_BuiltData
+[2020.02.29-16.00.27:622][737]Cmd: DELETE
+[2020.02.29-16.00.27:622][737]Cmd: ACTOR DELETE
+[2020.02.29-16.00.27:625][737]LogEditorActor: Deleted Actor: SphereReflectionCapture
+[2020.02.29-16.00.27:654][737]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2020.02.29-16.00.27:656][737]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2020.02.29-16.00.29:512][849]Cmd: TRANSACTION UNDO
+[2020.02.29-16.00.29:512][849]LogEditorTransaction: Undo Delete Actors
+[2020.02.29-16.01.02:875][833]Cmd: DELETE
+[2020.02.29-16.01.02:875][833]Cmd: ACTOR DELETE
+[2020.02.29-16.01.02:878][833]LogEditorActor: Deleted Actor: SkyLight
+[2020.02.29-16.01.02:903][833]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2020.02.29-16.01.02:905][833]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2020.02.29-16.01.07:356][100]Cmd: DELETE
+[2020.02.29-16.01.07:356][100]Cmd: ACTOR DELETE
+[2020.02.29-16.01.07:359][100]LogEditorActor: Deleted Actor: DirectionalLight
+[2020.02.29-16.01.07:386][100]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2020.02.29-16.01.07:387][100]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2020.02.29-16.01.15:667][593]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.02.29-16.01.31:813][548]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.29-16.01.31:831][548]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.29-16.01.31:831][548]PIE: New page: PIE session: NewMapLevelWithTerrain (Feb 29, 2020, 6:01:31 PM)
+[2020.02.29-16.01.31:831][548]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewMapLevelWithTerrain
+[2020.02.29-16.01.32:092][548]LogPlayLevel: PIE: StaticDuplicateObject took: (0.260253s)
+[2020.02.29-16.01.32:093][548]LogAIModule: Creating AISystem for world NewMapLevelWithTerrain
+[2020.02.29-16.01.32:093][548]LogPlayLevel: PIE: World Init took: (0.001105s)
+[2020.02.29-16.01.32:093][548]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewMapLevelWithTerrain.NewMapLevelWithTerrain to /Game/Maps/UEDPIE_0_NewMapLevelWithTerrain.NewMapLevelWithTerrain (0.261510s)
+[2020.02.29-16.01.32:125][548]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2020.02.29-16.01.32:126][548]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.29-16.01.32:126][548]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.29-16.01.32:126][548]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.29-16.01.32:126][548]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.29-16.01.32:126][548]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.29-16.01.32:126][548]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.29-16.01.32:126][548]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.29-16.01.32:126][548]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.29-16.01.32:127][548]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.29-16.01.32:127][548]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.29-16.01.32:138][548]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.29-16.01.32:138][548]LogAudioMixer: Display: Name: Headphones (Cirrus Logic CS8409 (AB 57))
+[2020.02.29-16.01.32:138][548]LogAudioMixer: Display: Is Default: Yes
+[2020.02.29-16.01.32:138][548]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.29-16.01.32:138][548]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.29-16.01.32:138][548]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.29-16.01.32:138][548]LogAudioMixer: Display: Channel Order:
+[2020.02.29-16.01.32:138][548]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.29-16.01.32:138][548]LogAudioMixer: Display: 1: FrontRight
+[2020.02.29-16.01.32:149][548]LogAudioMixer: Display: Using Audio Device Headphones (Cirrus Logic CS8409 (AB 57))
+[2020.02.29-16.01.32:150][548]LogInit: FAudioDevice initialized.
+[2020.02.29-16.01.32:156][548]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.02.29-16.01.32:158][548]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMapLevelWithTerrain.NewMapLevelWithTerrain up for play (max tick rate 60) at 2020.02.29-17.01.32
+[2020.02.29-16.01.32:158][548]LogWorld: Bringing up level for play took: 0.001536
+[2020.02.29-16.01.32:158][548]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2020.02.29-16.01.32:162][548]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_NewMapLevelWithTerrain 0.341
+[2020.02.29-16.01.47:978][496]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.29-16.01.47:978][496]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.29-16.01.47:978][496]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.29-16.01.47:978][496]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_NewMapLevelWithTerrain
+[2020.02.29-16.01.47:978][496]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.29-16.01.47:978][496]LogWorld: UWorld::CleanupWorld for NewMapLevelWithTerrain, bSessionEnded=true, bCleanupResources=true
+[2020.02.29-16.01.47:979][496]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.29-16.01.47:990][496]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.29-16.01.47:994][496]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.29-16.01.48:022][496]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.29-16.01.48:025][496]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.29-16.01.48:035][496]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2020.02.29-16.01.48:092][498]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2020.02.29-16.02.23:177][580]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape1)
+[2020.02.29-16.02.27:370][826]Cmd: DELETE
+[2020.02.29-16.02.27:370][826]Cmd: ACTOR DELETE
+[2020.02.29-16.02.27:373][826]LogEditorActor: Actor DirectionalLight is referenced by BP_Sky_Sphere.
+[2020.02.29-16.02.30:682][826]LogSlate: Window 'Message' being destroyed
+[2020.02.29-16.02.30:692][826]LogEditorActor: Deleted Actor: DirectionalLight
+[2020.02.29-16.02.30:726][826]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2020.02.29-16.02.30:728][826]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2020.02.29-16.02.33:101][968]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2020.02.29-16.03.27:844][232]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.29-16.03.27:863][232]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.29-16.03.27:863][232]PIE: New page: PIE session: NewMapLevelWithTerrain (Feb 29, 2020, 6:03:27 PM)
+[2020.02.29-16.03.27:863][232]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewMapLevelWithTerrain
+[2020.02.29-16.03.28:123][232]LogPlayLevel: PIE: StaticDuplicateObject took: (0.259103s)
+[2020.02.29-16.03.28:124][232]LogAIModule: Creating AISystem for world NewMapLevelWithTerrain
+[2020.02.29-16.03.28:124][232]LogPlayLevel: PIE: World Init took: (0.000994s)
+[2020.02.29-16.03.28:124][232]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewMapLevelWithTerrain.NewMapLevelWithTerrain to /Game/Maps/UEDPIE_0_NewMapLevelWithTerrain.NewMapLevelWithTerrain (0.260272s)
+[2020.02.29-16.03.28:157][232]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2020.02.29-16.03.28:159][232]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.29-16.03.28:159][232]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.29-16.03.28:159][232]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.29-16.03.28:159][232]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.29-16.03.28:159][232]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.29-16.03.28:159][232]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.29-16.03.28:159][232]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.29-16.03.28:159][232]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.29-16.03.28:159][232]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.29-16.03.28:159][232]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.29-16.03.28:172][232]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.29-16.03.28:172][232]LogAudioMixer: Display: Name: Headphones (Cirrus Logic CS8409 (AB 57))
+[2020.02.29-16.03.28:172][232]LogAudioMixer: Display: Is Default: Yes
+[2020.02.29-16.03.28:172][232]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.29-16.03.28:172][232]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.29-16.03.28:172][232]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.29-16.03.28:172][232]LogAudioMixer: Display: Channel Order:
+[2020.02.29-16.03.28:172][232]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.29-16.03.28:172][232]LogAudioMixer: Display: 1: FrontRight
+[2020.02.29-16.03.28:183][232]LogAudioMixer: Display: Using Audio Device Headphones (Cirrus Logic CS8409 (AB 57))
+[2020.02.29-16.03.28:184][232]LogInit: FAudioDevice initialized.
+[2020.02.29-16.03.28:193][232]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.02.29-16.03.28:195][232]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMapLevelWithTerrain.NewMapLevelWithTerrain up for play (max tick rate 60) at 2020.02.29-17.03.28
+[2020.02.29-16.03.28:195][232]LogWorld: Bringing up level for play took: 0.001601
+[2020.02.29-16.03.28:195][232]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2020.02.29-16.03.28:199][232]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_NewMapLevelWithTerrain 0.378
+[2020.02.29-16.03.37:226][773]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.29-16.03.37:229][773]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.02.29-16.03.37:248][773]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.02.29-16.03.37:249][773]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.29-16.03.37:249][773]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_NewMapLevelWithTerrain
+[2020.02.29-16.03.37:249][773]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.29-16.03.37:249][773]LogWorld: UWorld::CleanupWorld for NewMapLevelWithTerrain, bSessionEnded=true, bCleanupResources=true
+[2020.02.29-16.03.37:249][773]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.29-16.03.37:255][773]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.29-16.03.37:258][773]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.29-16.03.37:287][773]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.29-16.03.37:290][773]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.29-16.03.37:300][773]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2020.02.29-16.03.37:357][775]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2020.02.29-16.03.58:404][ 28]Cmd: DELETE
+[2020.02.29-16.03.58:404][ 28]Cmd: ACTOR DELETE
+[2020.02.29-16.03.58:406][ 28]LogEditorActor: Actor DirectionalLight is referenced by BP_Sky_Sphere.
+[2020.02.29-16.03.59:793][ 28]LogSlate: Window 'Message' being destroyed
+[2020.02.29-16.03.59:807][ 28]LogEditorActor: Deleted Actor: DirectionalLight
+[2020.02.29-16.03.59:835][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2020.02.29-16.03.59:837][ 28]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2020.02.29-16.04.01:466][123]Cmd: DELETE
+[2020.02.29-16.04.01:466][123]Cmd: ACTOR DELETE
+[2020.02.29-16.04.01:468][123]LogEditorActor: Deleted Actor: BP_Sky_Sphere_C
+[2020.02.29-16.04.01:494][123]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2020.02.29-16.04.01:494][123]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2020.02.29-16.04.32:175][952]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2020.02.29-16.04.32:176][952]LogMaterial: Warning: /Engine/Transient.Material_0 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.02.29-16.04.32:176][952]LogMaterial: Display: 	SceneTexture expressions cannot be used in opaque materials
+[2020.02.29-16.04.40:050][414]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2020.02.29-16.04.40:189][414]LogSavePackage: Moving '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Saved/NewMapLevelWithTerrainDAC2AF2D46AE62EBCF739A89A0E97EBE.tmp' to '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Content/Maps/NewMapLevelWithTerrain.umap'
+[2020.02.29-16.04.40:287][414]LogSavePackage: Moving '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Saved/NewMapLevelWithTerrain_BuiltData20C9267E410CE4C60BE101B624BE3156.tmp' to '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Content/Maps/NewMapLevelWithTerrain_BuiltData.uasset'
+[2020.02.29-16.04.40:307][414]AssetCheck: New page: Asset Save: multiple assets
+[2020.02.29-16.04.40:307][414]LogContentValidation: Display: Validating World /Game/Maps/NewMapLevelWithTerrain.NewMapLevelWithTerrain
+[2020.02.29-16.04.40:307][414]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/NewMapLevelWithTerrain_BuiltData.NewMapLevelWithTerrain_BuiltData
+[2020.02.29-16.05.38:068][844]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2020.02.29-16.05.38:215][844]LogSavePackage: Moving '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Saved/NewMapLevelWithTerrainF1966B674A4D4BCE1BB5BCA7BFEDFA29.tmp' to '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Content/Maps/NewMapLevelWithTerrain.umap'
+[2020.02.29-16.05.38:323][844]LogSavePackage: Moving '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Saved/NewMapLevelWithTerrain_BuiltDataEDEE36464A05E1F3B03F5683AF0B1831.tmp' to '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Content/Maps/NewMapLevelWithTerrain_BuiltData.uasset'
+[2020.02.29-16.05.38:339][844]AssetCheck: New page: Asset Save: multiple assets
+[2020.02.29-16.05.38:339][844]LogContentValidation: Display: Validating World /Game/Maps/NewMapLevelWithTerrain.NewMapLevelWithTerrain
+[2020.02.29-16.05.38:339][844]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/NewMapLevelWithTerrain_BuiltData.NewMapLevelWithTerrain_BuiltData
+[2020.02.29-16.06.19:999][169]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2020.02.29-16.06.20:139][169]LogSavePackage: Moving '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Saved/NewMapLevelWithTerrainF2CCCAA34ACE5CF310A39B94CDFDC740.tmp' to '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Content/Maps/NewMapLevelWithTerrain.umap'
+[2020.02.29-16.06.20:240][169]LogSavePackage: Moving '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Saved/NewMapLevelWithTerrain_BuiltDataF6C2DF0C453CB07582BF62B84BA2E731.tmp' to '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Content/Maps/NewMapLevelWithTerrain_BuiltData.uasset'
+[2020.02.29-16.06.20:257][169]AssetCheck: New page: Asset Save: multiple assets
+[2020.02.29-16.06.20:257][169]LogContentValidation: Display: Validating World /Game/Maps/NewMapLevelWithTerrain.NewMapLevelWithTerrain
+[2020.02.29-16.06.20:257][169]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/NewMapLevelWithTerrain_BuiltData.NewMapLevelWithTerrain_BuiltData
+[2020.02.29-16.06.43:675][551]MapCheck: New page: Map Check
+[2020.02.29-16.06.43:697][551]Cmd: MAP REBUILD ALLVISIBLE
+[2020.02.29-16.06.43:697][551]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.02.29-16.06.43:699][551]LogWorld: UWorld::CleanupWorld for NewMapLevelWithTerrain, bSessionEnded=true, bCleanupResources=false
+[2020.02.29-16.06.43:748][551]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2020.02.29-16.06.43:759][551]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.29-16.06.43:774][551]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.02.29-16.06.43:774][551]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.02.29-16.06.43:774][551]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.29-16.06.43:792][551]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.02.29-16.06.43:792][551]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.02.29-16.06.43:792][551]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.29-16.06.44:396][551]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.02.29-16.06.44:396][551]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.02.29-16.06.44:396][551]TextureStreamingBuild: Display: Compiling optional shaders took 0.646 seconds.
+[2020.02.29-16.06.44:403][551]LogLevel: Display: Export Material TexCoord Scales took 0.007 seconds.
+[2020.02.29-16.06.44:406][551]TextureStreamingBuild: Display: Build Texture Streaming took 0.003 seconds.
+[2020.02.29-16.06.44:431][551]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.02.29-16.06.44:434][551]LightingResults: New page: Lighting Build - Feb 29, 2020, 6:06:44 PM
+[2020.02.29-16.06.44:443][551]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.02.29-16.06.44:445][551]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.02.29-16.06.44:445][551]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.02.29-16.06.44:446][551]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.02.29-16.06.44:446][551]LogSwarmInterface: [TryOpenConnection] Local Process ID is 820
+[2020.02.29-16.06.48:954][551]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2020.02.29-16.06.48:954][551]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.02.29-16.06.48:954][551]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.02.29-16.06.48:954][551]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.02.29-16.06.48:954][551]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.02.29-16.06.48:954][551]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.02.29-16.06.49:065][551]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2020.02.29-16.06.49:065][551]MapCheck: New page: NewMapLevelWithTerrain - Feb 29, 2020, 6:06:49 PM
+[2020.02.29-16.06.49:066][551]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2020.02.29-16.06.49:066][551]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 0.396ms to complete.
+[2020.02.29-16.06.49:067][551]LogEditorBuildUtils: Build time 0:05
+[2020.02.29-16.06.49:543][555]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2020.02.29-16.06.54:271][806]Job is a success!
+[2020.02.29-16.06.54:537][807]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.097s
+[2020.02.29-16.06.54:537][807]LogVolumetricLightmapImport:      Indirection Texture 32x32x16 = 0.1Mb
+[2020.02.29-16.06.54:537][807]LogVolumetricLightmapImport:      BrickData (all levels) 2.3Mb (trimmed 0.1Mb due to 0.010000 MinBrickError)
+[2020.02.29-16.06.54:537][807]LogVolumetricLightmapImport:      Bricks at depth
+[2020.02.29-16.06.54:537][807]LogVolumetricLightmapImport:          0: 1.0% covering 100.0% of volume
+[2020.02.29-16.06.54:537][807]LogVolumetricLightmapImport:          1: 7.1% covering 11.3% of volume
+[2020.02.29-16.06.54:537][807]LogVolumetricLightmapImport:          2: 92.0% covering 2.3% of volume
+[2020.02.29-16.06.54:537][807]LogVolumetricLightmapImport:      Bricks in each level
+[2020.02.29-16.06.54:537][807]LogVolumetricLightmapImport:          NewMapLevelWithTerrain 			 410 bricks 	 100.0% (Persistent Level)
+[2020.02.29-16.06.54:760][807]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 512X512)
+[2020.02.29-16.06.54:760][807]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 512X512)
+[2020.02.29-16.06.54:760][807]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2020.02.29-16.06.54:760][807]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2020.02.29-16.06.54:810][807]LogTexture: Display: Building textures: ShadowMapTexture2D_16 (G8, 32X32)
+[2020.02.29-16.06.54:810][807]LogTexture: Display: Building textures: ShadowMapTexture2D_15 (G8, 1024X64)
+[2020.02.29-16.06.54:811][807]LogStaticLightingSystem: NewMapLevelWithTerrain_BuiltData storing lightmap data for 66 meshes in 3 LightmapResourceClusters (22.0 Meshes per cluster).
+[2020.02.29-16.06.54:842][807]Lightmass on DESKTOP-PTE761A: 4.73 sec total, 292 ms importing, 60 ms setup, 817 ms photons, 3.54 sec processing, 0 ms extra exporting [66/66 mappings]. Threads: 24.8 sec total, 5.38 sec processing.
+[2020.02.29-16.06.54:844][807]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2020.02.29-16.06.54:877][807]LogStaticLightingSystem: Illumination: 10.3 sec (221 ms encoding lightmaps, 17 ms encoding shadowmaps)
+[2020.02.29-16.06.54:877][807]LogStaticLightingSystem: Lightmap texture memory:  0.5 MB (0.5 MB streaming, 0.0 MB non-streaming), 4 textures
+[2020.02.29-16.06.54:877][807]LogStaticLightingSystem: Shadowmap texture memory: 0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 2 textures
+[2020.02.29-16.06.54:959][807]DumpUnbuiltLightIteractions
+[2020.02.29-16.06.54:959][807]Lights with unbuilt interactions: 0
+[2020.02.29-16.06.54:959][807]
+[2020.02.29-16.06.54:959][807]Primitives with unbuilt interactions: 0
+[2020.02.29-16.06.55:047][808]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.02.29-16.06.55:047][808]MapCheck: New page: NewMapLevelWithTerrain - Feb 29, 2020, 6:06:55 PM
+[2020.02.29-16.06.55:048][808]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.466ms to complete.
+[2020.02.29-16.06.59:771][ 91]LogSlate: Window 'Message Log' being destroyed
+[2020.02.29-16.06.59:783][ 91]LogSlate: Window 'Message Log' being destroyed
+[2020.02.29-16.07.20:014][301]MapCheck: New page: Map Check
+[2020.02.29-16.07.20:034][301]Cmd: MAP REBUILD ALLVISIBLE
+[2020.02.29-16.07.20:035][301]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.02.29-16.07.20:037][301]LogWorld: UWorld::CleanupWorld for NewMapLevelWithTerrain, bSessionEnded=true, bCleanupResources=false
+[2020.02.29-16.07.20:084][301]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2020.02.29-16.07.20:094][301]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.29-16.07.20:110][301]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.29-16.07.20:125][301]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.02.29-16.07.20:125][301]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.02.29-16.07.20:125][301]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.29-16.07.20:727][301]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.02.29-16.07.20:727][301]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.02.29-16.07.20:727][301]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.02.29-16.07.20:727][301]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.02.29-16.07.20:727][301]TextureStreamingBuild: Display: Compiling optional shaders took 0.643 seconds.
+[2020.02.29-16.07.20:733][301]LogLevel: Display: Export Material TexCoord Scales took 0.006 seconds.
+[2020.02.29-16.07.20:736][301]TextureStreamingBuild: Display: Build Texture Streaming took 0.003 seconds.
+[2020.02.29-16.07.20:765][301]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.02.29-16.07.20:767][301]LightingResults: New page: Lighting Build - Feb 29, 2020, 6:07:20 PM
+[2020.02.29-16.07.20:776][301]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.02.29-16.07.20:778][301]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.02.29-16.07.20:779][301]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.02.29-16.07.20:779][301]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.02.29-16.07.20:779][301]LogSwarmInterface: [TryOpenConnection] Local Process ID is 820
+[2020.02.29-16.07.25:299][301]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2020.02.29-16.07.25:299][301]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.02.29-16.07.25:299][301]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.02.29-16.07.25:299][301]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.02.29-16.07.25:299][301]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.02.29-16.07.25:299][301]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.02.29-16.07.25:361][301]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2020.02.29-16.07.25:361][301]MapCheck: New page: NewMapLevelWithTerrain - Feb 29, 2020, 6:07:25 PM
+[2020.02.29-16.07.25:361][301]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2020.02.29-16.07.25:361][301]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 0.398ms to complete.
+[2020.02.29-16.07.25:363][301]LogEditorBuildUtils: Build time 0:05
+[2020.02.29-16.07.25:826][305]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2020.02.29-16.07.30:504][552]Job is a success!
+[2020.02.29-16.07.30:769][553]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.097s
+[2020.02.29-16.07.30:769][553]LogVolumetricLightmapImport:      Indirection Texture 32x32x16 = 0.1Mb
+[2020.02.29-16.07.30:769][553]LogVolumetricLightmapImport:      BrickData (all levels) 2.3Mb (trimmed 0.1Mb due to 0.010000 MinBrickError)
+[2020.02.29-16.07.30:769][553]LogVolumetricLightmapImport:      Bricks at depth
+[2020.02.29-16.07.30:769][553]LogVolumetricLightmapImport:          0: 1.0% covering 100.0% of volume
+[2020.02.29-16.07.30:769][553]LogVolumetricLightmapImport:          1: 7.1% covering 11.3% of volume
+[2020.02.29-16.07.30:769][553]LogVolumetricLightmapImport:          2: 91.9% covering 2.3% of volume
+[2020.02.29-16.07.30:769][553]LogVolumetricLightmapImport:      Bricks in each level
+[2020.02.29-16.07.30:769][553]LogVolumetricLightmapImport:          NewMapLevelWithTerrain 			 409 bricks 	 100.0% (Persistent Level)
+[2020.02.29-16.07.30:977][553]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 512X512)
+[2020.02.29-16.07.30:977][553]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 512X512)
+[2020.02.29-16.07.30:977][553]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2020.02.29-16.07.30:977][553]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2020.02.29-16.07.31:025][553]LogTexture: Display: Building textures: ShadowMapTexture2D_18 (G8, 32X32)
+[2020.02.29-16.07.31:025][553]LogTexture: Display: Building textures: ShadowMapTexture2D_17 (G8, 1024X64)
+[2020.02.29-16.07.31:025][553]LogStaticLightingSystem: NewMapLevelWithTerrain_BuiltData storing lightmap data for 66 meshes in 3 LightmapResourceClusters (22.0 Meshes per cluster).
+[2020.02.29-16.07.31:057][553]Lightmass on DESKTOP-PTE761A: 4.67 sec total, 288 ms importing, 60 ms setup, 815 ms photons, 3.47 sec processing, 0 ms extra exporting [66/66 mappings]. Threads: 24.3 sec total, 5.58 sec processing.
+[2020.02.29-16.07.31:059][553]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2020.02.29-16.07.31:092][553]LogStaticLightingSystem: Illumination: 10.2 sec (205 ms encoding lightmaps, 17 ms encoding shadowmaps)
+[2020.02.29-16.07.31:092][553]LogStaticLightingSystem: Lightmap texture memory:  0.5 MB (0.5 MB streaming, 0.0 MB non-streaming), 4 textures
+[2020.02.29-16.07.31:092][553]LogStaticLightingSystem: Shadowmap texture memory: 0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 2 textures
+[2020.02.29-16.07.31:306][553]DumpUnbuiltLightIteractions
+[2020.02.29-16.07.31:306][553]Lights with unbuilt interactions: 0
+[2020.02.29-16.07.31:306][553]
+[2020.02.29-16.07.31:306][553]Primitives with unbuilt interactions: 0
+[2020.02.29-16.07.31:391][554]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.02.29-16.07.31:391][554]MapCheck: New page: NewMapLevelWithTerrain - Feb 29, 2020, 6:07:31 PM
+[2020.02.29-16.07.31:392][554]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.484ms to complete.
+[2020.02.29-16.07.35:837][819]LogSlate: Window 'Message Log' being destroyed
+[2020.02.29-16.07.35:850][819]LogSlate: Window 'Message Log' being destroyed
+[2020.02.29-16.07.38:359][970]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.29-16.07.38:376][970]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.29-16.07.38:377][970]PIE: New page: PIE session: NewMapLevelWithTerrain (Feb 29, 2020, 6:07:38 PM)
+[2020.02.29-16.07.38:377][970]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewMapLevelWithTerrain
+[2020.02.29-16.07.38:643][970]LogPlayLevel: PIE: StaticDuplicateObject took: (0.267312s)
+[2020.02.29-16.07.38:645][970]LogAIModule: Creating AISystem for world NewMapLevelWithTerrain
+[2020.02.29-16.07.38:646][970]LogPlayLevel: PIE: World Init took: (0.001089s)
+[2020.02.29-16.07.38:646][970]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewMapLevelWithTerrain.NewMapLevelWithTerrain to /Game/Maps/UEDPIE_0_NewMapLevelWithTerrain.NewMapLevelWithTerrain (0.268558s)
+[2020.02.29-16.07.38:672][970]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2020.02.29-16.07.38:673][970]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.29-16.07.38:673][970]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.29-16.07.38:673][970]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.29-16.07.38:673][970]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.29-16.07.38:673][970]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.29-16.07.38:673][970]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.29-16.07.38:673][970]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.29-16.07.38:673][970]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.29-16.07.38:674][970]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.29-16.07.38:674][970]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.29-16.07.38:687][970]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.29-16.07.38:687][970]LogAudioMixer: Display: Name: Headphones (Cirrus Logic CS8409 (AB 57))
+[2020.02.29-16.07.38:687][970]LogAudioMixer: Display: Is Default: Yes
+[2020.02.29-16.07.38:687][970]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.29-16.07.38:687][970]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.29-16.07.38:687][970]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.29-16.07.38:687][970]LogAudioMixer: Display: Channel Order:
+[2020.02.29-16.07.38:687][970]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.29-16.07.38:687][970]LogAudioMixer: Display: 1: FrontRight
+[2020.02.29-16.07.38:697][970]LogAudioMixer: Display: Using Audio Device Headphones (Cirrus Logic CS8409 (AB 57))
+[2020.02.29-16.07.38:699][970]LogInit: FAudioDevice initialized.
+[2020.02.29-16.07.38:706][970]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.02.29-16.07.38:708][970]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMapLevelWithTerrain.NewMapLevelWithTerrain up for play (max tick rate 60) at 2020.02.29-17.07.38
+[2020.02.29-16.07.38:709][970]LogWorld: Bringing up level for play took: 0.001671
+[2020.02.29-16.07.38:709][970]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2020.02.29-16.07.38:713][970]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_NewMapLevelWithTerrain 0.892
+[2020.02.29-16.08.17:256][281]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.29-16.08.17:279][281]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.02.29-16.08.17:298][281]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.02.29-16.08.17:299][281]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.29-16.08.17:299][281]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_NewMapLevelWithTerrain
+[2020.02.29-16.08.17:299][281]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.29-16.08.17:299][281]LogWorld: UWorld::CleanupWorld for NewMapLevelWithTerrain, bSessionEnded=true, bCleanupResources=true
+[2020.02.29-16.08.17:299][281]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.29-16.08.17:312][281]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.29-16.08.17:316][281]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.29-16.08.17:343][281]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.29-16.08.17:346][281]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.29-16.08.17:356][281]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2020.02.29-16.08.17:377][282]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2020.02.29-16.08.47:034][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2020.02.29-16.08.47:172][ 52]LogSavePackage: Moving '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Saved/NewMapLevelWithTerrain6B4083F74D922DB13093E8BA528AF967.tmp' to '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Content/Maps/NewMapLevelWithTerrain.umap'
+[2020.02.29-16.08.47:260][ 52]LogSavePackage: Moving '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Saved/NewMapLevelWithTerrain_BuiltDataB32BF44C44E68905BB940DAF670F8BBB.tmp' to '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Content/Maps/NewMapLevelWithTerrain_BuiltData.uasset'
+[2020.02.29-16.08.47:280][ 52]AssetCheck: New page: Asset Save: multiple assets
+[2020.02.29-16.08.47:280][ 52]LogContentValidation: Display: Validating World /Game/Maps/NewMapLevelWithTerrain.NewMapLevelWithTerrain
+[2020.02.29-16.08.47:280][ 52]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/NewMapLevelWithTerrain_BuiltData.NewMapLevelWithTerrain_BuiltData
+[2020.02.29-16.08.56:307][589]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.02.29-16.08.56:452][589]LogSavePackage: Moving '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Saved/NewMapLevelWithTerrain5353D44D4BDF347777BC2390D0B318EB.tmp' to '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Content/Maps/NewMapLevelWithTerrain.umap'
+[2020.02.29-16.08.56:537][589]LogSavePackage: Moving '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Saved/NewMapLevelWithTerrain_BuiltData7BAF30FA4B8E7FAFBBF362BE0C2CE2DB.tmp' to '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Content/Maps/NewMapLevelWithTerrain_BuiltData.uasset'
+[2020.02.29-16.08.56:554][589]AssetCheck: New page: Asset Save: multiple assets
+[2020.02.29-16.08.56:554][589]LogContentValidation: Display: Validating World /Game/Maps/NewMapLevelWithTerrain.NewMapLevelWithTerrain
+[2020.02.29-16.08.56:555][589]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/NewMapLevelWithTerrain_BuiltData.NewMapLevelWithTerrain_BuiltData
+[2020.02.29-16.09.09:088][328]MapCheck: New page: Map Check
+[2020.02.29-16.09.09:103][328]Cmd: MAP REBUILD ALLVISIBLE
+[2020.02.29-16.09.09:103][328]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.02.29-16.09.09:106][328]LogWorld: UWorld::CleanupWorld for NewMapLevelWithTerrain, bSessionEnded=true, bCleanupResources=false
+[2020.02.29-16.09.09:152][328]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2020.02.29-16.09.09:163][328]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.29-16.09.09:178][328]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.02.29-16.09.09:178][328]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.02.29-16.09.09:178][328]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.29-16.09.09:196][328]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.02.29-16.09.09:196][328]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.02.29-16.09.09:196][328]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.29-16.09.09:799][328]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.02.29-16.09.09:799][328]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.02.29-16.09.09:799][328]TextureStreamingBuild: Display: Compiling optional shaders took 0.646 seconds.
+[2020.02.29-16.09.09:805][328]LogLevel: Display: Export Material TexCoord Scales took 0.006 seconds.
+[2020.02.29-16.09.09:808][328]TextureStreamingBuild: Display: Build Texture Streaming took 0.003 seconds.
+[2020.02.29-16.09.09:834][328]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2020.02.29-16.09.09:837][328]LightingResults: New page: Lighting Build - Feb 29, 2020, 6:09:09 PM
+[2020.02.29-16.09.09:846][328]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.02.29-16.09.09:849][328]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.02.29-16.09.09:849][328]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.02.29-16.09.09:850][328]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.02.29-16.09.09:850][328]LogSwarmInterface: [TryOpenConnection] Local Process ID is 820
+[2020.02.29-16.09.14:365][328]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2020.02.29-16.09.14:366][328]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.02.29-16.09.14:366][328]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.02.29-16.09.14:366][328]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.02.29-16.09.14:366][328]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.02.29-16.09.14:366][328]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.02.29-16.09.14:470][328]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2020.02.29-16.09.14:470][328]MapCheck: New page: NewMapLevelWithTerrain - Feb 29, 2020, 6:09:14 PM
+[2020.02.29-16.09.14:470][328]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2020.02.29-16.09.14:470][328]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 0.386ms to complete.
+[2020.02.29-16.09.14:472][328]LogEditorBuildUtils: Build time 0:05
+[2020.02.29-16.09.14:980][332]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2020.02.29-16.09.19:665][581]Job is a success!
+[2020.02.29-16.09.19:933][582]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.096s
+[2020.02.29-16.09.19:933][582]LogVolumetricLightmapImport:      Indirection Texture 32x32x16 = 0.1Mb
+[2020.02.29-16.09.19:933][582]LogVolumetricLightmapImport:      BrickData (all levels) 2.3Mb (trimmed 0.1Mb due to 0.010000 MinBrickError)
+[2020.02.29-16.09.19:933][582]LogVolumetricLightmapImport:      Bricks at depth
+[2020.02.29-16.09.19:933][582]LogVolumetricLightmapImport:          0: 1.0% covering 100.0% of volume
+[2020.02.29-16.09.19:933][582]LogVolumetricLightmapImport:          1: 7.1% covering 11.3% of volume
+[2020.02.29-16.09.19:933][582]LogVolumetricLightmapImport:          2: 91.9% covering 2.3% of volume
+[2020.02.29-16.09.19:933][582]LogVolumetricLightmapImport:      Bricks in each level
+[2020.02.29-16.09.19:933][582]LogVolumetricLightmapImport:          NewMapLevelWithTerrain 			 407 bricks 	 100.0% (Persistent Level)
+[2020.02.29-16.09.20:159][582]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 512X512)
+[2020.02.29-16.09.20:159][582]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 512X512)
+[2020.02.29-16.09.20:159][582]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2020.02.29-16.09.20:159][582]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2020.02.29-16.09.20:203][582]LogTexture: Display: Building textures: ShadowMapTexture2D_20 (G8, 32X32)
+[2020.02.29-16.09.20:203][582]LogTexture: Display: Building textures: ShadowMapTexture2D_19 (G8, 1024X64)
+[2020.02.29-16.09.20:204][582]LogStaticLightingSystem: NewMapLevelWithTerrain_BuiltData storing lightmap data for 66 meshes in 3 LightmapResourceClusters (22.0 Meshes per cluster).
+[2020.02.29-16.09.20:237][582]Lightmass on DESKTOP-PTE761A: 4.67 sec total, 283 ms importing, 68 ms setup, 799 ms photons, 3.49 sec processing, 0 ms extra exporting [66/66 mappings]. Threads: 24.4 sec total, 5.65 sec processing.
+[2020.02.29-16.09.20:239][582]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2020.02.29-16.09.20:274][582]LogStaticLightingSystem: Illumination: 10.3 sec (223 ms encoding lightmaps, 13 ms encoding shadowmaps)
+[2020.02.29-16.09.20:274][582]LogStaticLightingSystem: Lightmap texture memory:  0.5 MB (0.5 MB streaming, 0.0 MB non-streaming), 4 textures
+[2020.02.29-16.09.20:274][582]LogStaticLightingSystem: Shadowmap texture memory: 0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 2 textures
+[2020.02.29-16.09.20:373][582]DumpUnbuiltLightIteractions
+[2020.02.29-16.09.20:373][582]Lights with unbuilt interactions: 0
+[2020.02.29-16.09.20:373][582]
+[2020.02.29-16.09.20:373][582]Primitives with unbuilt interactions: 0
+[2020.02.29-16.09.20:461][583]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.02.29-16.09.20:462][583]MapCheck: New page: NewMapLevelWithTerrain - Feb 29, 2020, 6:09:20 PM
+[2020.02.29-16.09.20:462][583]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.563ms to complete.
+[2020.02.29-16.09.30:594][188]LogSlate: Window 'Message Log' being destroyed
+[2020.02.29-16.09.30:606][188]LogSlate: Window 'Message Log' being destroyed
+[2020.02.29-16.16.40:977][984]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.29-16.16.40:996][984]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.29-16.16.40:996][984]PIE: New page: PIE session: NewMapLevelWithTerrain (Feb 29, 2020, 6:16:40 PM)
+[2020.02.29-16.16.40:996][984]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewMapLevelWithTerrain
+[2020.02.29-16.16.41:303][984]LogPlayLevel: PIE: StaticDuplicateObject took: (0.306361s)
+[2020.02.29-16.16.41:304][984]LogAIModule: Creating AISystem for world NewMapLevelWithTerrain
+[2020.02.29-16.16.41:304][984]LogPlayLevel: PIE: World Init took: (0.001165s)
+[2020.02.29-16.16.41:304][984]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewMapLevelWithTerrain.NewMapLevelWithTerrain to /Game/Maps/UEDPIE_0_NewMapLevelWithTerrain.NewMapLevelWithTerrain (0.307687s)
+[2020.02.29-16.16.41:336][984]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2020.02.29-16.16.41:338][984]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.29-16.16.41:338][984]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.29-16.16.41:338][984]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.29-16.16.41:338][984]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.29-16.16.41:338][984]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.29-16.16.41:338][984]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.29-16.16.41:338][984]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.29-16.16.41:338][984]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.29-16.16.41:338][984]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.29-16.16.41:338][984]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.29-16.16.41:358][984]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.29-16.16.41:358][984]LogAudioMixer: Display: Name: Headphones (Cirrus Logic CS8409 (AB 57))
+[2020.02.29-16.16.41:358][984]LogAudioMixer: Display: Is Default: Yes
+[2020.02.29-16.16.41:358][984]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.29-16.16.41:358][984]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.29-16.16.41:358][984]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.29-16.16.41:358][984]LogAudioMixer: Display: Channel Order:
+[2020.02.29-16.16.41:358][984]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.29-16.16.41:358][984]LogAudioMixer: Display: 1: FrontRight
+[2020.02.29-16.16.41:368][984]LogAudioMixer: Display: Using Audio Device Headphones (Cirrus Logic CS8409 (AB 57))
+[2020.02.29-16.16.41:370][984]LogInit: FAudioDevice initialized.
+[2020.02.29-16.16.41:380][984]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.02.29-16.16.41:382][984]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMapLevelWithTerrain.NewMapLevelWithTerrain up for play (max tick rate 60) at 2020.02.29-17.16.41
+[2020.02.29-16.16.41:382][984]LogWorld: Bringing up level for play took: 0.001586
+[2020.02.29-16.16.41:382][984]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2020.02.29-16.16.41:386][984]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_NewMapLevelWithTerrain -0.434
+[2020.02.29-16.16.50:094][506]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.29-16.16.50:094][506]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.29-16.16.50:094][506]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.29-16.16.50:094][506]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_NewMapLevelWithTerrain
+[2020.02.29-16.16.50:094][506]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.29-16.16.50:094][506]LogWorld: UWorld::CleanupWorld for NewMapLevelWithTerrain, bSessionEnded=true, bCleanupResources=true
+[2020.02.29-16.16.50:095][506]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.29-16.16.50:106][506]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.29-16.16.50:110][506]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.29-16.16.50:137][506]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.29-16.16.50:140][506]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.29-16.16.50:150][506]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2020.02.29-16.16.50:206][508]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2020.02.29-16.19.06:600][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2020.02.29-16.19.06:759][ 12]LogSavePackage: Moving '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Saved/NewMapLevelWithTerrain_Auto391C6FCCF4F6955CCF2D882ADFA303C43.tmp' to '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Saved/Autosaves/Game/Maps/NewMapLevelWithTerrain_Auto3.umap'
+[2020.02.29-16.19.06:763][ 12]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/NewMapLevelWithTerrain' took 0.189
+[2020.02.29-16.19.06:764][ 12]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.189
+[2020.02.29-16.19.22:323][ 59]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{b7ff0674-8e02-40a7-bb07-ea62f9418d6d}.
+[2020.02.29-16.19.22:323][ 59]LogTemp: Resetting audio stream to device id 
+[2020.02.29-16.19.22:346][ 59]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.29-16.19.22:346][ 59]LogAudioMixer: Display: Name: Speakers (Cirrus Logic CS8409 (AB 57))
+[2020.02.29-16.19.22:346][ 59]LogAudioMixer: Display: Is Default: Yes
+[2020.02.29-16.19.22:346][ 59]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.29-16.19.22:346][ 59]LogAudioMixer: Display: Channel Count Used: 4
+[2020.02.29-16.19.22:346][ 59]LogAudioMixer: Display: Device Channel Count: 4
+[2020.02.29-16.19.22:346][ 59]LogAudioMixer: Display: Channel Order:
+[2020.02.29-16.19.22:346][ 59]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.29-16.19.22:346][ 59]LogAudioMixer: Display: 1: FrontRight
+[2020.02.29-16.19.22:346][ 59]LogAudioMixer: Display: 2: BackLeft
+[2020.02.29-16.19.22:346][ 59]LogAudioMixer: Display: 3: BackRight
+[2020.02.29-16.26.30:433][340]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{38e7418d-430c-4b75-b028-033dd759d70a}.
+[2020.02.29-16.26.30:433][340]LogTemp: Resetting audio stream to device id 
+[2020.02.29-16.26.30:463][340]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.29-16.26.30:463][340]LogAudioMixer: Display: Name: Headphones (Cirrus Logic CS8409 (AB 57))
+[2020.02.29-16.26.30:463][340]LogAudioMixer: Display: Is Default: Yes
+[2020.02.29-16.26.30:463][340]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.29-16.26.30:463][340]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.29-16.26.30:463][340]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.29-16.26.30:463][340]LogAudioMixer: Display: Channel Order:
+[2020.02.29-16.26.30:463][340]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.29-16.26.30:463][340]LogAudioMixer: Display: 1: FrontRight
+[2020.02.29-16.26.30:731][341]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{38e7418d-430c-4b75-b028-033dd759d70a}.
+[2020.02.29-16.26.30:731][341]LogTemp: Resetting audio stream to device id 
+[2020.02.29-16.26.30:805][341]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.29-16.26.30:805][341]LogAudioMixer: Display: Name: Headphones (Cirrus Logic CS8409 (AB 57))
+[2020.02.29-16.26.30:805][341]LogAudioMixer: Display: Is Default: Yes
+[2020.02.29-16.26.30:805][341]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.29-16.26.30:805][341]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.29-16.26.30:805][341]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.29-16.26.30:805][341]LogAudioMixer: Display: Channel Order:
+[2020.02.29-16.26.30:805][341]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.29-16.26.30:805][341]LogAudioMixer: Display: 1: FrontRight
+[2020.02.29-16.28.18:222][589]LogSlate: Window 'Color Picker' being destroyed
+[2020.02.29-16.28.54:812][242]LogSlate: Window 'Color Picker' being destroyed
+[2020.02.29-16.29.52:932][688]LogSlate: Window 'Color Picker' being destroyed
+[2020.02.29-16.30.08:383][614]Cmd: TRANSACTION UNDO
+[2020.02.29-16.30.08:383][614]LogEditorTransaction: Undo Edit Horizon Color
+[2020.02.29-16.30.08:751][624]Cmd: TRANSACTION UNDO
+[2020.02.29-16.30.08:751][624]LogEditorTransaction: Undo Edit Horizon Color
+[2020.02.29-16.30.09:033][635]Cmd: TRANSACTION UNDO
+[2020.02.29-16.30.09:033][635]LogEditorTransaction: Undo Edit Horizon Color
+[2020.02.29-16.30.09:270][649]Cmd: TRANSACTION UNDO
+[2020.02.29-16.30.09:270][649]LogEditorTransaction: Undo Edit Horizon Color
+[2020.02.29-16.30.09:758][678]Cmd: TRANSACTION UNDO
+[2020.02.29-16.30.09:759][678]LogEditorTransaction: Undo Edit Horizon Color
+[2020.02.29-16.30.10:162][702]Cmd: TRANSACTION UNDO
+[2020.02.29-16.30.10:162][702]LogEditorTransaction: Undo Edit Horizon Color
+[2020.02.29-16.30.10:618][729]Cmd: TRANSACTION UNDO
+[2020.02.29-16.30.10:618][729]LogEditorTransaction: Undo Edit Horizon Color
+[2020.02.29-16.30.11:055][755]Cmd: TRANSACTION UNDO
+[2020.02.29-16.30.11:055][755]LogEditorTransaction: Undo Edit Horizon Color
+[2020.02.29-16.30.39:265][438]Cmd: TRANSACTION UNDO
+[2020.02.29-16.30.39:265][438]LogEditorTransaction: Undo Edit Horizon Color
+[2020.02.29-16.30.40:404][486]Cmd: TRANSACTION UNDO
+[2020.02.29-16.30.40:404][486]LogEditorTransaction: Undo Edit Horizon Color
+[2020.02.29-16.30.41:312][540]Cmd: TRANSACTION UNDO
+[2020.02.29-16.30.41:312][540]LogEditorTransaction: Undo Edit Zenith Color
+[2020.02.29-16.30.42:606][617]Cmd: TRANSACTION UNDO
+[2020.02.29-16.30.42:606][617]LogEditorTransaction: Undo Clicking on Actors
+[2020.02.29-16.30.45:029][761]LogSlate: Window 'Color Picker' being destroyed
+[2020.02.29-16.31.30:746][487]LogSlate: Window 'Color Picker' being destroyed
+[2020.02.29-16.31.31:825][537]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2020.02.29-16.31.32:044][537]LogSavePackage: Moving '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Saved/NewMapLevelWithTerrain36401732413BC4588DB4A0BF5964D219.tmp' to '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Content/Maps/NewMapLevelWithTerrain.umap'
+[2020.02.29-16.31.32:216][537]LogSavePackage: Moving '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Saved/NewMapLevelWithTerrain_BuiltData38736BDD47E5187D979474A20B08D7C9.tmp' to '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Content/Maps/NewMapLevelWithTerrain_BuiltData.uasset'
+[2020.02.29-16.31.32:247][537]AssetCheck: New page: Asset Save: multiple assets
+[2020.02.29-16.31.32:247][537]LogContentValidation: Display: Validating World /Game/Maps/NewMapLevelWithTerrain.NewMapLevelWithTerrain
+[2020.02.29-16.31.32:247][537]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/NewMapLevelWithTerrain_BuiltData.NewMapLevelWithTerrain_BuiltData
+[2020.02.29-16.41.16:856][142]LogSlate: Window 'Color Picker' being destroyed
+[2020.02.29-16.41.38:453][424]LogSlate: Window 'Color Picker' being destroyed
+[2020.02.29-16.42.32:494][623]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2020.02.29-16.42.32:689][623]LogSavePackage: Moving '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Saved/NewMapLevelWithTerrain0122249D46AEFD25878441B38E7A889C.tmp' to '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Content/Maps/NewMapLevelWithTerrain.umap'
+[2020.02.29-16.42.32:835][623]LogSavePackage: Moving '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Saved/NewMapLevelWithTerrain_BuiltData6A5BBA4E4C24A0BA1319A48EBE46A95C.tmp' to '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Content/Maps/NewMapLevelWithTerrain_BuiltData.uasset'
+[2020.02.29-16.42.32:857][623]AssetCheck: New page: Asset Save: multiple assets
+[2020.02.29-16.42.32:857][623]LogContentValidation: Display: Validating World /Game/Maps/NewMapLevelWithTerrain.NewMapLevelWithTerrain
+[2020.02.29-16.42.32:857][623]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/NewMapLevelWithTerrain_BuiltData.NewMapLevelWithTerrain_BuiltData
+[2020.02.29-16.42.49:372][607]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2020.02.29-16.42.49:538][607]LogSavePackage: Moving '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Saved/NewMapLevelWithTerrainECDF8ED2442A18462DB6049B67B18E1C.tmp' to '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Content/Maps/NewMapLevelWithTerrain.umap'
+[2020.02.29-16.42.49:690][607]LogSavePackage: Moving '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Saved/NewMapLevelWithTerrain_BuiltDataE79EB506435DFCC04DB36EB2B20CAD1A.tmp' to '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Content/Maps/NewMapLevelWithTerrain_BuiltData.uasset'
+[2020.02.29-16.42.49:720][607]AssetCheck: New page: Asset Save: multiple assets
+[2020.02.29-16.42.49:720][607]LogContentValidation: Display: Validating World /Game/Maps/NewMapLevelWithTerrain.NewMapLevelWithTerrain
+[2020.02.29-16.42.49:720][607]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/NewMapLevelWithTerrain_BuiltData.NewMapLevelWithTerrain_BuiltData
+[2020.02.29-16.42.51:336][700]LogSlate: Window 'Color Picker' being destroyed
+[2020.02.29-16.43.44:115][812]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.29-16.43.44:135][812]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.29-16.43.44:135][812]PIE: New page: PIE session: NewMapLevelWithTerrain (Feb 29, 2020, 6:43:44 PM)
+[2020.02.29-16.43.44:135][812]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewMapLevelWithTerrain
+[2020.02.29-16.43.44:436][812]LogPlayLevel: PIE: StaticDuplicateObject took: (0.301279s)
+[2020.02.29-16.43.44:437][812]LogAIModule: Creating AISystem for world NewMapLevelWithTerrain
+[2020.02.29-16.43.44:437][812]LogPlayLevel: PIE: World Init took: (0.001148s)
+[2020.02.29-16.43.44:437][812]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewMapLevelWithTerrain.NewMapLevelWithTerrain to /Game/Maps/UEDPIE_0_NewMapLevelWithTerrain.NewMapLevelWithTerrain (0.302592s)
+[2020.02.29-16.43.44:464][812]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2020.02.29-16.43.44:466][812]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.29-16.43.44:466][812]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.29-16.43.44:466][812]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.29-16.43.44:466][812]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.29-16.43.44:466][812]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.29-16.43.44:466][812]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.29-16.43.44:466][812]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.29-16.43.44:466][812]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.29-16.43.44:466][812]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.29-16.43.44:467][812]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.29-16.43.44:480][812]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.29-16.43.44:480][812]LogAudioMixer: Display: Name: Headphones (Cirrus Logic CS8409 (AB 57))
+[2020.02.29-16.43.44:480][812]LogAudioMixer: Display: Is Default: Yes
+[2020.02.29-16.43.44:480][812]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.29-16.43.44:480][812]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.29-16.43.44:480][812]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.29-16.43.44:480][812]LogAudioMixer: Display: Channel Order:
+[2020.02.29-16.43.44:480][812]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.29-16.43.44:480][812]LogAudioMixer: Display: 1: FrontRight
+[2020.02.29-16.43.44:491][812]LogAudioMixer: Display: Using Audio Device Headphones (Cirrus Logic CS8409 (AB 57))
+[2020.02.29-16.43.44:493][812]LogInit: FAudioDevice initialized.
+[2020.02.29-16.43.44:502][812]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.02.29-16.43.44:506][812]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMapLevelWithTerrain.NewMapLevelWithTerrain up for play (max tick rate 60) at 2020.02.29-17.43.44
+[2020.02.29-16.43.44:506][812]LogWorld: Bringing up level for play took: 0.002685
+[2020.02.29-16.43.44:506][812]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2020.02.29-16.43.44:513][812]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_NewMapLevelWithTerrain 0.692
+[2020.02.29-16.44.07:853][211]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.29-16.44.07:853][211]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.29-16.44.07:853][211]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.29-16.44.07:853][211]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_NewMapLevelWithTerrain
+[2020.02.29-16.44.07:853][211]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.29-16.44.07:854][211]LogWorld: UWorld::CleanupWorld for NewMapLevelWithTerrain, bSessionEnded=true, bCleanupResources=true
+[2020.02.29-16.44.07:855][211]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.29-16.44.07:864][211]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.29-16.44.07:870][211]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.29-16.44.07:911][211]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.29-16.44.07:914][211]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.29-16.44.07:926][211]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2020.02.29-16.44.07:955][213]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2020.02.29-16.44.09:000][275]LogSlate: Window 'Color Picker' being destroyed
+[2020.02.29-16.44.24:042][159]Cmd: TRANSACTION UNDO
+[2020.02.29-16.44.24:042][159]LogEditorTransaction: Undo Rotate Actors
+[2020.02.29-16.44.24:046][159]LogSlate: Window 'Color Picker' being destroyed
+[2020.02.29-16.44.32:335][632]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.29-16.44.32:354][632]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.29-16.44.32:355][632]PIE: New page: PIE session: NewMapLevelWithTerrain (Feb 29, 2020, 6:44:32 PM)
+[2020.02.29-16.44.32:355][632]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewMapLevelWithTerrain
+[2020.02.29-16.44.32:635][632]LogPlayLevel: PIE: StaticDuplicateObject took: (0.280487s)
+[2020.02.29-16.44.32:636][632]LogAIModule: Creating AISystem for world NewMapLevelWithTerrain
+[2020.02.29-16.44.32:636][632]LogPlayLevel: PIE: World Init took: (0.000997s)
+[2020.02.29-16.44.32:636][632]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewMapLevelWithTerrain.NewMapLevelWithTerrain to /Game/Maps/UEDPIE_0_NewMapLevelWithTerrain.NewMapLevelWithTerrain (0.281638s)
+[2020.02.29-16.44.32:665][632]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2020.02.29-16.44.32:667][632]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.29-16.44.32:667][632]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.29-16.44.32:667][632]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.29-16.44.32:667][632]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.29-16.44.32:668][632]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.29-16.44.32:668][632]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.29-16.44.32:668][632]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.29-16.44.32:668][632]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.29-16.44.32:668][632]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.29-16.44.32:668][632]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.29-16.44.32:680][632]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.29-16.44.32:680][632]LogAudioMixer: Display: Name: Headphones (Cirrus Logic CS8409 (AB 57))
+[2020.02.29-16.44.32:680][632]LogAudioMixer: Display: Is Default: Yes
+[2020.02.29-16.44.32:680][632]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.29-16.44.32:680][632]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.29-16.44.32:680][632]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.29-16.44.32:680][632]LogAudioMixer: Display: Channel Order:
+[2020.02.29-16.44.32:680][632]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.29-16.44.32:680][632]LogAudioMixer: Display: 1: FrontRight
+[2020.02.29-16.44.32:690][632]LogAudioMixer: Display: Using Audio Device Headphones (Cirrus Logic CS8409 (AB 57))
+[2020.02.29-16.44.32:691][632]LogInit: FAudioDevice initialized.
+[2020.02.29-16.44.32:698][632]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.02.29-16.44.32:701][632]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMapLevelWithTerrain.NewMapLevelWithTerrain up for play (max tick rate 60) at 2020.02.29-17.44.32
+[2020.02.29-16.44.32:701][632]LogWorld: Bringing up level for play took: 0.001540
+[2020.02.29-16.44.32:701][632]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2020.02.29-16.44.32:705][632]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_NewMapLevelWithTerrain 0.884
+[2020.02.29-16.44.44:729][353]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.29-16.44.44:729][353]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.29-16.44.44:730][353]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.29-16.44.44:730][353]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_NewMapLevelWithTerrain
+[2020.02.29-16.44.44:730][353]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.29-16.44.44:730][353]LogWorld: UWorld::CleanupWorld for NewMapLevelWithTerrain, bSessionEnded=true, bCleanupResources=true
+[2020.02.29-16.44.44:731][353]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.29-16.44.44:740][353]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.29-16.44.44:745][353]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.29-16.44.44:799][353]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.29-16.44.44:805][353]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.29-16.44.44:820][353]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2020.02.29-16.44.44:851][354]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2020.02.29-16.44.57:904][123]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2020.02.29-16.44.58:643][163]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2020.02.29-16.45.03:079][418]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.29-16.45.03:098][418]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.29-16.45.03:098][418]PIE: New page: PIE session: NewMapLevelWithTerrain (Feb 29, 2020, 6:45:03 PM)
+[2020.02.29-16.45.03:098][418]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewMapLevelWithTerrain
+[2020.02.29-16.45.03:400][418]LogPlayLevel: PIE: StaticDuplicateObject took: (0.301932s)
+[2020.02.29-16.45.03:401][418]LogAIModule: Creating AISystem for world NewMapLevelWithTerrain
+[2020.02.29-16.45.03:401][418]LogPlayLevel: PIE: World Init took: (0.001044s)
+[2020.02.29-16.45.03:401][418]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewMapLevelWithTerrain.NewMapLevelWithTerrain to /Game/Maps/UEDPIE_0_NewMapLevelWithTerrain.NewMapLevelWithTerrain (0.303165s)
+[2020.02.29-16.45.03:429][418]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2020.02.29-16.45.03:431][418]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.29-16.45.03:431][418]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.29-16.45.03:431][418]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.29-16.45.03:431][418]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.29-16.45.03:431][418]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.29-16.45.03:431][418]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.29-16.45.03:431][418]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.29-16.45.03:431][418]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.29-16.45.03:432][418]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.29-16.45.03:432][418]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.29-16.45.03:443][418]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.29-16.45.03:443][418]LogAudioMixer: Display: Name: Headphones (Cirrus Logic CS8409 (AB 57))
+[2020.02.29-16.45.03:443][418]LogAudioMixer: Display: Is Default: Yes
+[2020.02.29-16.45.03:443][418]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.29-16.45.03:443][418]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.29-16.45.03:443][418]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.29-16.45.03:443][418]LogAudioMixer: Display: Channel Order:
+[2020.02.29-16.45.03:443][418]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.29-16.45.03:443][418]LogAudioMixer: Display: 1: FrontRight
+[2020.02.29-16.45.03:453][418]LogAudioMixer: Display: Using Audio Device Headphones (Cirrus Logic CS8409 (AB 57))
+[2020.02.29-16.45.03:455][418]LogInit: FAudioDevice initialized.
+[2020.02.29-16.45.03:464][418]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.02.29-16.45.03:469][418]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMapLevelWithTerrain.NewMapLevelWithTerrain up for play (max tick rate 60) at 2020.02.29-17.45.03
+[2020.02.29-16.45.03:469][418]LogWorld: Bringing up level for play took: 0.003267
+[2020.02.29-16.45.03:470][418]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2020.02.29-16.45.03:476][418]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_NewMapLevelWithTerrain -0.345
+[2020.02.29-16.45.35:235][320]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.29-16.45.35:235][320]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.29-16.45.35:235][320]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.29-16.45.35:235][320]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_NewMapLevelWithTerrain
+[2020.02.29-16.45.35:235][320]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.29-16.45.35:236][320]LogWorld: UWorld::CleanupWorld for NewMapLevelWithTerrain, bSessionEnded=true, bCleanupResources=true
+[2020.02.29-16.45.35:236][320]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.29-16.45.35:247][320]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.29-16.45.35:251][320]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.29-16.45.35:300][320]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.29-16.45.35:307][320]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.29-16.45.35:323][320]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2020.02.29-16.45.35:354][321]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2020.02.29-16.45.42:917][759]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2020.02.29-16.45.43:110][759]LogSavePackage: Moving '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Saved/NewMapLevelWithTerrainFAC394FE46D48A79A309B0A9306615F2.tmp' to '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Content/Maps/NewMapLevelWithTerrain.umap'
+[2020.02.29-16.45.43:252][759]LogSavePackage: Moving '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Saved/NewMapLevelWithTerrain_BuiltDataA6F4E13748887CC330D4D29725619C5F.tmp' to '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Content/Maps/NewMapLevelWithTerrain_BuiltData.uasset'
+[2020.02.29-16.45.43:273][759]AssetCheck: New page: Asset Save: multiple assets
+[2020.02.29-16.45.43:273][759]LogContentValidation: Display: Validating World /Game/Maps/NewMapLevelWithTerrain.NewMapLevelWithTerrain
+[2020.02.29-16.45.43:273][759]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/NewMapLevelWithTerrain_BuiltData.NewMapLevelWithTerrain_BuiltData
+[2020.02.29-16.50.40:116][206]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2020.02.29-16.50.40:362][206]LogSavePackage: Moving '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Saved/NewMapLevelWithTerrain6A2E5E1848F59E77236B299B878AF937.tmp' to '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Content/Maps/NewMapLevelWithTerrain.umap'
+[2020.02.29-16.50.40:463][206]LogSavePackage: Moving '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Saved/NewMapLevelWithTerrain_BuiltData179FA37A4B95B51305B8AABDE3C7B9D7.tmp' to '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Content/Maps/NewMapLevelWithTerrain_BuiltData.uasset'
+[2020.02.29-16.50.40:479][206]AssetCheck: New page: Asset Save: multiple assets
+[2020.02.29-16.50.40:479][206]LogContentValidation: Display: Validating World /Game/Maps/NewMapLevelWithTerrain.NewMapLevelWithTerrain
+[2020.02.29-16.50.40:479][206]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/NewMapLevelWithTerrain_BuiltData.NewMapLevelWithTerrain_BuiltData
