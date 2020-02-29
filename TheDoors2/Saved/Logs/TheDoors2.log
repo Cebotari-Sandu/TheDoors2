@@ -635,3 +635,14 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.29-14.24.11:826][ 17]LogAudioMixer: Display: 1: FrontRight
 [2020.02.29-14.24.11:826][ 17]LogAudioMixer: Display: 2: BackLeft
 [2020.02.29-14.24.11:826][ 17]LogAudioMixer: Display: 3: BackRight
+[2020.02.29-15.06.57:946][686]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{38e7418d-430c-4b75-b028-033dd759d70a}.
+[2020.02.29-15.06.57:946][686]LogTemp: Resetting audio stream to device id 
+[2020.02.29-15.06.57:973][686]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.29-15.06.57:973][686]LogAudioMixer: Display: Name: Headphones (Cirrus Logic CS8409 (AB 57))
+[2020.02.29-15.06.57:973][686]LogAudioMixer: Display: Is Default: Yes
+[2020.02.29-15.06.57:973][686]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.29-15.06.57:973][686]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.29-15.06.57:973][686]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.29-15.06.57:973][686]LogAudioMixer: Display: Channel Order:
+[2020.02.29-15.06.57:973][686]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.29-15.06.57:973][686]LogAudioMixer: Display: 1: FrontRight
