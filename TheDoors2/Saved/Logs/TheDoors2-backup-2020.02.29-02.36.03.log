@@ -1,0 +1,1094 @@
+﻿Log file open, 02/29/20 03:17:21
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: TheDoors2
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 1.135692
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11100242
+LogInit: Engine Version: 4.24.2-11100242+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-7820HQ CPU @ 2.90GHz, GPU: Radeon Pro 560
+LogInit: Compiled (64-bit): Jan 24 2020 02:05:53
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.02.29-02.17.22:987][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.02.29-02.17.22:987][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.02.29-02.17.22:987][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Saved/Config/Windows/Engine.ini]
+[2020.02.29-02.17.22:988][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.02.29-02.17.22:988][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Saved/Config/Windows/Engine.ini]
+[2020.02.29-02.17.22:988][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Saved/Config/Windows/Engine.ini]
+[2020.02.29-02.17.22:988][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.02.29-02.17.22:988][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.02.29-02.17.22:988][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.02.29-02.17.22:988][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.02.29-02.17.22:988][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.02.29-02.17.22:988][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.02.29-02.17.22:988][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.02.29-02.17.22:988][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.02.29-02.17.22:988][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.02.29-02.17.22:988][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.02.29-02.17.22:988][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.02.29-02.17.22:988][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.02.29-02.17.22:988][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.02.29-02.17.22:988][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.02.29-02.17.22:988][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Saved/Config/Windows/Engine.ini]
+[2020.02.29-02.17.22:988][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.02.29-02.17.22:988][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.02.29-02.17.22:988][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.02.29-02.17.22:988][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.02.29-02.17.22:988][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.02.29-02.17.22:988][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.02.29-02.17.22:988][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.02.29-02.17.22:988][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.02.29-02.17.22:988][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.02.29-02.17.22:988][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.02.29-02.17.22:988][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.02.29-02.17.22:988][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.02.29-02.17.22:988][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.02.29-02.17.22:988][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Saved/Config/Windows/Engine.ini]
+[2020.02.29-02.17.22:989][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Saved/Config/Windows/Engine.ini]
+[2020.02.29-02.17.22:998][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Saved/Config/Windows/Scalability.ini]
+[2020.02.29-02.17.22:998][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.02.29-02.17.22:998][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.02.29-02.17.22:998][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Saved/Config/Windows/Scalability.ini]
+[2020.02.29-02.17.22:998][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.02.29-02.17.22:998][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Saved/Config/Windows/Scalability.ini]
+[2020.02.29-02.17.22:998][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.02.29-02.17.22:998][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.02.29-02.17.22:998][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.02.29-02.17.22:998][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.02.29-02.17.22:998][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.02.29-02.17.22:998][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.02.29-02.17.22:998][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.02.29-02.17.22:998][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.02.29-02.17.22:998][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.02.29-02.17.22:998][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.02.29-02.17.22:998][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.02.29-02.17.22:998][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.02.29-02.17.22:998][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.02.29-02.17.22:998][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.02.29-02.17.22:998][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.02.29-02.17.22:998][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.02.29-02.17.22:998][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.02.29-02.17.22:998][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.02.29-02.17.22:999][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Saved/Config/Windows/Scalability.ini]
+[2020.02.29-02.17.22:999][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.02.29-02.17.22:999][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.02.29-02.17.22:999][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.02.29-02.17.22:999][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.02.29-02.17.22:999][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.02.29-02.17.22:999][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.02.29-02.17.22:999][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.02.29-02.17.22:999][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.02.29-02.17.22:999][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.02.29-02.17.22:999][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.02.29-02.17.22:999][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.02.29-02.17.22:999][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.02.29-02.17.22:999][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.02.29-02.17.22:999][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.02.29-02.17.22:999][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.02.29-02.17.22:999][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.02.29-02.17.22:999][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.02.29-02.17.22:999][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.02.29-02.17.22:999][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.02.29-02.17.22:999][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.02.29-02.17.22:999][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.02.29-02.17.22:999][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.02.29-02.17.22:999][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.02.29-02.17.22:999][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.02.29-02.17.22:999][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.02.29-02.17.22:999][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.02.29-02.17.22:999][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.02.29-02.17.22:999][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.02.29-02.17.22:999][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.02.29-02.17.22:999][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.02.29-02.17.22:999][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Saved/Config/Windows/Scalability.ini]
+[2020.02.29-02.17.22:999][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.02.29-02.17.22:999][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.02.29-02.17.22:999][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.02.29-02.17.23:000][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.02.29-02.17.23:000][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.02.29-02.17.23:000][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.02.29-02.17.23:000][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.02.29-02.17.23:000][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.02.29-02.17.23:000][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.02.29-02.17.23:000][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Saved/Config/Windows/Scalability.ini]
+[2020.02.29-02.17.23:000][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.02.29-02.17.23:000][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.02.29-02.17.23:000][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.02.29-02.17.23:000][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.02.29-02.17.23:000][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.02.29-02.17.23:000][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.02.29-02.17.23:000][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.02.29-02.17.23:000][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.02.29-02.17.23:000][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.02.29-02.17.23:000][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.02.29-02.17.23:000][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.02.29-02.17.23:000][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.02.29-02.17.23:000][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.02.29-02.17.23:000][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.02.29-02.17.23:000][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.02.29-02.17.23:000][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.02.29-02.17.23:000][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.02.29-02.17.23:000][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.02.29-02.17.23:000][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.02.29-02.17.23:000][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.02.29-02.17.23:000][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.02.29-02.17.23:000][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.02.29-02.17.23:000][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.02.29-02.17.23:000][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.02.29-02.17.23:000][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.02.29-02.17.23:000][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.02.29-02.17.23:000][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Saved/Config/Windows/Scalability.ini]
+[2020.02.29-02.17.23:001][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.02.29-02.17.23:001][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.02.29-02.17.23:001][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Saved/Config/Windows/Scalability.ini]
+[2020.02.29-02.17.23:001][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.02.29-02.17.23:001][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.02.29-02.17.23:001][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.02.29-02.17.23:001][  0]LogInit: Selected Device Profile: [Windows]
+[2020.02.29-02.17.23:001][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.02.29-02.17.23:020][  0]LogHAL: Display: Platform has ~ 16 GB [17072222208 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.02.29-02.17.23:020][  0]LogInit: Going up to parent DeviceProfile []
+[2020.02.29-02.17.23:020][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Saved/Config/Windows/Scalability.ini]
+[2020.02.29-02.17.23:020][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.02.29-02.17.23:020][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.02.29-02.17.23:020][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Saved/Config/Windows/Scalability.ini]
+[2020.02.29-02.17.23:020][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.02.29-02.17.23:020][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Saved/Config/Windows/Scalability.ini]
+[2020.02.29-02.17.23:020][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.02.29-02.17.23:020][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.02.29-02.17.23:020][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.02.29-02.17.23:020][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.02.29-02.17.23:020][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.02.29-02.17.23:020][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.02.29-02.17.23:020][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.02.29-02.17.23:020][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.02.29-02.17.23:020][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.02.29-02.17.23:020][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.02.29-02.17.23:021][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.02.29-02.17.23:021][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.02.29-02.17.23:021][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.02.29-02.17.23:021][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.02.29-02.17.23:021][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.02.29-02.17.23:021][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.02.29-02.17.23:021][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.02.29-02.17.23:021][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.02.29-02.17.23:021][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Saved/Config/Windows/Scalability.ini]
+[2020.02.29-02.17.23:021][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.02.29-02.17.23:021][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.02.29-02.17.23:021][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.02.29-02.17.23:021][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.02.29-02.17.23:021][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.02.29-02.17.23:021][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.02.29-02.17.23:021][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.02.29-02.17.23:021][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.02.29-02.17.23:021][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.02.29-02.17.23:021][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.02.29-02.17.23:021][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.02.29-02.17.23:021][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.02.29-02.17.23:021][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.02.29-02.17.23:021][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.02.29-02.17.23:021][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.02.29-02.17.23:021][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.02.29-02.17.23:021][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.02.29-02.17.23:021][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.02.29-02.17.23:021][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.02.29-02.17.23:021][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.02.29-02.17.23:021][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.02.29-02.17.23:021][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.02.29-02.17.23:021][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.02.29-02.17.23:021][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.02.29-02.17.23:021][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.02.29-02.17.23:021][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.02.29-02.17.23:022][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.02.29-02.17.23:022][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.02.29-02.17.23:022][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.02.29-02.17.23:022][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.02.29-02.17.23:022][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Saved/Config/Windows/Scalability.ini]
+[2020.02.29-02.17.23:022][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.02.29-02.17.23:022][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.02.29-02.17.23:022][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.02.29-02.17.23:022][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.02.29-02.17.23:022][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.02.29-02.17.23:022][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.02.29-02.17.23:022][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.02.29-02.17.23:022][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.02.29-02.17.23:022][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.02.29-02.17.23:022][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Saved/Config/Windows/Scalability.ini]
+[2020.02.29-02.17.23:022][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.02.29-02.17.23:022][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.02.29-02.17.23:022][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.02.29-02.17.23:022][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.02.29-02.17.23:022][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.02.29-02.17.23:022][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.02.29-02.17.23:022][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.02.29-02.17.23:022][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.02.29-02.17.23:022][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.02.29-02.17.23:022][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.02.29-02.17.23:022][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.02.29-02.17.23:022][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.02.29-02.17.23:022][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.02.29-02.17.23:022][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.02.29-02.17.23:022][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.02.29-02.17.23:022][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.02.29-02.17.23:022][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.02.29-02.17.23:022][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.02.29-02.17.23:022][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.02.29-02.17.23:022][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.02.29-02.17.23:022][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.02.29-02.17.23:023][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.02.29-02.17.23:023][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.02.29-02.17.23:023][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.02.29-02.17.23:023][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.02.29-02.17.23:023][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.02.29-02.17.23:023][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Saved/Config/Windows/Scalability.ini]
+[2020.02.29-02.17.23:023][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.02.29-02.17.23:023][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.02.29-02.17.23:023][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Saved/Config/Windows/Scalability.ini]
+[2020.02.29-02.17.23:023][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.02.29-02.17.23:023][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.02.29-02.17.23:023][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.02.29-02.17.23:023][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.02.29-02.17.23:033][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.02.29-02.17.23:033][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.02.29-02.17.23:033][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Saved/Config/Windows/Engine.ini]
+[2020.02.29-02.17.23:036][  0]LogInit: Computer: DESKTOP-PTE761A
+[2020.02.29-02.17.23:036][  0]LogInit: User: AlbaSamaranch
+[2020.02.29-02.17.23:036][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.02.29-02.17.23:036][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.02.29-02.17.23:036][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.02.29-02.17.23:036][  0]LogMemory: Platform Memory Stats for Windows
+[2020.02.29-02.17.23:036][  0]LogMemory: Process Physical Memory: 104.56 MB used, 104.57 MB peak
+[2020.02.29-02.17.23:036][  0]LogMemory: Process Virtual Memory: 100.35 MB used, 100.35 MB peak
+[2020.02.29-02.17.23:036][  0]LogMemory: Physical Memory: 6576.24 MB used,  9705.10 MB free, 16281.34 MB total
+[2020.02.29-02.17.23:036][  0]LogMemory: Virtual Memory: 5137.50 MB used,  134212592.00 MB free, 134217728.00 MB total
+[2020.02.29-02.17.23:051][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.02.29-02.17.23:410][  0]LogInit: Using OS detected language (en-US).
+[2020.02.29-02.17.23:410][  0]LogInit: Using OS detected locale (en-US).
+[2020.02.29-02.17.23:413][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.02.29-02.17.24:072][  0]LogInit: Setting process to per monitor DPI aware
+[2020.02.29-02.17.24:208][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.02.29-02.17.24:208][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.02.29-02.17.28:112][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.02.29-02.17.28:112][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.02.29-02.17.28:112][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.02.29-02.17.28:112][  0]LogD3D11RHI: D3D11 adapters:
+[2020.02.29-02.17.28:145][  0]LogD3D11RHI:    0. 'Radeon Pro 560' (Feature Level 11_0)
+[2020.02.29-02.17.28:145][  0]LogD3D11RHI:       4044/0/8140 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2020.02.29-02.17.28:148][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.02.29-02.17.28:148][  0]LogD3D11RHI:       0/0/8140 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.02.29-02.17.28:148][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.02.29-02.17.28:158][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.02.29-02.17.28:158][  0]LogD3D11RHI:     GPU DeviceId: 0x67ef (for the marketing name, search the web for "GPU Device Id")
+[2020.02.29-02.17.28:158][  0]LogWindows: EnumDisplayDevices:
+[2020.02.29-02.17.28:158][  0]LogWindows:    0. 'Radeon Pro 560' (P:1 D:1)
+[2020.02.29-02.17.28:159][  0]LogWindows:    1. 'Radeon Pro 560' (P:0 D:0)
+[2020.02.29-02.17.28:159][  0]LogWindows:    2. 'Radeon Pro 560' (P:0 D:0)
+[2020.02.29-02.17.28:160][  0]LogWindows:    3. 'Radeon Pro 560' (P:0 D:0)
+[2020.02.29-02.17.28:161][  0]LogWindows:    4. 'Radeon Pro 560' (P:0 D:0)
+[2020.02.29-02.17.28:162][  0]LogWindows: DebugString: FoundDriverCount:5 
+[2020.02.29-02.17.28:162][  0]LogD3D11RHI:     Adapter Name: Radeon Pro 560
+[2020.02.29-02.17.28:162][  0]LogD3D11RHI:   Driver Version: Crimson ReLive 17.1.1 (internal:22.19.128.1, unified:22.19.128.1)
+[2020.02.29-02.17.28:162][  0]LogD3D11RHI:      Driver Date: 4-3-2017
+[2020.02.29-02.17.28:162][  0]LogRHI: Texture pool is 2830 MB (70% of 4044 MB)
+[2020.02.29-02.17.28:409][  0]LogD3D11RHI: RHI does not have support for 64 bit atomics
+[2020.02.29-02.17.28:409][  0]LogD3D11RHI: Async texture creation enabled
+[2020.02.29-02.17.28:442][  0]LogD3D11RHI: GPU Timing Frequency: 25.000000 (Debug: 2 1)
+[2020.02.29-02.17.31:104][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.02.29-02.17.31:805][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.02.29-02.17.31:867][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.02.29-02.17.31:867][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.02.29-02.17.31:867][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.02.29-02.17.31:867][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.02.29-02.17.31:867][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.02.29-02.17.31:867][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.02.29-02.17.31:867][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.02.29-02.17.31:867][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.02.29-02.17.31:867][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.02.29-02.17.31:867][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.02.29-02.17.31:867][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.02.29-02.17.31:867][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.02.29-02.17.31:868][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.02.29-02.17.31:868][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.02.29-02.17.31:868][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.02.29-02.17.31:868][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.02.29-02.17.31:868][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.02.29-02.17.31:868][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.02.29-02.17.31:909][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.02.29-02.17.31:909][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.02.29-02.17.31:919][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.02.29-02.17.31:929][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.02.29-02.17.31:939][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.02.29-02.17.31:949][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.02.29-02.17.31:959][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.02.29-02.17.31:970][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.02.29-02.17.32:006][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.02.29-02.17.32:006][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.02.29-02.17.32:024][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.02.29-02.17.32:024][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.02.29-02.17.32:034][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.02.29-02.17.32:045][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.02.29-02.17.32:055][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.02.29-02.17.32:065][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.02.29-02.17.32:065][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.02.29-02.17.32:128][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.02.29-02.17.32:309][  0]LogShaderCompilers: Guid format shader working directory is -21 characters bigger than the processId version (../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Intermediate/Shaders/WorkingDirectory/15468/).
+[2020.02.29-02.17.32:309][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Alba Samaranch/AppData/Local/Temp/UnrealShaderWorkingDir/0F035E924B1A89938E519B8318FB1A00/'.
+[2020.02.29-02.17.32:311][  0]LogXGEController: Cleaning working directory: C:/Users/Alba Samaranch/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.02.29-02.17.32:312][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.02.29-02.17.32:312][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.02.29-02.17.32:312][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.02.29-02.17.36:803][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.02.29-02.17.36:911][  0]LogDerivedDataCache: Loaded boot cache 0.11s 78MB C:/Users/Alba Samaranch/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.02.29-02.17.36:911][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Alba Samaranch/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.02.29-02.17.36:911][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.02.29-02.17.36:911][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.02.29-02.17.36:911][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.02.29-02.17.36:911][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.02.29-02.17.36:951][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.02.29-02.17.36:952][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.02.29-02.17.36:952][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.02.29-02.17.36:954][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Alba Samaranch/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.02.29-02.17.36:954][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.02.29-02.17.36:955][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.02.29-02.17.37:011][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.02.29-02.17.37:024][  0]LogSlate: Using FreeType 2.10.0
+[2020.02.29-02.17.37:065][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.02.29-02.17.37:583][  0]LogAssetRegistry: FAssetRegistry took 0.0087 seconds to start up
+[2020.02.29-02.17.38:300][  0]LogInit: Selected Device Profile: [Windows]
+[2020.02.29-02.17.38:817][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.02.29-02.17.38:817][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.02.29-02.17.38:817][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.02.29-02.17.38:817][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.02.29-02.17.38:817][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.02.29-02.17.38:912][  0]LogNetVersion: TheDoors2 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 2300638170)
+[2020.02.29-02.17.46:719][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.103709 seconds
+[2020.02.29-02.17.46:732][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.02.29-02.17.46:732][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.02.29-02.17.46:732][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.02.29-02.17.48:609][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.02.29-02.17.48:620][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.02.29-02.17.48:813][  0]SourceControl: Source control is disabled
+[2020.02.29-02.17.48:814][  0]SourceControl: Source control is disabled
+[2020.02.29-02.17.48:829][  0]SourceControl: Source control is disabled
+[2020.02.29-02.17.48:837][  0]SourceControl: Source control is disabled
+[2020.02.29-02.17.48:843][  0]SourceControl: Source control is disabled
+[2020.02.29-02.17.49:220][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.02.29-02.17.49:253][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.02.29-02.17.49:253][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.02.29-02.17.49:600][  0]LogOcInput: OculusInput pre-init called
+[2020.02.29-02.17.49:620][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.02.29-02.17.49:620][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.02.29-02.17.49:873][  0]LogEngine: Initializing Engine...
+[2020.02.29-02.17.49:875][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.02.29-02.17.49:880][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.002 s
+[2020.02.29-02.17.50:894][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.02.29-02.17.50:944][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.02.29-02.17.50:959][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.29-02.17.50:959][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.29-02.17.50:959][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.29-02.17.50:959][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.29-02.17.50:959][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.29-02.17.50:959][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.29-02.17.50:959][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.29-02.17.50:959][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.29-02.17.50:961][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.29-02.17.50:961][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.29-02.17.50:996][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.29-02.17.50:996][  0]LogAudioMixer: Display: Name: Speakers (Cirrus Logic CS8409 (AB 57))
+[2020.02.29-02.17.50:996][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.02.29-02.17.50:996][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.29-02.17.50:996][  0]LogAudioMixer: Display: Channel Count Used: 4
+[2020.02.29-02.17.50:996][  0]LogAudioMixer: Display: Device Channel Count: 4
+[2020.02.29-02.17.50:997][  0]LogAudioMixer: Display: Channel Order:
+[2020.02.29-02.17.50:997][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.29-02.17.50:997][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.02.29-02.17.50:997][  0]LogAudioMixer: Display: 2: BackLeft
+[2020.02.29-02.17.50:997][  0]LogAudioMixer: Display: 3: BackRight
+[2020.02.29-02.17.51:093][  0]LogAudioMixer: Display: Using Audio Device Speakers (Cirrus Logic CS8409 (AB 57))
+[2020.02.29-02.17.51:100][  0]LogInit: FAudioDevice initialized.
+[2020.02.29-02.17.51:100][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.02.29-02.17.51:192][  0]LogDerivedDataCache: Saved boot cache 0.09s 78MB C:/Users/Alba Samaranch/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.02.29-02.17.51:200][  0]LogInit: Texture streaming: Enabled
+[2020.02.29-02.17.51:232][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.02.29-02.17.51:232][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=AbnormalShutdown, SessionId={B372A978-4A3C-CA74-D4EE-26846C48D1EE}
+[2020.02.29-02.17.51:232][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.02.29-02.17.51:237][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.02.29-02.17.51:379][  0]LogInit: Transaction tracking system initialized
+[2020.02.29-02.17.51:446][  0]BlueprintLog: New page: Editor Load
+[2020.02.29-02.17.51:644][  0]LocalizationService: Localization service is disabled
+[2020.02.29-02.17.53:125][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Content/' took 0.01s
+[2020.02.29-02.17.53:125][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.02.29-02.17.53:125][  0]LogCook: Display: Mobile HDR setting 1
+[2020.02.29-02.17.54:806][  0]SourceControl: Source control is disabled
+[2020.02.29-02.17.54:808][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.29-02.17.54:815][  0]LightingResults: New page: Lighting Build
+[2020.02.29-02.17.54:820][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.02.29-02.17.54:820][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.29-02.17.54:821][  0]MapCheck: New page: Map Check
+[2020.02.29-02.17.54:821][  0]LightingResults: New page: Lighting Build
+[2020.02.29-02.17.54:857][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2020.02.29-02.17.55:959][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.02.29-02.17.56:019][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.29-02.17.56:086][  0]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2020.02.29-02.17.56:087][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.29-02.17.56:088][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.58ms to complete.
+[2020.02.29-02.17.56:088][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 1.280
+[2020.02.29-02.17.56:200][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.02.29-02.17.56:391][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.29-02.17.56:405][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.29-02.17.56:417][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.29-02.17.56:426][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.29-02.17.56:449][  0]LogCollectionManager: Loaded 0 collections in 0.002767 seconds
+[2020.02.29-02.17.56:483][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Saved/Collections/' took 0.00s
+[2020.02.29-02.17.56:483][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Content/Developers/AlbaSamaranch/Collections/' took 0.00s
+[2020.02.29-02.17.56:483][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Content/Collections/' took 0.00s
+[2020.02.29-02.17.56:484][  0]LogContentBrowser: Native class hierarchy populated in 0.0109 seconds. Added 3015 classes and 717 folders.
+[2020.02.29-02.17.56:497][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.02.29-02.17.57:358][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.02.29-02.17.57:370][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 3 folders.
+[2020.02.29-02.17.57:482][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2020.02.29-02.17.57:482][  0]LogLoad: (Engine Initialization) Total time: 50.51 seconds
+[2020.02.29-02.17.57:482][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.02.29-02.17.57:570][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.02.29-02.17.57:584][  0]LogSlate: Took 0.011075 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.02.29-02.17.57:598][  0]LogSlate: Took 0.010820 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.02.29-02.17.57:618][  0]LogSlate: Took 0.011557 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.02.29-02.17.57:955][  2]LogRenderer: Reallocating scene render targets to support 816x372 Format 10 NumSamples 1 (Frame:1).
+[2020.02.29-02.17.58:677][ 11]LogSlate: Took 0.012330 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.29-02.17.59:351][ 19]LogAssetRegistry: Asset discovery search completed in 21.7698 seconds
+[2020.02.29-02.17.59:360][ 19]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000016 seconds (updated 0 objects)
+[2020.02.29-02.18.03:644][163]LogRenderer: Reallocating scene render targets to support 1208x652 Format 10 NumSamples 1 (Frame:153).
+[2020.02.29-02.18.08:043][417]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/Landscape.Landscape
+[2020.02.29-02.18.08:057][417]LogMaterial: Display: Missing cached shader map for material Landscape, compiling. 
+[2020.02.29-02.18.08:664][417]LogMaterial: Display: Missing cached shader map for material Landscape, compiling. 
+[2020.02.29-02.18.08:680][417]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.02.29-02.18.08:680][417]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2020.02.29-02.18.08:680][417]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.02.29-02.18.08:680][417]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.02.29-02.18.08:686][417]LogMaterial: Display: Missing cached shader map for material Landscape, compiling. 
+[2020.02.29-02.18.08:715][417]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.02.29-02.18.08:744][417]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.02.29-02.18.08:769][417]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.02.29-02.18.08:782][417]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2020.02.29-02.18.08:796][417]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2020.02.29-02.18.08:823][417]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2020.02.29-02.18.08:840][417]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionLandscapeLayerCoords_0, compiling. 
+[2020.02.29-02.18.08:908][417]LogSlate: Took 0.007745 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.02.29-02.18.09:748][454]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 39
+[2020.02.29-02.18.09:768][455]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 38
+[2020.02.29-02.18.09:806][457]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 37
+[2020.02.29-02.18.09:861][460]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 36
+[2020.02.29-02.18.10:545][497]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 35
+[2020.02.29-02.18.10:563][498]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 34
+[2020.02.29-02.18.10:601][500]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 33
+[2020.02.29-02.18.10:649][503]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 32
+[2020.02.29-02.18.11:001][522]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 31
+[2020.02.29-02.18.11:097][525]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 30
+[2020.02.29-02.18.11:292][536]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 29
+[2020.02.29-02.18.11:348][539]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 28
+[2020.02.29-02.18.11:620][551]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 27
+[2020.02.29-02.18.11:726][557]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 26
+[2020.02.29-02.18.11:757][559]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 25
+[2020.02.29-02.18.11:785][560]MaterialEditorStats: Base pass shader: 150 instructions
+[2020.02.29-02.18.11:785][560]MaterialEditorStats: Base pass shader with Surface Lightmap: 171 instructions
+[2020.02.29-02.18.11:785][560]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 218 instructions
+[2020.02.29-02.18.11:785][560]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.02.29-02.18.11:785][560]MaterialEditorStats: Texture samplers: 8/16
+[2020.02.29-02.18.11:785][560]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2020.02.29-02.18.11:785][560]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.02.29-02.18.11:895][563]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 24
+[2020.02.29-02.18.12:163][579]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 23
+[2020.02.29-02.18.12:179][580]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 22
+[2020.02.29-02.18.12:195][581]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 21
+[2020.02.29-02.18.12:393][592]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 20
+[2020.02.29-02.18.12:598][602]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 19
+[2020.02.29-02.18.12:636][604]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 18
+[2020.02.29-02.18.12:695][607]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2020.02.29-02.18.12:898][618]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 16
+[2020.02.29-02.18.13:096][629]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 15
+[2020.02.29-02.18.13:135][631]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2020.02.29-02.18.13:150][632]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 13
+[2020.02.29-02.18.13:411][645]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2020.02.29-02.18.13:599][655]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.02.29-02.18.13:599][655]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2020.02.29-02.18.13:619][656]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2020.02.29-02.18.13:933][671]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.02.29-02.18.14:038][676]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.02.29-02.18.14:059][677]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2020.02.29-02.18.14:139][681]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2020.02.29-02.18.14:457][697]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2020.02.29-02.18.14:516][700]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.02.29-02.18.14:593][703]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.02.29-02.18.14:593][703]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.02.29-02.18.14:922][720]LogSlate: Window 'Landscape' being destroyed
+[2020.02.29-02.18.14:984][720]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.02.29-02.18.14:984][720]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.29-02.18.20:109][  2]LogAIModule: Creating AISystem for world NewMapLevelWithTerrain
+[2020.02.29-02.18.20:119][  2]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/NewMapLevelWithTerrain.NewMapLevelWithTerrain
+[2020.02.29-02.18.20:152][  2]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2020.02.29-02.18.20:155][  2]Cmd: MAP LOAD FILE="../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Content/Maps/NewMapLevelWithTerrain.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.29-02.18.20:155][  2]LightingResults: New page: Lighting Build
+[2020.02.29-02.18.20:156][  2]LoadErrors: New page: Loading map: NewMapLevelWithTerrain.umap
+[2020.02.29-02.18.20:157][  2]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.02.29-02.18.20:157][  2]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.29-02.18.20:157][  2]MapCheck: New page: Map Check
+[2020.02.29-02.18.20:157][  2]LightingResults: New page: Lighting Build
+[2020.02.29-02.18.20:188][  2]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2020.02.29-02.18.20:981][  2]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.29-02.18.21:034][  2]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2020.02.29-02.18.21:067][  2]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.29-02.18.21:067][  2]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.158ms to complete.
+[2020.02.29-02.18.21:067][  2]LogFileHelpers: Loading map 'NewMapLevelWithTerrain' took 0.912
+[2020.02.29-02.19.45:548][968]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2020.02.29-02.21.38:183][611]LogMaterial: Display: Missing cached shader map for material Landscape, compiling. 
+[2020.02.29-02.21.38:250][611]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 46
+[2020.02.29-02.21.38:250][611]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 36
+[2020.02.29-02.21.38:250][611]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 26
+[2020.02.29-02.21.38:250][611]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 16
+[2020.02.29-02.21.38:250][611]LogMaterial: Display: Missing cached shader map for material Landscape, compiling. 
+[2020.02.29-02.21.38:287][611]LogMaterial: Display: Missing cached shader map for material Landscape, compiling. 
+[2020.02.29-02.21.38:346][611]LogMaterial: Display: Missing cached shader map for material Landscape, compiling. 
+[2020.02.29-02.21.38:403][611]LogTexture: Display: Building textures: Texture2D_36 (BGRA8, 16X16)
+[2020.02.29-02.21.38:431][611]LogTexture: Display: Building textures: Texture2D_37 (BGRA8, 16X16)
+[2020.02.29-02.21.42:663][848]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 144
+[2020.02.29-02.21.42:679][849]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 134
+[2020.02.29-02.21.42:796][856]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 124
+[2020.02.29-02.21.43:013][869]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 114
+[2020.02.29-02.21.46:856][ 99]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 104
+[2020.02.29-02.21.47:054][111]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 94
+[2020.02.29-02.21.47:121][115]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 84
+[2020.02.29-02.21.47:386][131]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 74
+[2020.02.29-02.21.51:166][357]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 64
+[2020.02.29-02.21.51:344][367]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 54
+[2020.02.29-02.21.51:386][370]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 44
+[2020.02.29-02.21.51:638][385]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 34
+[2020.02.29-02.21.55:436][613]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 25
+[2020.02.29-02.21.55:595][622]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 18
+[2020.02.29-02.21.55:753][632]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2020.02.29-02.21.55:870][639]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2020.02.29-02.21.57:278][748]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2020.02.29-02.21.57:514][768]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2020.02.29-02.21.57:895][800]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.02.29-02.21.58:202][826]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.02.29-02.22.01:202][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2020.02.29-02.22.01:233][ 94]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 16X16)
+[2020.02.29-02.22.01:234][ 94]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 16X16)
+[2020.02.29-02.22.01:235][ 94]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 16X16)
+[2020.02.29-02.22.01:236][ 94]LogTexture: Display: Building textures: Texture2D_13 (BGRA8, 16X16)
+[2020.02.29-02.22.01:237][ 94]LogTexture: Display: Building textures: Texture2D_14 (BGRA8, 16X16)
+[2020.02.29-02.22.01:238][ 94]LogTexture: Display: Building textures: Texture2D_15 (BGRA8, 16X16)
+[2020.02.29-02.22.01:238][ 94]LogTexture: Display: Building textures: Texture2D_16 (BGRA8, 16X16)
+[2020.02.29-02.22.01:239][ 94]LogTexture: Display: Building textures: Texture2D_17 (BGRA8, 16X16)
+[2020.02.29-02.22.01:240][ 94]LogTexture: Display: Building textures: Texture2D_18 (BGRA8, 16X16)
+[2020.02.29-02.22.01:241][ 94]LogTexture: Display: Building textures: Texture2D_19 (BGRA8, 16X16)
+[2020.02.29-02.22.01:242][ 94]LogTexture: Display: Building textures: Texture2D_20 (BGRA8, 16X16)
+[2020.02.29-02.22.01:243][ 94]LogTexture: Display: Building textures: Texture2D_21 (BGRA8, 16X16)
+[2020.02.29-02.22.01:244][ 94]LogTexture: Display: Building textures: Texture2D_22 (BGRA8, 16X16)
+[2020.02.29-02.22.01:244][ 94]LogTexture: Display: Building textures: Texture2D_23 (BGRA8, 16X16)
+[2020.02.29-02.22.01:245][ 94]LogTexture: Display: Building textures: Texture2D_24 (BGRA8, 16X16)
+[2020.02.29-02.22.01:246][ 94]LogTexture: Display: Building textures: Texture2D_27 (BGRA8, 16X16)
+[2020.02.29-02.22.01:247][ 94]LogTexture: Display: Building textures: Texture2D_28 (BGRA8, 16X16)
+[2020.02.29-02.22.01:248][ 94]LogTexture: Display: Building textures: Texture2D_29 (BGRA8, 16X16)
+[2020.02.29-02.22.01:249][ 94]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 16X16)
+[2020.02.29-02.22.01:250][ 94]LogTexture: Display: Building textures: Texture2D_30 (BGRA8, 16X16)
+[2020.02.29-02.22.01:251][ 94]LogTexture: Display: Building textures: Texture2D_31 (BGRA8, 16X16)
+[2020.02.29-02.22.01:252][ 94]LogTexture: Display: Building textures: Texture2D_32 (BGRA8, 16X16)
+[2020.02.29-02.22.01:253][ 94]LogTexture: Display: Building textures: Texture2D_33 (BGRA8, 16X16)
+[2020.02.29-02.22.01:254][ 94]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 16X16)
+[2020.02.29-02.22.01:255][ 94]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 16X16)
+[2020.02.29-02.22.01:257][ 94]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 16X16)
+[2020.02.29-02.22.01:258][ 94]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 16X16)
+[2020.02.29-02.22.01:281][ 94]LogTexture: Display: Building textures: Texture2D_36 (BGRA8, 16X16)
+[2020.02.29-02.22.01:282][ 94]LogTexture: Display: Building textures: Texture2D_37 (BGRA8, 16X16)
+[2020.02.29-02.22.01:430][ 94]LogSavePackage: Moving '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Saved/NewMapLevelWithTerrain3378F1FD4E26694E296C528B68A48A5F.tmp' to '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Content/Maps/NewMapLevelWithTerrain.umap'
+[2020.02.29-02.22.01:547][ 94]LogSavePackage: Moving '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Saved/NewMapLevelWithTerrain_BuiltDataACAA896B4AB31F713B10EC92CB707204.tmp' to '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Content/Maps/NewMapLevelWithTerrain_BuiltData.uasset'
+[2020.02.29-02.22.01:567][ 94]AssetCheck: New page: Asset Save: multiple assets
+[2020.02.29-02.22.01:567][ 94]LogContentValidation: Display: Validating World /Game/Maps/NewMapLevelWithTerrain.NewMapLevelWithTerrain
+[2020.02.29-02.22.01:567][ 94]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/NewMapLevelWithTerrain_BuiltData.NewMapLevelWithTerrain_BuiltData
+[2020.02.29-02.22.05:979][509]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape1)
+[2020.02.29-02.22.11:476][966]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape1)
+[2020.02.29-02.22.19:870][733]LogTexture: Display: Building textures: Texture2D_38 (BGRA8, 16X16)
+[2020.02.29-02.22.47:634][237]LogTexture: Display: Building textures: Texture2D_39 (BGRA8, 16X16)
+[2020.02.29-02.23.36:518][778]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2020.02.29-02.23.36:544][778]LogTexture: Display: Building textures: Texture2D_22 (BGRA8, 16X16)
+[2020.02.29-02.23.36:545][778]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 16X16)
+[2020.02.29-02.23.36:547][778]LogTexture: Display: Building textures: Texture2D_17 (BGRA8, 16X16)
+[2020.02.29-02.23.36:548][778]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 16X16)
+[2020.02.29-02.23.36:549][778]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 16X16)
+[2020.02.29-02.23.36:550][778]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 16X16)
+[2020.02.29-02.23.36:550][778]LogTexture: Display: Building textures: Texture2D_15 (BGRA8, 16X16)
+[2020.02.29-02.23.36:552][778]LogTexture: Display: Building textures: Texture2D_16 (BGRA8, 16X16)
+[2020.02.29-02.23.36:553][778]LogTexture: Display: Building textures: Texture2D_21 (BGRA8, 16X16)
+[2020.02.29-02.23.36:555][778]LogTexture: Display: Building textures: Texture2D_30 (BGRA8, 16X16)
+[2020.02.29-02.23.36:555][778]LogTexture: Display: Building textures: Texture2D_34 (BGRA8, 16X16)
+[2020.02.29-02.23.36:556][778]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 16X16)
+[2020.02.29-02.23.36:558][778]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 16X16)
+[2020.02.29-02.23.36:559][778]LogTexture: Display: Building textures: Texture2D_31 (BGRA8, 16X16)
+[2020.02.29-02.23.36:560][778]LogTexture: Display: Building textures: Texture2D_32 (BGRA8, 16X16)
+[2020.02.29-02.23.36:561][778]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 16X16)
+[2020.02.29-02.23.36:562][778]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 16X16)
+[2020.02.29-02.23.36:563][778]LogTexture: Display: Building textures: Texture2D_35 (BGRA8, 16X16)
+[2020.02.29-02.23.36:564][778]LogTexture: Display: Building textures: Texture2D_33 (BGRA8, 16X16)
+[2020.02.29-02.23.36:565][778]LogTexture: Display: Building textures: Texture2D_27 (BGRA8, 16X16)
+[2020.02.29-02.23.36:566][778]LogTexture: Display: Building textures: Texture2D_26 (BGRA8, 16X16)
+[2020.02.29-02.23.36:567][778]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 16X16)
+[2020.02.29-02.23.36:568][778]LogTexture: Display: Building textures: Texture2D_24 (BGRA8, 16X16)
+[2020.02.29-02.23.36:568][778]LogTexture: Display: Building textures: Texture2D_25 (BGRA8, 16X16)
+[2020.02.29-02.23.36:569][778]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 16X16)
+[2020.02.29-02.23.36:570][778]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 16X16)
+[2020.02.29-02.23.36:571][778]LogTexture: Display: Building textures: Texture2D_19 (BGRA8, 16X16)
+[2020.02.29-02.23.36:571][778]LogTexture: Display: Building textures: Texture2D_23 (BGRA8, 16X16)
+[2020.02.29-02.23.36:572][778]LogTexture: Display: Building textures: Texture2D_39 (BGRA8, 16X16)
+[2020.02.29-02.23.36:573][778]LogTexture: Display: Building textures: Texture2D_38 (BGRA8, 16X16)
+[2020.02.29-02.23.36:574][778]LogTexture: Display: Building textures: Texture2D_20 (BGRA8, 16X16)
+[2020.02.29-02.23.36:575][778]LogTexture: Display: Building textures: Texture2D_18 (BGRA8, 16X16)
+[2020.02.29-02.23.36:576][778]LogTexture: Display: Building textures: Texture2D_36 (BGRA8, 16X16)
+[2020.02.29-02.23.36:577][778]LogTexture: Display: Building textures: Texture2D_13 (BGRA8, 16X16)
+[2020.02.29-02.23.36:578][778]LogTexture: Display: Building textures: Texture2D_28 (BGRA8, 16X16)
+[2020.02.29-02.23.36:578][778]LogTexture: Display: Building textures: Texture2D_14 (BGRA8, 16X16)
+[2020.02.29-02.23.36:579][778]LogTexture: Display: Building textures: Texture2D_37 (BGRA8, 16X16)
+[2020.02.29-02.23.36:580][778]LogTexture: Display: Building textures: Texture2D_29 (BGRA8, 16X16)
+[2020.02.29-02.23.36:748][778]LogSavePackage: Moving '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Saved/NewMapLevelWithTerrain83AA5EB74890F94B8FDAF9A44EC4DA52.tmp' to '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Content/Maps/NewMapLevelWithTerrain.umap'
+[2020.02.29-02.23.36:887][778]LogSavePackage: Moving '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Saved/NewMapLevelWithTerrain_BuiltData86DDB15B4B63DE1EF59356ACA66956AE.tmp' to '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Content/Maps/NewMapLevelWithTerrain_BuiltData.uasset'
+[2020.02.29-02.23.36:914][778]AssetCheck: New page: Asset Save: multiple assets
+[2020.02.29-02.23.36:914][778]LogContentValidation: Display: Validating World /Game/Maps/NewMapLevelWithTerrain.NewMapLevelWithTerrain
+[2020.02.29-02.23.36:914][778]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/NewMapLevelWithTerrain_BuiltData.NewMapLevelWithTerrain_BuiltData
+[2020.02.29-02.25.09:318][439]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2020.02.29-02.25.09:465][439]LogSavePackage: Moving '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Saved/NewMapLevelWithTerrain5EFF30FE48C6F6A710E93587B9557A3B.tmp' to '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Content/Maps/NewMapLevelWithTerrain.umap'
+[2020.02.29-02.25.09:587][439]LogSavePackage: Moving '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Saved/NewMapLevelWithTerrain_BuiltData82AFD0C3448FB80C224C338A4334145C.tmp' to '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Content/Maps/NewMapLevelWithTerrain_BuiltData.uasset'
+[2020.02.29-02.25.09:611][439]AssetCheck: New page: Asset Save: multiple assets
+[2020.02.29-02.25.09:611][439]LogContentValidation: Display: Validating World /Game/Maps/NewMapLevelWithTerrain.NewMapLevelWithTerrain
+[2020.02.29-02.25.09:611][439]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/NewMapLevelWithTerrain_BuiltData.NewMapLevelWithTerrain_BuiltData
+[2020.02.29-02.25.11:016][567]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.29-02.25.11:041][567]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.29-02.25.11:041][567]PIE: New page: PIE session: NewMapLevelWithTerrain (Feb 29, 2020, 4:25:11 AM)
+[2020.02.29-02.25.11:044][567]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.02.29-02.25.11:046][567]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.02.29-02.25.11:046][567]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewMapLevelWithTerrain
+[2020.02.29-02.25.11:285][567]LogPlayLevel: PIE: StaticDuplicateObject took: (0.238535s)
+[2020.02.29-02.25.11:286][567]LogAIModule: Creating AISystem for world NewMapLevelWithTerrain
+[2020.02.29-02.25.11:286][567]LogPlayLevel: PIE: World Init took: (0.001155s)
+[2020.02.29-02.25.11:286][567]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewMapLevelWithTerrain.NewMapLevelWithTerrain to /Game/Maps/UEDPIE_0_NewMapLevelWithTerrain.NewMapLevelWithTerrain (0.239967s)
+[2020.02.29-02.25.11:315][567]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2020.02.29-02.25.11:316][567]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.29-02.25.11:316][567]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.29-02.25.11:316][567]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.29-02.25.11:316][567]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.29-02.25.11:316][567]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.29-02.25.11:316][567]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.29-02.25.11:316][567]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.29-02.25.11:316][567]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.29-02.25.11:317][567]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.29-02.25.11:317][567]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.29-02.25.11:325][567]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.29-02.25.11:325][567]LogAudioMixer: Display: Name: Speakers (Cirrus Logic CS8409 (AB 57))
+[2020.02.29-02.25.11:325][567]LogAudioMixer: Display: Is Default: Yes
+[2020.02.29-02.25.11:325][567]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.29-02.25.11:326][567]LogAudioMixer: Display: Channel Count Used: 4
+[2020.02.29-02.25.11:326][567]LogAudioMixer: Display: Device Channel Count: 4
+[2020.02.29-02.25.11:326][567]LogAudioMixer: Display: Channel Order:
+[2020.02.29-02.25.11:326][567]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.29-02.25.11:326][567]LogAudioMixer: Display: 1: FrontRight
+[2020.02.29-02.25.11:326][567]LogAudioMixer: Display: 2: BackLeft
+[2020.02.29-02.25.11:326][567]LogAudioMixer: Display: 3: BackRight
+[2020.02.29-02.25.11:336][567]LogAudioMixer: Display: Using Audio Device Speakers (Cirrus Logic CS8409 (AB 57))
+[2020.02.29-02.25.11:338][567]LogInit: FAudioDevice initialized.
+[2020.02.29-02.25.11:349][567]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.02.29-02.25.11:352][567]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMapLevelWithTerrain.NewMapLevelWithTerrain up for play (max tick rate 0) at 2020.02.29-03.25.11
+[2020.02.29-02.25.11:352][567]LogWorld: Bringing up level for play took: 0.001739
+[2020.02.29-02.25.11:353][567]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2020.02.29-02.25.11:363][567]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 20 classes and 0 folders.
+[2020.02.29-02.25.11:371][567]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_NewMapLevelWithTerrain 1.322
+[2020.02.29-02.25.50:325][169]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.29-02.25.50:332][169]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.02.29-02.25.50:352][169]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.02.29-02.25.50:353][169]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.29-02.25.50:353][169]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_NewMapLevelWithTerrain
+[2020.02.29-02.25.50:353][169]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.29-02.25.50:353][169]LogWorld: UWorld::CleanupWorld for NewMapLevelWithTerrain, bSessionEnded=true, bCleanupResources=true
+[2020.02.29-02.25.50:354][169]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.29-02.25.50:368][169]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.29-02.25.50:375][169]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.29-02.25.50:426][169]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.29-02.25.50:433][169]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.29-02.25.50:448][169]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2020.02.29-02.25.50:485][170]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2020.02.29-02.25.52:396][349]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.29-02.25.52:412][349]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.29-02.25.52:413][349]PIE: New page: PIE session: NewMapLevelWithTerrain (Feb 29, 2020, 4:25:52 AM)
+[2020.02.29-02.25.52:413][349]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewMapLevelWithTerrain
+[2020.02.29-02.25.52:624][349]LogPlayLevel: PIE: StaticDuplicateObject took: (0.211880s)
+[2020.02.29-02.25.52:625][349]LogAIModule: Creating AISystem for world NewMapLevelWithTerrain
+[2020.02.29-02.25.52:625][349]LogPlayLevel: PIE: World Init took: (0.001001s)
+[2020.02.29-02.25.52:625][349]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewMapLevelWithTerrain.NewMapLevelWithTerrain to /Game/Maps/UEDPIE_0_NewMapLevelWithTerrain.NewMapLevelWithTerrain (0.213029s)
+[2020.02.29-02.25.52:653][349]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2020.02.29-02.25.52:654][349]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.29-02.25.52:654][349]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.29-02.25.52:654][349]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.29-02.25.52:654][349]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.29-02.25.52:654][349]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.29-02.25.52:654][349]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.29-02.25.52:654][349]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.29-02.25.52:654][349]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.29-02.25.52:654][349]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.29-02.25.52:654][349]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.29-02.25.52:662][349]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.29-02.25.52:662][349]LogAudioMixer: Display: Name: Speakers (Cirrus Logic CS8409 (AB 57))
+[2020.02.29-02.25.52:662][349]LogAudioMixer: Display: Is Default: Yes
+[2020.02.29-02.25.52:662][349]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.29-02.25.52:662][349]LogAudioMixer: Display: Channel Count Used: 4
+[2020.02.29-02.25.52:662][349]LogAudioMixer: Display: Device Channel Count: 4
+[2020.02.29-02.25.52:662][349]LogAudioMixer: Display: Channel Order:
+[2020.02.29-02.25.52:662][349]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.29-02.25.52:662][349]LogAudioMixer: Display: 1: FrontRight
+[2020.02.29-02.25.52:662][349]LogAudioMixer: Display: 2: BackLeft
+[2020.02.29-02.25.52:662][349]LogAudioMixer: Display: 3: BackRight
+[2020.02.29-02.25.52:672][349]LogAudioMixer: Display: Using Audio Device Speakers (Cirrus Logic CS8409 (AB 57))
+[2020.02.29-02.25.52:674][349]LogInit: FAudioDevice initialized.
+[2020.02.29-02.25.52:682][349]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.02.29-02.25.52:684][349]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMapLevelWithTerrain.NewMapLevelWithTerrain up for play (max tick rate 0) at 2020.02.29-03.25.52
+[2020.02.29-02.25.52:685][349]LogWorld: Bringing up level for play took: 0.001671
+[2020.02.29-02.25.52:685][349]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2020.02.29-02.25.52:688][349]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_NewMapLevelWithTerrain 0.64
+[2020.02.29-02.25.56:321][686]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.29-02.25.56:323][686]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.02.29-02.25.56:342][686]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.02.29-02.25.56:343][686]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.29-02.25.56:343][686]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_NewMapLevelWithTerrain
+[2020.02.29-02.25.56:343][686]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.29-02.25.56:343][686]LogWorld: UWorld::CleanupWorld for NewMapLevelWithTerrain, bSessionEnded=true, bCleanupResources=true
+[2020.02.29-02.25.56:344][686]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.29-02.25.56:351][686]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.29-02.25.56:355][686]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.29-02.25.56:404][686]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.29-02.25.56:409][686]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.29-02.25.56:422][686]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2020.02.29-02.25.56:453][687]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2020.02.29-02.33.51:009][428]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2020.02.29-02.33.51:044][428]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 128X128)
+[2020.02.29-02.33.51:046][428]LogTexture: Display: Building textures: Texture2D_27 (BGRA8, 16X16)
+[2020.02.29-02.33.51:046][428]LogTexture: Display: Building textures: Texture2D_24 (BGRA8, 16X16)
+[2020.02.29-02.33.51:047][428]LogTexture: Display: Building textures: Texture2D_25 (BGRA8, 16X16)
+[2020.02.29-02.33.51:049][428]LogTexture: Display: Building textures: Texture2D_23 (BGRA8, 16X16)
+[2020.02.29-02.33.51:049][428]LogTexture: Display: Building textures: Texture2D_39 (BGRA8, 16X16)
+[2020.02.29-02.33.51:051][428]LogTexture: Display: Building textures: Texture2D_38 (BGRA8, 16X16)
+[2020.02.29-02.33.51:052][428]LogTexture: Display: Building textures: Texture2D_13 (BGRA8, 16X16)
+[2020.02.29-02.33.51:053][428]LogTexture: Display: Building textures: Texture2D_28 (BGRA8, 16X16)
+[2020.02.29-02.33.51:054][428]LogTexture: Display: Building textures: Texture2D_29 (BGRA8, 16X16)
+[2020.02.29-02.33.51:271][428]LogSavePackage: Moving '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Saved/NewMapLevelWithTerrain5BE48FAD4AE23E109134E8855A0C0186.tmp' to '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Content/Maps/NewMapLevelWithTerrain.umap'
+[2020.02.29-02.33.51:450][428]LogSavePackage: Moving '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Saved/NewMapLevelWithTerrain_BuiltDataFC7843F04B57334BCB8132B049D5EAD4.tmp' to '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Content/Maps/NewMapLevelWithTerrain_BuiltData.uasset'
+[2020.02.29-02.33.51:477][428]AssetCheck: New page: Asset Save: multiple assets
+[2020.02.29-02.33.51:478][428]LogContentValidation: Display: Validating World /Game/Maps/NewMapLevelWithTerrain.NewMapLevelWithTerrain
+[2020.02.29-02.33.51:478][428]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/NewMapLevelWithTerrain_BuiltData.NewMapLevelWithTerrain_BuiltData
+[2020.02.29-02.34.53:434][577]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2020.02.29-02.34.53:461][577]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 128X128)
+[2020.02.29-02.34.53:697][577]LogSavePackage: Moving '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Saved/NewMapLevelWithTerrainF21B7950490C652EAA6085B7C5EBFEDB.tmp' to '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Content/Maps/NewMapLevelWithTerrain.umap'
+[2020.02.29-02.34.53:854][577]LogSavePackage: Moving '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Saved/NewMapLevelWithTerrain_BuiltDataD167BBC3440C53C19C448E8D2518AA14.tmp' to '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Content/Maps/NewMapLevelWithTerrain_BuiltData.uasset'
+[2020.02.29-02.34.53:882][577]AssetCheck: New page: Asset Save: multiple assets
+[2020.02.29-02.34.53:882][577]LogContentValidation: Display: Validating World /Game/Maps/NewMapLevelWithTerrain.NewMapLevelWithTerrain
+[2020.02.29-02.34.53:882][577]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/NewMapLevelWithTerrain_BuiltData.NewMapLevelWithTerrain_BuiltData
+[2020.02.29-02.35.03:466][ 81]MapCheck: New page: Map Check
+[2020.02.29-02.35.03:520][ 81]Cmd: MAP REBUILD ALLVISIBLE
+[2020.02.29-02.35.03:520][ 81]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.02.29-02.35.03:525][ 81]LogWorld: UWorld::CleanupWorld for NewMapLevelWithTerrain, bSessionEnded=true, bCleanupResources=false
+[2020.02.29-02.35.03:609][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2020.02.29-02.35.03:637][ 81]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.29-02.35.03:673][ 81]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.02.29-02.35.03:673][ 81]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.02.29-02.35.03:673][ 81]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.29-02.35.03:720][ 81]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.02.29-02.35.03:720][ 81]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.02.29-02.35.03:720][ 81]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.29-02.35.04:738][ 81]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.02.29-02.35.04:738][ 81]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.02.29-02.35.04:738][ 81]TextureStreamingBuild: Display: Compiling optional shaders took 1.129 seconds.
+[2020.02.29-02.35.04:759][ 81]LogLevel: Display: Export Material TexCoord Scales took 0.021 seconds.
+[2020.02.29-02.35.04:763][ 81]TextureStreamingBuild: Display: Build Texture Streaming took 0.005 seconds.
+[2020.02.29-02.35.04:809][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2020.02.29-02.35.04:816][ 81]LightingResults: New page: Lighting Build - Feb 29, 2020, 4:35:04 AM
+[2020.02.29-02.35.04:891][ 81]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.02.29-02.35.05:025][ 81]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.02.29-02.35.05:051][ 81]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.02.29-02.35.06:077][ 81]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.02.29-02.35.06:077][ 81]LogSwarmInterface: [TryOpenConnection] Local Process ID is 15468
+[2020.02.29-02.35.08:660][ 81]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2020.02.29-02.35.08:661][ 81]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.02.29-02.35.08:661][ 81]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.02.29-02.35.08:661][ 81]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.02.29-02.35.08:661][ 81]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.02.29-02.35.08:661][ 81]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.02.29-02.35.09:028][ 81]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2020.02.29-02.35.09:028][ 81]MapCheck: New page: NewMapLevelWithTerrain - Feb 29, 2020, 4:35:09 AM
+[2020.02.29-02.35.09:028][ 81]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2020.02.29-02.35.09:029][ 81]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 0.741ms to complete.
+[2020.02.29-02.35.09:032][ 81]LogEditorBuildUtils: Build time 0:05
+[2020.02.29-02.35.09:355][ 82]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_130, compiling. 
+[2020.02.29-02.35.09:386][ 82]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.02.29-02.35.09:386][ 82]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.02.29-02.35.09:386][ 82]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_130, compiling. 
+[2020.02.29-02.35.09:471][ 82]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.02.29-02.35.09:471][ 82]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.02.29-02.35.09:502][ 83]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_49, compiling. 
+[2020.02.29-02.35.09:532][ 83]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_49, compiling. 
+[2020.02.29-02.35.09:568][ 84]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_118, compiling. 
+[2020.02.29-02.35.09:593][ 84]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_118, compiling. 
+[2020.02.29-02.35.09:631][ 85]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_17, compiling. 
+[2020.02.29-02.35.09:656][ 85]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_17, compiling. 
+[2020.02.29-02.35.09:691][ 86]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_135, compiling. 
+[2020.02.29-02.35.09:713][ 86]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_135, compiling. 
+[2020.02.29-02.35.09:747][ 87]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_138, compiling. 
+[2020.02.29-02.35.09:768][ 87]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_138, compiling. 
+[2020.02.29-02.35.09:806][ 88]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_140, compiling. 
+[2020.02.29-02.35.09:829][ 88]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_140, compiling. 
+[2020.02.29-02.35.09:849][ 89]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 22
+[2020.02.29-02.35.09:863][ 89]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 18
+[2020.02.29-02.35.09:863][ 89]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_154, compiling. 
+[2020.02.29-02.35.09:899][ 89]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 15
+[2020.02.29-02.35.09:899][ 89]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_154, compiling. 
+[2020.02.29-02.35.09:931][ 90]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.02.29-02.35.10:488][ 98]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_46, compiling. 
+[2020.02.29-02.35.10:515][ 98]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_46, compiling. 
+[2020.02.29-02.35.10:705][101]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_150, compiling. 
+[2020.02.29-02.35.10:743][101]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_150, compiling. 
+[2020.02.29-02.35.11:150][108]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 18
+[2020.02.29-02.35.11:300][110]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_167, compiling. 
+[2020.02.29-02.35.11:320][110]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_167, compiling. 
+[2020.02.29-02.35.11:358][111]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_186, compiling. 
+[2020.02.29-02.35.11:396][111]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_186, compiling. 
+[2020.02.29-02.35.11:444][112]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_187, compiling. 
+[2020.02.29-02.35.11:468][112]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_187, compiling. 
+[2020.02.29-02.35.11:564][114]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 25
+[2020.02.29-02.35.11:929][119]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 18
+[2020.02.29-02.35.11:946][119]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_161, compiling. 
+[2020.02.29-02.35.11:970][119]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_161, compiling. 
+[2020.02.29-02.35.12:001][120]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_166, compiling. 
+[2020.02.29-02.35.12:022][120]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_166, compiling. 
+[2020.02.29-02.35.12:055][121]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_171, compiling. 
+[2020.02.29-02.35.12:081][121]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_171, compiling. 
+[2020.02.29-02.35.12:119][122]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_41, compiling. 
+[2020.02.29-02.35.12:142][122]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_41, compiling. 
+[2020.02.29-02.35.12:176][123]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_38, compiling. 
+[2020.02.29-02.35.12:198][123]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_38, compiling. 
+[2020.02.29-02.35.12:309][125]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 33
+[2020.02.29-02.35.12:690][130]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_29, compiling. 
+[2020.02.29-02.35.12:713][130]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_29, compiling. 
+[2020.02.29-02.35.12:746][131]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_25, compiling. 
+[2020.02.29-02.35.12:772][131]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_25, compiling. 
+[2020.02.29-02.35.12:805][132]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_39, compiling. 
+[2020.02.29-02.35.12:826][132]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_39, compiling. 
+[2020.02.29-02.35.12:860][133]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_23, compiling. 
+[2020.02.29-02.35.12:882][133]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_23, compiling. 
+[2020.02.29-02.35.13:160][138]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 40
+[2020.02.29-02.35.13:240][139]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_30, compiling. 
+[2020.02.29-02.35.13:264][139]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_30, compiling. 
+[2020.02.29-02.35.13:300][140]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_24, compiling. 
+[2020.02.29-02.35.13:323][140]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_24, compiling. 
+[2020.02.29-02.35.13:358][141]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_34, compiling. 
+[2020.02.29-02.35.13:380][141]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_34, compiling. 
+[2020.02.29-02.35.13:420][142]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_22, compiling. 
+[2020.02.29-02.35.13:444][142]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_22, compiling. 
+[2020.02.29-02.35.19:358][147]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 46
+[2020.02.29-02.35.19:358][147]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 36
+[2020.02.29-02.35.19:358][147]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 26
+[2020.02.29-02.35.19:358][147]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 19
+[2020.02.29-02.35.19:358][147]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 14
+[2020.02.29-02.35.19:358][147]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2020.02.29-02.35.19:358][147]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2020.02.29-02.35.19:358][147]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2020.02.29-02.35.19:358][147]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.02.29-02.35.19:358][147]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.02.29-02.35.19:358][147]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.02.29-02.35.23:337][278]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.02.29-02.35.28:825][555]Job is a success!
+[2020.02.29-02.35.29:142][556]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.129s
+[2020.02.29-02.35.29:142][556]LogVolumetricLightmapImport:      Indirection Texture 32x32x16 = 0.1Mb
+[2020.02.29-02.35.29:142][556]LogVolumetricLightmapImport:      BrickData (all levels) 2.5Mb (trimmed 0.2Mb due to 0.010000 MinBrickError)
+[2020.02.29-02.35.29:142][556]LogVolumetricLightmapImport:      Bricks at depth
+[2020.02.29-02.35.29:142][556]LogVolumetricLightmapImport:          0: 1.0% covering 100.0% of volume
+[2020.02.29-02.35.29:142][556]LogVolumetricLightmapImport:          1: 7.2% covering 11.3% of volume
+[2020.02.29-02.35.29:142][556]LogVolumetricLightmapImport:          2: 91.8% covering 2.3% of volume
+[2020.02.29-02.35.29:142][556]LogVolumetricLightmapImport:      Bricks in each level
+[2020.02.29-02.35.29:142][556]LogVolumetricLightmapImport:          NewMapLevelWithTerrain 			 403 bricks 	 100.0% (Persistent Level)
+[2020.02.29-02.35.29:444][556]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 512X256)
+[2020.02.29-02.35.29:444][556]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2020.02.29-02.35.29:444][556]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 512X512)
+[2020.02.29-02.35.29:444][556]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 64X32)
+[2020.02.29-02.35.29:445][556]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 512X512)
+[2020.02.29-02.35.29:445][556]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2020.02.29-02.35.29:556][556]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2020.02.29-02.35.29:556][556]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 1024X64)
+[2020.02.29-02.35.29:556][556]Lightmass on DESKTOP-PTE761A: 5.23 sec total, 345 ms importing, 61 ms setup, 809 ms photons, 3.96 sec processing, 0 ms extra exporting [66/66 mappings]. Threads: 27.7 sec total, 6.33 sec processing.
+[2020.02.29-02.35.29:556][556]LogStaticLightingSystem: NewMapLevelWithTerrain_BuiltData storing lightmap data for 66 meshes in 3 LightmapResourceClusters (22.0 Meshes per cluster).
+[2020.02.29-02.35.29:612][556]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2020.02.29-02.35.29:633][556]LogStaticLightingSystem: Illumination: 24.7 sec (284 ms encoding lightmaps, 24 ms encoding shadowmaps)
+[2020.02.29-02.35.29:633][556]LogStaticLightingSystem: Lightmap texture memory:  0.7 MB (0.7 MB streaming, 0.0 MB non-streaming), 4 textures
+[2020.02.29-02.35.29:633][556]LogStaticLightingSystem: Shadowmap texture memory: 0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 2 textures
+[2020.02.29-02.35.29:674][556]DumpUnbuiltLightIteractions
+[2020.02.29-02.35.29:674][556]Lights with unbuilt interactions: 0
+[2020.02.29-02.35.29:674][556]
+[2020.02.29-02.35.29:674][556]Primitives with unbuilt interactions: 0
+[2020.02.29-02.35.29:893][557]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.02.29-02.35.29:893][557]MapCheck: New page: NewMapLevelWithTerrain - Feb 29, 2020, 4:35:29 AM
+[2020.02.29-02.35.29:893][557]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.499ms to complete.
+[2020.02.29-02.36.00:940][985]LogSlate: Window 'Message Log' being destroyed
+[2020.02.29-02.36.00:963][985]LogSlate: Window 'Message Log' being destroyed
+[2020.02.29-02.36.03:567][217]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2020.02.29-02.36.03:732][217]LogSavePackage: Moving '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Saved/NewMapLevelWithTerrainDE0828C244DAC7951CA48A8EA6684089.tmp' to '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Content/Maps/NewMapLevelWithTerrain.umap'
+[2020.02.29-02.36.03:883][217]LogSavePackage: Moving '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Saved/NewMapLevelWithTerrain_BuiltData9D8C5E4D405D349E2C29A291D727AB06.tmp' to '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Content/Maps/NewMapLevelWithTerrain_BuiltData.uasset'
+[2020.02.29-02.36.03:910][217]AssetCheck: New page: Asset Save: multiple assets
+[2020.02.29-02.36.03:910][217]LogContentValidation: Display: Validating World /Game/Maps/NewMapLevelWithTerrain.NewMapLevelWithTerrain
+[2020.02.29-02.36.03:910][217]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/NewMapLevelWithTerrain_BuiltData.NewMapLevelWithTerrain_BuiltData
