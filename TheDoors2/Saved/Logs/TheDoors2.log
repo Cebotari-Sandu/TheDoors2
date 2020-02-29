@@ -1796,3 +1796,22 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.29-19.05.53:591][298]AssetCheck: New page: Asset Save: multiple assets
 [2020.02.29-19.05.53:592][298]LogContentValidation: Display: Validating World /Game/Maps/NewMapLevelWithTerrain.NewMapLevelWithTerrain
 [2020.02.29-19.05.53:592][298]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/NewMapLevelWithTerrain_BuiltData.NewMapLevelWithTerrain_BuiltData
+[2020.02.29-19.15.53:114][234]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2020.02.29-19.15.53:115][234]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/NewMapLevelWithTerrain' took 0.032
+[2020.02.29-19.15.53:115][234]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/DarkForest/Materials/M_stairs] ([1] browsable assets)...
+[2020.02.29-19.15.53:157][234]OBJ SavePackage:     Rendered thumbnail for [Material /Game/DarkForest/Materials/M_stairs.M_stairs]
+[2020.02.29-19.15.53:157][234]OBJ SavePackage: Finished generating thumbnails for package [/Game/DarkForest/Materials/M_stairs]
+[2020.02.29-19.15.53:195][234]LogSavePackage: Moving '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Saved/M_stairs_Auto25A089C994611CA0C15AB919C6DC429EA.tmp' to '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Saved/Autosaves/Game/DarkForest/Materials/M_stairs_Auto2.uasset'
+[2020.02.29-19.15.53:196][234]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/DarkForest/Materials/M_Carpet] ([1] browsable assets)...
+[2020.02.29-19.15.53:223][234]OBJ SavePackage:     Rendered thumbnail for [Material /Game/DarkForest/Materials/M_Carpet.M_Carpet]
+[2020.02.29-19.15.53:223][234]OBJ SavePackage: Finished generating thumbnails for package [/Game/DarkForest/Materials/M_Carpet]
+[2020.02.29-19.15.53:259][234]LogSavePackage: Moving '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Saved/M_Carpet_Auto2716DD5664F442294FE22179EDEF629FC.tmp' to '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Saved/Autosaves/Game/DarkForest/Materials/M_Carpet_Auto2.uasset'
+[2020.02.29-19.15.53:260][234]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/DarkForest/Materials/M_Glass] ([1] browsable assets)...
+[2020.02.29-19.15.53:289][234]OBJ SavePackage:     Rendered thumbnail for [Material /Game/DarkForest/Materials/M_Glass.M_Glass]
+[2020.02.29-19.15.53:289][234]OBJ SavePackage: Finished generating thumbnails for package [/Game/DarkForest/Materials/M_Glass]
+[2020.02.29-19.15.53:332][234]LogSavePackage: Moving '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Saved/M_Glass_Auto222B428FB46909E47933381B3085BE30E.tmp' to '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Saved/Autosaves/Game/DarkForest/Materials/M_Glass_Auto2.uasset'
+[2020.02.29-19.15.53:333][234]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/DarkForest/Materials/M_House] ([1] browsable assets)...
+[2020.02.29-19.15.53:357][234]OBJ SavePackage:     Rendered thumbnail for [Material /Game/DarkForest/Materials/M_House.M_House]
+[2020.02.29-19.15.53:357][234]OBJ SavePackage: Finished generating thumbnails for package [/Game/DarkForest/Materials/M_House]
+[2020.02.29-19.15.53:405][234]LogSavePackage: Moving '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Saved/M_House_Auto28593AB7C4A3F5F558FE339B8199867BD.tmp' to '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Saved/Autosaves/Game/DarkForest/Materials/M_House_Auto2.uasset'
+[2020.02.29-19.15.53:407][234]LogFileHelpers: Auto-saving content packages took 0.292
