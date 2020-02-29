@@ -609,3 +609,29 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.29-03.16.24:721][  2]LogRenderer: Reallocating scene render targets to support 816x372 Format 10 NumSamples 1 (Frame:1).
 [2020.02.29-03.16.25:699][ 15]LogAssetRegistry: Asset discovery search completed in 18.1199 seconds
 [2020.02.29-03.16.25:704][ 15]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000010 seconds (updated 0 objects)
+[2020.02.29-03.49.48:147][ 10]LogTemp: Resetting audio stream to device id 
+[2020.02.29-03.49.48:167][ 10]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.29-03.49.48:167][ 10]LogAudioMixer: Display: Name: Speakers (Cirrus Logic CS8409 (AB 57))
+[2020.02.29-03.49.48:167][ 10]LogAudioMixer: Display: Is Default: Yes
+[2020.02.29-03.49.48:167][ 10]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.29-03.49.48:167][ 10]LogAudioMixer: Display: Channel Count Used: 4
+[2020.02.29-03.49.48:167][ 10]LogAudioMixer: Display: Device Channel Count: 4
+[2020.02.29-03.49.48:167][ 10]LogAudioMixer: Display: Channel Order:
+[2020.02.29-03.49.48:167][ 10]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.29-03.49.48:167][ 10]LogAudioMixer: Display: 1: FrontRight
+[2020.02.29-03.49.48:168][ 10]LogAudioMixer: Display: 2: BackLeft
+[2020.02.29-03.49.48:168][ 10]LogAudioMixer: Display: 3: BackRight
+[2020.02.29-03.49.49:986][ 16]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.02.29-14.24.10:562][ 17]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.02.29-14.24.11:772][ 17]LogTemp: Resetting audio stream to device id 
+[2020.02.29-14.24.11:825][ 17]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.29-14.24.11:825][ 17]LogAudioMixer: Display: Name: Speakers (Cirrus Logic CS8409 (AB 57))
+[2020.02.29-14.24.11:825][ 17]LogAudioMixer: Display: Is Default: Yes
+[2020.02.29-14.24.11:825][ 17]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.29-14.24.11:826][ 17]LogAudioMixer: Display: Channel Count Used: 4
+[2020.02.29-14.24.11:826][ 17]LogAudioMixer: Display: Device Channel Count: 4
+[2020.02.29-14.24.11:826][ 17]LogAudioMixer: Display: Channel Order:
+[2020.02.29-14.24.11:826][ 17]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.29-14.24.11:826][ 17]LogAudioMixer: Display: 1: FrontRight
+[2020.02.29-14.24.11:826][ 17]LogAudioMixer: Display: 2: BackLeft
+[2020.02.29-14.24.11:826][ 17]LogAudioMixer: Display: 3: BackRight

@@ -1473,3 +1473,52 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.29-03.47.16:545][500]AssetCheck: New page: Asset Save: multiple assets
 [2020.02.29-03.47.16:545][500]LogContentValidation: Display: Validating World /Game/Maps/NewMapLevelWithTerrain.NewMapLevelWithTerrain
 [2020.02.29-03.47.16:545][500]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/NewMapLevelWithTerrain_BuiltData.NewMapLevelWithTerrain_BuiltData
+[2020.02.29-03.49.48:214][219]LogTemp: Resetting audio stream to device id 
+[2020.02.29-03.49.48:231][219]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.29-03.49.48:232][219]LogAudioMixer: Display: Name: Speakers (Cirrus Logic CS8409 (AB 57))
+[2020.02.29-03.49.48:232][219]LogAudioMixer: Display: Is Default: Yes
+[2020.02.29-03.49.48:232][219]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.29-03.49.48:232][219]LogAudioMixer: Display: Channel Count Used: 4
+[2020.02.29-03.49.48:232][219]LogAudioMixer: Display: Device Channel Count: 4
+[2020.02.29-03.49.48:232][219]LogAudioMixer: Display: Channel Order:
+[2020.02.29-03.49.48:232][219]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.29-03.49.48:232][219]LogAudioMixer: Display: 1: FrontRight
+[2020.02.29-03.49.48:232][219]LogAudioMixer: Display: 2: BackLeft
+[2020.02.29-03.49.48:232][219]LogAudioMixer: Display: 3: BackRight
+[2020.02.29-03.49.49:743][224]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.02.29-14.24.10:763][225]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.02.29-14.24.11:886][225]LogTemp: Resetting audio stream to device id 
+[2020.02.29-14.24.12:098][225]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.29-14.24.12:098][225]LogAudioMixer: Display: Name: Speakers (Cirrus Logic CS8409 (AB 57))
+[2020.02.29-14.24.12:098][225]LogAudioMixer: Display: Is Default: Yes
+[2020.02.29-14.24.12:099][225]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.29-14.24.12:099][225]LogAudioMixer: Display: Channel Count Used: 4
+[2020.02.29-14.24.12:099][225]LogAudioMixer: Display: Device Channel Count: 4
+[2020.02.29-14.24.12:099][225]LogAudioMixer: Display: Channel Order:
+[2020.02.29-14.24.12:099][225]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.29-14.24.12:099][225]LogAudioMixer: Display: 1: FrontRight
+[2020.02.29-14.24.12:099][225]LogAudioMixer: Display: 2: BackLeft
+[2020.02.29-14.24.12:099][225]LogAudioMixer: Display: 3: BackRight
+[2020.02.29-14.24.12:707][228]LogHttp: Warning: 00000266ACC88900: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7DCA8441-4593-B8BA-EF0C-9CB5767C396F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.2-11100242%2B%2B%2BUE4%2BRelease-4.24&UserID=72b8937d4c98625ee789f6ba86a620a4%7C1d804a590b0e44a9a8f9ec539797846e%7Cb15a4a18-d6b6-470d-a3b9-fb141e7c3417&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.02.29-14.24.12:707][228]LogHttp: Warning: 00000266ACC88900: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2020.02.29-14.24.12:707][228]LogHttp: Warning: 00000266ACC88900: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x266d514ff70 [can pipeline])
+[2020.02.29-14.24.12:707][228]LogHttp: Warning: 00000266ACC88900: libcurl info message cache 1 (Re-using existing connection! (#12) with host datarouter.ol.epicgames.com)
+[2020.02.29-14.24.12:707][228]LogHttp: Warning: 00000266ACC88900: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.87.92.96) port 443 (#12))
+[2020.02.29-14.24.12:707][228]LogHttp: Warning: 00000266ACC88900: libcurl info message cache 3 (We are completely uploaded and fine)
+[2020.02.29-14.24.12:707][228]LogHttp: Warning: 00000266ACC88900: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2020.02.29-14.24.12:707][228]LogHttp: Warning: 00000266ACC88900: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2020.02.29-14.24.12:707][228]LogHttp: Warning: 00000266ACC88900: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2020.02.29-14.24.12:707][228]LogHttp: Warning: 00000266ACC88900: libcurl info message cache 7 (Closing connection 12)
+[2020.02.29-14.24.12:707][228]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7DCA8441-4593-B8BA-EF0C-9CB5767C396F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.2-11100242%2B%2B%2BUE4%2BRelease-4.24&UserID=72b8937d4c98625ee789f6ba86a620a4%7C1d804a590b0e44a9a8f9ec539797846e%7Cb15a4a18-d6b6-470d-a3b9-fb141e7c3417&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.02.29-14.24.26:536][351]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2020.02.29-14.24.26:697][351]LogSavePackage: Moving '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Saved/NewMapLevelWithTerrainBC2FA1734A39350BF490ECB00123571D.tmp' to '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Content/Maps/NewMapLevelWithTerrain.umap'
+[2020.02.29-14.24.26:809][351]LogSavePackage: Moving '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Saved/NewMapLevelWithTerrain_BuiltData74AF449740ADFF538321549D6D2BF67B.tmp' to '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Content/Maps/NewMapLevelWithTerrain_BuiltData.uasset'
+[2020.02.29-14.24.26:826][351]AssetCheck: New page: Asset Save: multiple assets
+[2020.02.29-14.24.26:827][351]LogContentValidation: Display: Validating World /Game/Maps/NewMapLevelWithTerrain.NewMapLevelWithTerrain
+[2020.02.29-14.24.26:827][351]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/NewMapLevelWithTerrain_BuiltData.NewMapLevelWithTerrain_BuiltData
+[2020.02.29-14.45.04:722][363]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2020.02.29-14.45.04:881][363]LogSavePackage: Moving '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Saved/NewMapLevelWithTerrain1588EB1E446B2767B2A4FEA53FC59E4E.tmp' to '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Content/Maps/NewMapLevelWithTerrain.umap'
+[2020.02.29-14.45.04:992][363]LogSavePackage: Moving '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Saved/NewMapLevelWithTerrain_BuiltData1B664EF547FE6CF87FA889A6837170B5.tmp' to '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Content/Maps/NewMapLevelWithTerrain_BuiltData.uasset'
+[2020.02.29-14.45.05:009][363]AssetCheck: New page: Asset Save: multiple assets
+[2020.02.29-14.45.05:009][363]LogContentValidation: Display: Validating World /Game/Maps/NewMapLevelWithTerrain.NewMapLevelWithTerrain
+[2020.02.29-14.45.05:009][363]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/NewMapLevelWithTerrain_BuiltData.NewMapLevelWithTerrain_BuiltData
