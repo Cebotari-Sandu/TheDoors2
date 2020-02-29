@@ -2059,3 +2059,102 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.29-15.37.12:884][796]AssetCheck: New page: Asset Save: multiple assets
 [2020.02.29-15.37.12:884][796]LogContentValidation: Display: Validating World /Game/Maps/NewMapLevelWithTerrain.NewMapLevelWithTerrain
 [2020.02.29-15.37.12:884][796]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/NewMapLevelWithTerrain_BuiltData.NewMapLevelWithTerrain_BuiltData
+[2020.02.29-15.41.31:813][697]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.02.29-15.41.34:193][834]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2020.02.29-15.41.38:758][102]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.02.29-15.42.10:370][193]MapCheck: New page: Map Check
+[2020.02.29-15.42.10:390][193]Cmd: MAP REBUILD ALLVISIBLE
+[2020.02.29-15.42.10:390][193]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.02.29-15.42.10:393][193]LogWorld: UWorld::CleanupWorld for NewMapLevelWithTerrain, bSessionEnded=true, bCleanupResources=false
+[2020.02.29-15.42.10:439][193]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2020.02.29-15.42.10:453][193]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.29-15.42.10:468][193]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.02.29-15.42.10:468][193]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.02.29-15.42.10:468][193]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.29-15.42.10:488][193]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.02.29-15.42.10:488][193]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.02.29-15.42.10:488][193]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.29-15.42.11:645][193]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.02.29-15.42.11:645][193]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.02.29-15.42.11:645][193]TextureStreamingBuild: Display: Compiling optional shaders took 1.201 seconds.
+[2020.02.29-15.42.11:655][193]LogLevel: Display: Export Material TexCoord Scales took 0.010 seconds.
+[2020.02.29-15.42.11:658][193]TextureStreamingBuild: Display: Build Texture Streaming took 0.003 seconds.
+[2020.02.29-15.42.11:684][193]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.02.29-15.42.11:687][193]LightingResults: New page: Lighting Build - Feb 29, 2020, 5:42:11 PM
+[2020.02.29-15.42.11:698][193]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.02.29-15.42.11:703][193]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.02.29-15.42.11:703][193]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.02.29-15.42.11:704][193]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.02.29-15.42.11:704][193]LogSwarmInterface: [TryOpenConnection] Local Process ID is 820
+[2020.02.29-15.42.16:213][193]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2020.02.29-15.42.16:214][193]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.02.29-15.42.16:214][193]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.02.29-15.42.16:214][193]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.02.29-15.42.16:214][193]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.02.29-15.42.16:214][193]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.02.29-15.42.16:404][193]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2020.02.29-15.42.16:404][193]MapCheck: New page: NewMapLevelWithTerrain - Feb 29, 2020, 5:42:16 PM
+[2020.02.29-15.42.16:410][193]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2020.02.29-15.42.16:410][193]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 6.38ms to complete.
+[2020.02.29-15.42.16:412][193]LogEditorBuildUtils: Build time 0:06
+[2020.02.29-15.42.17:609][211]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_90, compiling. 
+[2020.02.29-15.42.17:641][211]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.02.29-15.42.17:641][211]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.02.29-15.42.17:641][211]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_90, compiling. 
+[2020.02.29-15.42.17:653][212]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.02.29-15.42.17:653][212]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.02.29-15.42.18:093][219]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_190, compiling. 
+[2020.02.29-15.42.18:113][219]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.02.29-15.42.18:113][219]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.02.29-15.42.18:113][219]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_190, compiling. 
+[2020.02.29-15.42.18:223][221]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.02.29-15.42.18:223][221]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.02.29-15.42.21:885][350]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2020.02.29-15.42.27:534][647]Job is a success!
+[2020.02.29-15.42.27:807][648]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.104s
+[2020.02.29-15.42.27:807][648]LogVolumetricLightmapImport:      Indirection Texture 32x32x16 = 0.1Mb
+[2020.02.29-15.42.27:807][648]LogVolumetricLightmapImport:      BrickData (all levels) 2.5Mb (trimmed 0.1Mb due to 0.010000 MinBrickError)
+[2020.02.29-15.42.27:807][648]LogVolumetricLightmapImport:      Bricks at depth
+[2020.02.29-15.42.27:807][648]LogVolumetricLightmapImport:          0: 1.0% covering 100.0% of volume
+[2020.02.29-15.42.27:807][648]LogVolumetricLightmapImport:          1: 7.0% covering 11.3% of volume
+[2020.02.29-15.42.27:807][648]LogVolumetricLightmapImport:          2: 92.0% covering 2.3% of volume
+[2020.02.29-15.42.27:807][648]LogVolumetricLightmapImport:      Bricks in each level
+[2020.02.29-15.42.27:807][648]LogVolumetricLightmapImport:          NewMapLevelWithTerrain 			 415 bricks 	 100.0% (Persistent Level)
+[2020.02.29-15.42.28:094][648]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 512X256)
+[2020.02.29-15.42.28:094][648]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 512X512)
+[2020.02.29-15.42.28:094][648]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 512X512)
+[2020.02.29-15.42.28:094][648]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 64X32)
+[2020.02.29-15.42.28:094][648]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2020.02.29-15.42.28:094][648]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2020.02.29-15.42.28:094][648]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 64X32)
+[2020.02.29-15.42.28:094][648]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 64X64)
+[2020.02.29-15.42.28:094][648]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 64X64)
+[2020.02.29-15.42.28:134][648]LogTexture: Display: Building textures: ShadowMapTexture2D_11 (BGRA8, 32X32)
+[2020.02.29-15.42.28:135][648]LogTexture: Display: Building textures: ShadowMapTexture2D_12 (BGRA8, 32X32)
+[2020.02.29-15.42.28:135][648]LogTexture: Display: Building textures: ShadowMapTexture2D_10 (BGRA8, 1024X64)
+[2020.02.29-15.42.28:135][648]LogStaticLightingSystem: NewMapLevelWithTerrain_BuiltData storing lightmap data for 67 meshes in 4 LightmapResourceClusters (16.8 Meshes per cluster).
+[2020.02.29-15.42.28:169][648]Lightmass on DESKTOP-PTE761A: 5.60 sec total, 437 ms importing, 64 ms setup, 854 ms photons, 4.20 sec processing, 0 ms extra exporting [67/67 mappings]. Threads: 29.4 sec total, 6.88 sec processing.
+[2020.02.29-15.42.28:171][648]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2020.02.29-15.42.28:182][648]LogStaticLightingSystem: Illumination: 16.4 sec (273 ms encoding lightmaps, 13 ms encoding shadowmaps)
+[2020.02.29-15.42.28:182][648]LogStaticLightingSystem: Lightmap texture memory:  0.7 MB (0.7 MB streaming, 0.0 MB non-streaming), 6 textures
+[2020.02.29-15.42.28:183][648]LogStaticLightingSystem: Shadowmap texture memory: 0.3 MB (0.3 MB streaming, 0.0 MB non-streaming), 3 textures
+[2020.02.29-15.42.28:223][648]DumpUnbuiltLightIteractions
+[2020.02.29-15.42.28:223][648]Lights with unbuilt interactions: 0
+[2020.02.29-15.42.28:223][648]
+[2020.02.29-15.42.28:223][648]Primitives with unbuilt interactions: 0
+[2020.02.29-15.42.28:353][649]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.02.29-15.42.28:353][649]MapCheck: New page: NewMapLevelWithTerrain - Feb 29, 2020, 5:42:28 PM
+[2020.02.29-15.42.28:353][649]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.474ms to complete.
+[2020.02.29-15.45.18:463][266]LogSlate: Window 'Message Log' being destroyed
+[2020.02.29-15.45.18:505][266]LogSlate: Window 'Message Log' being destroyed
+[2020.02.29-15.47.13:625][752]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2020.02.29-15.47.13:788][752]LogSavePackage: Moving '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Saved/NewMapLevelWithTerrain_Auto28019F7FC431D1001BA15F38246A9379E.tmp' to '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Saved/Autosaves/Game/Maps/NewMapLevelWithTerrain_Auto2.umap'
+[2020.02.29-15.47.13:791][752]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/NewMapLevelWithTerrain' took 0.195
+[2020.02.29-15.47.13:791][752]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.195
+[2020.02.29-15.47.18:496][ 21]LogSlate: Took 0.007601 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.02.29-15.47.28:653][624]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2020.02.29-15.47.28:798][624]LogSavePackage: Moving '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Saved/NewMapLevelWithTerrainE9A589B943A2DF53C84CDC945AE0BF12.tmp' to '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Content/Maps/NewMapLevelWithTerrain.umap'
+[2020.02.29-15.47.28:905][624]LogSavePackage: Moving '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Saved/NewMapLevelWithTerrain_BuiltData2A7C5722438BFE44DA40BDBB10C06F07.tmp' to '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Content/Maps/NewMapLevelWithTerrain_BuiltData.uasset'
+[2020.02.29-15.47.28:923][624]AssetCheck: New page: Asset Save: multiple assets
+[2020.02.29-15.47.28:923][624]LogContentValidation: Display: Validating World /Game/Maps/NewMapLevelWithTerrain.NewMapLevelWithTerrain
+[2020.02.29-15.47.28:923][624]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/NewMapLevelWithTerrain_BuiltData.NewMapLevelWithTerrain_BuiltData
