@@ -1522,3 +1522,9 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.29-14.45.05:009][363]AssetCheck: New page: Asset Save: multiple assets
 [2020.02.29-14.45.05:009][363]LogContentValidation: Display: Validating World /Game/Maps/NewMapLevelWithTerrain.NewMapLevelWithTerrain
 [2020.02.29-14.45.05:009][363]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/NewMapLevelWithTerrain_BuiltData.NewMapLevelWithTerrain_BuiltData
+[2020.02.29-14.49.11:285][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2020.02.29-14.49.11:425][ 16]LogSavePackage: Moving '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Saved/NewMapLevelWithTerrainDD3EF1A34F77167F402FD786CD76EAC3.tmp' to '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Content/Maps/NewMapLevelWithTerrain.umap'
+[2020.02.29-14.49.11:517][ 16]LogSavePackage: Moving '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Saved/NewMapLevelWithTerrain_BuiltData175127A14F638A6A270FF7BC74DED1CE.tmp' to '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Content/Maps/NewMapLevelWithTerrain_BuiltData.uasset'
+[2020.02.29-14.49.11:535][ 16]AssetCheck: New page: Asset Save: multiple assets
+[2020.02.29-14.49.11:535][ 16]LogContentValidation: Display: Validating World /Game/Maps/NewMapLevelWithTerrain.NewMapLevelWithTerrain
+[2020.02.29-14.49.11:535][ 16]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/NewMapLevelWithTerrain_BuiltData.NewMapLevelWithTerrain_BuiltData
