@@ -1022,3 +1022,27 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.29-17.54.31:643][896]AssetCheck: New page: Asset Save: multiple assets
 [2020.02.29-17.54.31:643][896]LogContentValidation: Display: Validating World /Game/Maps/NewMapLevelWithTerrain.NewMapLevelWithTerrain
 [2020.02.29-17.54.31:643][896]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/NewMapLevelWithTerrain_BuiltData.NewMapLevelWithTerrain_BuiltData
+[2020.02.29-17.55.28:460][372]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2020.02.29-17.55.28:548][372]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 34
+[2020.02.29-17.55.28:548][372]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 25
+[2020.02.29-17.55.28:548][372]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 16
+[2020.02.29-17.55.28:548][372]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2020.02.29-17.55.28:623][374]LogMaterial: Display: Missing cached shader map for material Material_1, compiling. 
+[2020.02.29-17.55.30:593][480]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 34
+[2020.02.29-17.55.30:843][495]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 25
+[2020.02.29-17.55.31:360][526]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 18
+[2020.02.29-17.55.32:310][583]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 13
+[2020.02.29-17.55.32:711][607]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2020.02.29-17.55.32:946][620]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2020.02.29-17.55.33:231][637]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2020.02.29-17.55.33:800][671]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.02.29-17.55.34:083][688]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.02.29-17.57.52:637][225]LogDirectoryWatcher: A directory notification failed for 'C:/Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2020.02.29-17.57.52:637][225]LogDirectoryWatcher: A directory notification failed for 'C:/Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Content/Developers/AlbaSamaranch/Collections/' because it could not be accessed. Aborting watch request...
+[2020.02.29-17.57.52:637][225]LogDirectoryWatcher: A directory notification failed for 'C:/Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2020.02.29-18.24.24:558][955]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.02.29-18.28.58:347][766]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.02.29-18.28.58:347][766]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.02.29-18.53.12:900][ 90]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.02.29-18.53.13:346][ 91]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.02.29-18.53.13:773][ 92]LogAudioMixer: Display: Audio Buffer Underrun detected.
