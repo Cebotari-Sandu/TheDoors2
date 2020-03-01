@@ -1991,3 +1991,1037 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.29-23.02.02:555][ 24]LogAudioMixer: Display: Channel Order:
 [2020.02.29-23.02.02:555][ 24]LogAudioMixer: Display: 0: FrontLeft
 [2020.02.29-23.02.02:555][ 24]LogAudioMixer: Display: 1: FrontRight
+[2020.03.01-00.15.58:900][155]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.01-00.15.59:525][159]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2020.03.01-00.16.04:467][159]LogSlate: Window 'Save Content' being destroyed
+[2020.03.01-00.30.12:112][908]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2020.03.01-01.16.08:160][992]LogActorFactory: Actor Factory created SM_house_doorway
+[2020.03.01-01.16.10:911][155]LogActorFactory: Actor Factory created SM_house_doorway
+[2020.03.01-01.17.00:723][105]LogUObjectHash: Compacting FUObjectHashTables data took   6.24ms
+[2020.03.01-01.17.00:921][105]LogSavePackage: Moving '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Saved/NewMapLevelWithTerrain_Auto377E3EDC14778A1C315875B8EFE8017AC.tmp' to '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Saved/Autosaves/Game/Maps/NewMapLevelWithTerrain_Auto3.umap'
+[2020.03.01-01.17.00:928][105]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/NewMapLevelWithTerrain' took 0.241
+[2020.03.01-01.17.00:928][105]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.241
+[2020.03.01-01.17.27:345][683]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.03.01-01.17.27:499][683]LogSavePackage: Moving '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Saved/NewMapLevelWithTerrain8D83076746DF280615759E8241F4120D.tmp' to '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Content/Maps/NewMapLevelWithTerrain.umap'
+[2020.03.01-01.17.28:020][683]LogSavePackage: Moving '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Saved/NewMapLevelWithTerrain_BuiltDataB1B22D6B49AAB6318ED3E59000A518EF.tmp' to '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Content/Maps/NewMapLevelWithTerrain_BuiltData.uasset'
+[2020.03.01-01.17.28:038][683]AssetCheck: New page: Asset Save: multiple assets
+[2020.03.01-01.17.28:038][683]LogContentValidation: Display: Validating World /Game/Maps/NewMapLevelWithTerrain.NewMapLevelWithTerrain
+[2020.03.01-01.17.28:039][683]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/NewMapLevelWithTerrain_BuiltData.NewMapLevelWithTerrain_BuiltData
+[2020.03.01-01.17.29:106][746]MapCheck: New page: Map Check
+[2020.03.01-01.17.29:133][746]Cmd: MAP REBUILD ALLVISIBLE
+[2020.03.01-01.17.29:133][746]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.03.01-01.17.29:142][746]LogWorld: UWorld::CleanupWorld for NewMapLevelWithTerrain, bSessionEnded=true, bCleanupResources=false
+[2020.03.01-01.17.29:206][746]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2020.03.01-01.17.29:237][746]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.03.01-01.17.29:273][746]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.03.01-01.17.29:273][746]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.03.01-01.17.29:273][746]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.03.01-01.17.29:300][746]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.03.01-01.17.29:301][746]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.03.01-01.17.29:301][746]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.03.01-01.17.29:363][746]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.03.01-01.17.29:391][746]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.03.01-01.17.29:408][746]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.03.01-01.17.29:431][746]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.03.01-01.17.29:448][746]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.03.01-01.17.29:468][746]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.03.01-01.17.29:491][746]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.03.01-01.17.29:515][746]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.03.01-01.17.31:674][746]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 18
+[2020.03.01-01.17.31:674][746]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2020.03.01-01.17.31:674][746]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 16
+[2020.03.01-01.17.31:674][746]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 15
+[2020.03.01-01.17.31:674][746]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 14
+[2020.03.01-01.17.31:674][746]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 13
+[2020.03.01-01.17.31:674][746]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2020.03.01-01.17.31:674][746]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2020.03.01-01.17.31:674][746]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2020.03.01-01.17.31:674][746]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2020.03.01-01.17.31:674][746]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2020.03.01-01.17.31:674][746]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2020.03.01-01.17.31:674][746]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.03.01-01.17.31:674][746]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2020.03.01-01.17.31:674][746]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2020.03.01-01.17.31:674][746]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2020.03.01-01.17.31:674][746]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.03.01-01.17.31:674][746]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.03.01-01.17.31:674][746]TextureStreamingBuild: Display: Compiling optional shaders took 2.466 seconds.
+[2020.03.01-01.17.31:698][746]LogLevel: Display: Export Material TexCoord Scales took 0.024 seconds.
+[2020.03.01-01.17.31:711][746]TextureStreamingBuild: Display: Build Texture Streaming took 0.013 seconds.
+[2020.03.01-01.17.31:741][746]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.03.01-01.17.31:746][746]LightingResults: New page: Lighting Build - Mar 1, 2020, 3:17:31 AM
+[2020.03.01-01.17.31:761][746]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2020.03.01-01.17.31:761][746]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2020.03.01-01.17.31:762][746]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2020.03.01-01.17.31:765][746]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.03.01-01.17.31:775][746]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.03.01-01.17.31:776][746]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.03.01-01.17.31:778][746]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.03.01-01.17.31:778][746]LogSwarmInterface: [TryOpenConnection] Local Process ID is 18056
+[2020.03.01-01.17.36:293][746]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2020.03.01-01.17.36:294][746]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.03.01-01.17.36:294][746]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.03.01-01.17.36:294][746]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.03.01-01.17.36:294][746]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.03.01-01.17.36:294][746]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.03.01-01.17.36:453][746]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2020.03.01-01.17.36:453][746]MapCheck: New page: NewMapLevelWithTerrain - Mar 1, 2020, 3:17:36 AM
+[2020.03.01-01.17.36:454][746]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2020.03.01-01.17.36:455][746]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 2.051ms to complete.
+[2020.03.01-01.17.36:457][746]LogEditorBuildUtils: Build time 0:07
+[2020.03.01-01.17.36:715][747]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_stairs, compiling. 
+[2020.03.01-01.17.36:735][747]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.03.01-01.17.36:735][747]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.03.01-01.17.36:735][747]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_stairs, compiling. 
+[2020.03.01-01.17.36:822][747]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.03.01-01.17.36:822][747]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.03.01-01.17.36:847][748]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Carpet, compiling. 
+[2020.03.01-01.17.36:868][748]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Carpet, compiling. 
+[2020.03.01-01.17.36:992][749]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Glass, compiling. 
+[2020.03.01-01.17.37:016][749]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Glass, compiling. 
+[2020.03.01-01.17.37:059][750]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_House, compiling. 
+[2020.03.01-01.17.37:085][750]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_House, compiling. 
+[2020.03.01-01.17.38:536][752]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2020.03.01-01.17.38:536][752]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.03.01-01.17.38:536][752]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2020.03.01-01.17.38:536][752]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2020.03.01-01.17.38:536][752]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.03.01-01.17.38:536][752]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.03.01-01.17.38:808][762]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2020.03.01-01.18.14:288][411]LightingResults: Warning: SM_tree1 Object has wrapping UVs.
+[2020.03.01-01.18.14:288][411]LightingResults: Warning: SM_tree1 Object has overlapping UVs.
+[2020.03.01-01.18.14:288][411]LightingResults: SM_tree1 Lightmap UV are overlapping by 98.9%. Please adjust content - Enable Error Coloring to visualize.
+[2020.03.01-01.19.08:387][674]LightingResults: Warning: SM_House_single Object has overlapping UVs.
+[2020.03.01-01.19.08:387][674]LightingResults: SM_House_single Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2020.03.01-01.19.11:321][762]Job is a success!
+[2020.03.01-01.19.11:743][763]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.165s
+[2020.03.01-01.19.11:743][763]LogVolumetricLightmapImport:      Indirection Texture 32x32x16 = 0.1Mb
+[2020.03.01-01.19.11:744][763]LogVolumetricLightmapImport:      BrickData (all levels) 2.3Mb (trimmed 0.9Mb due to 0.010000 MinBrickError)
+[2020.03.01-01.19.11:744][763]LogVolumetricLightmapImport:      Bricks at depth
+[2020.03.01-01.19.11:744][763]LogVolumetricLightmapImport:          0: 1.2% covering 100.0% of volume
+[2020.03.01-01.19.11:744][763]LogVolumetricLightmapImport:          1: 9.0% covering 11.3% of volume
+[2020.03.01-01.19.11:744][763]LogVolumetricLightmapImport:          2: 89.7% covering 1.8% of volume
+[2020.03.01-01.19.11:744][763]LogVolumetricLightmapImport:      Bricks in each level
+[2020.03.01-01.19.11:744][763]LogVolumetricLightmapImport:          NewMapLevelWithTerrain 			 321 bricks 	 100.0% (Persistent Level)
+[2020.03.01-01.19.16:167][763]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2020.03.01-01.19.16:167][763]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2020.03.01-01.19.16:167][763]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2020.03.01-01.19.16:167][763]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 64X64)
+[2020.03.01-01.19.16:167][763]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2020.03.01-01.19.16:167][763]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 64X64)
+[2020.03.01-01.19.16:368][763]LogTexture: Display: Building textures: ShadowMapTexture2D_9 (G8, 32X32)
+[2020.03.01-01.19.16:638][763]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (G8, 1024X1024)
+[2020.03.01-01.19.16:639][763]LogStaticLightingSystem: NewMapLevelWithTerrain_BuiltData storing lightmap data for 80 meshes in 4 LightmapResourceClusters (20.0 Meshes per cluster).
+[2020.03.01-01.19.16:643][763]Lightmass on DESKTOP-PTE761A: 1:37 min total, 1.03 sec importing, 2.16 sec setup, 12.5 sec photons, 1:21 min processing, 0 ms extra exporting [277/277 mappings]. Threads: 9:29 min total, 6:37 min processing.
+[2020.03.01-01.19.16:704][763]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2020.03.01-01.19.16:735][763]LogStaticLightingSystem: Illumination: 1:44 min (3.61 sec encoding lightmaps, 448 ms encoding shadowmaps)
+[2020.03.01-01.19.16:735][763]LogStaticLightingSystem: Lightmap texture memory:  4.0 MB (4.0 MB streaming, 0.0 MB non-streaming), 6 textures
+[2020.03.01-01.19.16:735][763]LogStaticLightingSystem: Shadowmap texture memory: 1.3 MB (1.3 MB streaming, 0.0 MB non-streaming), 2 textures
+[2020.03.01-01.19.17:374][763]DumpUnbuiltLightIteractions
+[2020.03.01-01.19.17:374][763]Lights with unbuilt interactions: 0
+[2020.03.01-01.19.17:374][763]
+[2020.03.01-01.19.17:374][763]Primitives with unbuilt interactions: 0
+[2020.03.01-01.19.17:586][764]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.03.01-01.19.17:587][764]MapCheck: New page: NewMapLevelWithTerrain - Mar 1, 2020, 3:19:17 AM
+[2020.03.01-01.19.17:587][764]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.804ms to complete.
+[2020.03.01-01.19.50:345][890]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.01-01.20.00:627][148]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.01-01.20.11:225][398]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.01-01.20.11:725][398]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.01-01.20.12:229][399]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.01-01.20.12:727][399]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.01-01.20.13:228][399]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.01-01.20.21:624][641]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.01-01.20.22:125][641]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.01-01.20.22:628][642]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.01-01.20.23:127][642]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.01-01.20.33:464][927]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.01-01.20.33:963][927]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.01-01.20.34:468][928]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.01-01.20.34:967][928]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.01-01.20.43:777][194]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.01-01.20.44:277][194]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.01-01.20.44:781][195]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.01-01.21.03:473][589]LogSlate: Window 'Message Log' being destroyed
+[2020.03.01-01.21.03:524][589]LogSlate: Window 'Message Log' being destroyed
+[2020.03.01-01.21.19:530][168]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.01-01.21.19:572][168]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.01-01.21.19:572][168]PIE: New page: PIE session: NewMapLevelWithTerrain (Mar 1, 2020, 3:21:19 AM)
+[2020.03.01-01.21.19:573][168]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewMapLevelWithTerrain
+[2020.03.01-01.21.20:171][168]LogPlayLevel: PIE: StaticDuplicateObject took: (0.596468s)
+[2020.03.01-01.21.20:178][168]LogAIModule: Creating AISystem for world NewMapLevelWithTerrain
+[2020.03.01-01.21.20:180][168]LogPlayLevel: PIE: World Init took: (0.008823s)
+[2020.03.01-01.21.20:180][168]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewMapLevelWithTerrain.NewMapLevelWithTerrain to /Game/Maps/UEDPIE_0_NewMapLevelWithTerrain.NewMapLevelWithTerrain (0.606102s)
+[2020.03.01-01.21.20:232][168]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2020.03.01-01.21.20:235][168]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.01-01.21.20:235][168]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.01-01.21.20:236][168]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.01-01.21.20:236][168]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.01-01.21.20:236][168]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.01-01.21.20:236][168]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.01-01.21.20:236][168]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.01-01.21.20:236][168]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.01-01.21.20:239][168]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.01-01.21.20:239][168]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.01-01.21.20:265][168]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.01-01.21.20:265][168]LogAudioMixer: Display: Name: Headphones (Cirrus Logic CS8409 (AB 57))
+[2020.03.01-01.21.20:265][168]LogAudioMixer: Display: Is Default: Yes
+[2020.03.01-01.21.20:265][168]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.01-01.21.20:265][168]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.01-01.21.20:265][168]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.01-01.21.20:266][168]LogAudioMixer: Display: Channel Order:
+[2020.03.01-01.21.20:266][168]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.01-01.21.20:266][168]LogAudioMixer: Display: 1: FrontRight
+[2020.03.01-01.21.20:287][168]LogAudioMixer: Display: Using Audio Device Headphones (Cirrus Logic CS8409 (AB 57))
+[2020.03.01-01.21.20:290][168]LogInit: FAudioDevice initialized.
+[2020.03.01-01.21.20:312][168]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.03.01-01.21.20:320][168]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMapLevelWithTerrain.NewMapLevelWithTerrain up for play (max tick rate 60) at 2020.03.01-02.21.20
+[2020.03.01-01.21.20:320][168]LogWorld: Bringing up level for play took: 0.004657
+[2020.03.01-01.21.20:321][168]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2020.03.01-01.21.20:342][168]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_NewMapLevelWithTerrain 0.76
+[2020.03.01-01.21.30:772][521]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.01-01.21.30:772][521]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.01-01.21.30:783][521]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.01-01.21.30:783][521]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_NewMapLevelWithTerrain
+[2020.03.01-01.21.30:784][521]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.01-01.21.30:784][521]LogWorld: UWorld::CleanupWorld for NewMapLevelWithTerrain, bSessionEnded=true, bCleanupResources=true
+[2020.03.01-01.21.30:786][521]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.01-01.21.30:887][521]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.01-01.21.30:892][521]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.01-01.21.30:938][521]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.01-01.21.30:943][521]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.01-01.21.30:960][521]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2020.03.01-01.21.31:001][522]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2020.03.01-01.21.45:820][228]LogActorFactory: Actor Factory created SM_House_roof_plane
+[2020.03.01-01.21.47:115][299]LogActorFactory: Actor Factory created SM_House_roof_plane
+[2020.03.01-01.21.48:410][360]LogSlate: Took 0.010818 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.03.01-01.22.28:378][188]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_House_roof_plane)
+[2020.03.01-01.22.31:028][344]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2020.03.01-01.22.32:399][422]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_House_roof_plane)
+[2020.03.01-01.23.06:253][130]LogStaticMesh: Building static mesh SM_House_roof_corner...
+[2020.03.01-01.23.06:296][130]LogStaticMesh: Built static mesh [0.04s] /Game/DarkForest/StaticMeshes/SM_House_roof_corner.SM_House_roof_corner
+[2020.03.01-01.23.06:518][138]LogActorFactory: Actor Factory created SM_House_roof_corner
+[2020.03.01-01.23.08:111][231]LogActorFactory: Actor Factory created SM_House_roof_corner
+[2020.03.01-01.23.09:267][296]Cmd: DELETE
+[2020.03.01-01.23.09:267][296]Cmd: ACTOR DELETE
+[2020.03.01-01.23.09:283][296]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.01-01.23.09:337][296]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2020.03.01-01.23.09:341][296]LogEditorActor: Deleted 1 Actors (0.065 secs)
+[2020.03.01-01.23.13:060][518]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_House_roof_plane)
+[2020.03.01-01.23.33:387][451]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2020.03.01-01.23.33:657][451]LogSavePackage: Moving '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Saved/NewMapLevelWithTerrainC964FC3E45A39C405FD7F3A9B33DABD2.tmp' to '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Content/Maps/NewMapLevelWithTerrain.umap'
+[2020.03.01-01.23.34:536][451]LogSavePackage: Moving '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Saved/NewMapLevelWithTerrain_BuiltDataD7DFDB394529E02EF57B40AF5E0915D4.tmp' to '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Content/Maps/NewMapLevelWithTerrain_BuiltData.uasset'
+[2020.03.01-01.23.34:579][451]AssetCheck: New page: Asset Save: multiple assets
+[2020.03.01-01.23.34:579][451]LogContentValidation: Display: Validating World /Game/Maps/NewMapLevelWithTerrain.NewMapLevelWithTerrain
+[2020.03.01-01.23.34:579][451]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/NewMapLevelWithTerrain_BuiltData.NewMapLevelWithTerrain_BuiltData
+[2020.03.01-01.23.49:939][939]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2020.03.01-01.23.50:090][939]LogSavePackage: Moving '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Saved/NewMapLevelWithTerrainA0AE3FD54CBDC7B34C88428B8693DA8C.tmp' to '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Content/Maps/NewMapLevelWithTerrain.umap'
+[2020.03.01-01.23.50:579][939]LogSavePackage: Moving '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Saved/NewMapLevelWithTerrain_BuiltDataDB73B4FE4D89D2B7A4E4148727D82A28.tmp' to '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Content/Maps/NewMapLevelWithTerrain_BuiltData.uasset'
+[2020.03.01-01.23.50:605][939]AssetCheck: New page: Asset Save: multiple assets
+[2020.03.01-01.23.50:605][939]LogContentValidation: Display: Validating World /Game/Maps/NewMapLevelWithTerrain.NewMapLevelWithTerrain
+[2020.03.01-01.23.50:606][939]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/NewMapLevelWithTerrain_BuiltData.NewMapLevelWithTerrain_BuiltData
+[2020.03.01-01.28.24:844][826]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.01-01.28.24:861][826]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.01-01.28.24:861][826]PIE: New page: PIE session: NewMapLevelWithTerrain (Mar 1, 2020, 3:28:24 AM)
+[2020.03.01-01.28.24:861][826]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewMapLevelWithTerrain
+[2020.03.01-01.28.25:131][826]LogPlayLevel: PIE: StaticDuplicateObject took: (0.270579s)
+[2020.03.01-01.28.25:132][826]LogAIModule: Creating AISystem for world NewMapLevelWithTerrain
+[2020.03.01-01.28.25:132][826]LogPlayLevel: PIE: World Init took: (0.001196s)
+[2020.03.01-01.28.25:132][826]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewMapLevelWithTerrain.NewMapLevelWithTerrain to /Game/Maps/UEDPIE_0_NewMapLevelWithTerrain.NewMapLevelWithTerrain (0.271940s)
+[2020.03.01-01.28.25:162][826]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2020.03.01-01.28.25:163][826]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.01-01.28.25:163][826]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.01-01.28.25:163][826]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.01-01.28.25:163][826]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.01-01.28.25:163][826]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.01-01.28.25:163][826]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.01-01.28.25:163][826]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.01-01.28.25:163][826]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.01-01.28.25:164][826]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.01-01.28.25:164][826]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.01-01.28.25:177][826]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.01-01.28.25:178][826]LogAudioMixer: Display: Name: Headphones (Cirrus Logic CS8409 (AB 57))
+[2020.03.01-01.28.25:178][826]LogAudioMixer: Display: Is Default: Yes
+[2020.03.01-01.28.25:178][826]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.01-01.28.25:178][826]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.01-01.28.25:178][826]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.01-01.28.25:178][826]LogAudioMixer: Display: Channel Order:
+[2020.03.01-01.28.25:178][826]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.01-01.28.25:178][826]LogAudioMixer: Display: 1: FrontRight
+[2020.03.01-01.28.25:189][826]LogAudioMixer: Display: Using Audio Device Headphones (Cirrus Logic CS8409 (AB 57))
+[2020.03.01-01.28.25:191][826]LogInit: FAudioDevice initialized.
+[2020.03.01-01.28.25:199][826]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.03.01-01.28.25:203][826]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMapLevelWithTerrain.NewMapLevelWithTerrain up for play (max tick rate 60) at 2020.03.01-02.28.25
+[2020.03.01-01.28.25:203][826]LogWorld: Bringing up level for play took: 0.002337
+[2020.03.01-01.28.25:203][826]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2020.03.01-01.28.25:207][826]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_NewMapLevelWithTerrain -0.376
+[2020.03.01-01.28.54:137][554]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.01-01.28.54:137][554]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.01-01.28.54:137][554]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.01-01.28.54:137][554]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_NewMapLevelWithTerrain
+[2020.03.01-01.28.54:137][554]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.01-01.28.54:137][554]LogWorld: UWorld::CleanupWorld for NewMapLevelWithTerrain, bSessionEnded=true, bCleanupResources=true
+[2020.03.01-01.28.54:138][554]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.01-01.28.54:147][554]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.01-01.28.54:151][554]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.01-01.28.54:180][554]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.01-01.28.54:183][554]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.01-01.28.54:194][554]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2020.03.01-01.28.54:247][556]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2020.03.01-01.28.57:467][720]LogActorFactory: Actor Factory created SM_house_stairs
+[2020.03.01-01.28.59:307][830]LogActorFactory: Actor Factory created SM_house_stairs
+[2020.03.01-01.29.28:864][509]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2020.03.01-01.29.29:030][509]LogSavePackage: Moving '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Saved/NewMapLevelWithTerrainC1C39B33475F5D0B74F48DB5D520C0A0.tmp' to '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Content/Maps/NewMapLevelWithTerrain.umap'
+[2020.03.01-01.29.29:532][509]LogSavePackage: Moving '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Saved/NewMapLevelWithTerrain_BuiltDataE9661C7546F26BA712DB26A37190F15A.tmp' to '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Content/Maps/NewMapLevelWithTerrain_BuiltData.uasset'
+[2020.03.01-01.29.29:551][509]AssetCheck: New page: Asset Save: multiple assets
+[2020.03.01-01.29.29:551][509]LogContentValidation: Display: Validating World /Game/Maps/NewMapLevelWithTerrain.NewMapLevelWithTerrain
+[2020.03.01-01.29.29:551][509]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/NewMapLevelWithTerrain_BuiltData.NewMapLevelWithTerrain_BuiltData
+[2020.03.01-01.48.02:071][678]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2020.03.01-01.48.02:760][716]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2020.03.01-01.48.03:558][763]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_house_doorway)
+[2020.03.01-01.48.10:713][ 72]LogActorFactory: Actor Factory created SM_House_single
+[2020.03.01-01.48.12:868][200]LogActorFactory: Actor Factory created SM_House_single
+[2020.03.01-01.48.14:882][292]LogActorFactory: Actor Factory created SM_House_single
+[2020.03.01-01.48.16:461][386]LogActorFactory: Actor Factory created SM_House_single
+[2020.03.01-01.48.16:490][386]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2020.03.01-01.48.16:705][396]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_House_single3)
+[2020.03.01-01.48.19:232][495]LogActorFactory: Actor Factory created SM_House_single
+[2020.03.01-01.48.20:441][567]LogActorFactory: Actor Factory created SM_House_single
+[2020.03.01-01.48.22:263][643]LogActorFactory: Actor Factory created SM_House_Corner
+[2020.03.01-01.48.23:307][705]LogActorFactory: Actor Factory created SM_House_Corner
+[2020.03.01-01.48.24:378][750]LogActorFactory: Actor Factory created SM_House_Corner
+[2020.03.01-01.48.25:208][799]LogActorFactory: Actor Factory created SM_House_Corner
+[2020.03.01-01.48.26:680][860]LogActorFactory: Actor Factory created SM_House_Corner
+[2020.03.01-01.48.27:175][889]LogActorFactory: Actor Factory created SM_House_Corner
+[2020.03.01-01.48.28:104][926]LogActorFactory: Actor Factory created SM_House_Corner
+[2020.03.01-01.48.28:975][977]LogActorFactory: Actor Factory created SM_House_Corner
+[2020.03.01-01.49.29:296][574]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2020.03.01-01.49.29:459][574]LogSavePackage: Moving '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Saved/NewMapLevelWithTerrain_Auto4228C08C54A220B194A0D1192505C1023.tmp' to '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Saved/Autosaves/Game/Maps/NewMapLevelWithTerrain_Auto4.umap'
+[2020.03.01-01.49.29:461][574]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/NewMapLevelWithTerrain' took 0.193
+[2020.03.01-01.49.29:461][574]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.193
+[2020.03.01-01.50.30:154][211]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2020.03.01-01.50.30:302][211]LogSavePackage: Moving '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Saved/NewMapLevelWithTerrainC01AE1764A922025941C74AF9CBE30F2.tmp' to '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Content/Maps/NewMapLevelWithTerrain.umap'
+[2020.03.01-01.50.30:776][211]LogSavePackage: Moving '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Saved/NewMapLevelWithTerrain_BuiltDataB3010E3E40D5EB29297E26BA7E73A843.tmp' to '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Content/Maps/NewMapLevelWithTerrain_BuiltData.uasset'
+[2020.03.01-01.50.30:793][211]AssetCheck: New page: Asset Save: multiple assets
+[2020.03.01-01.50.30:793][211]LogContentValidation: Display: Validating World /Game/Maps/NewMapLevelWithTerrain.NewMapLevelWithTerrain
+[2020.03.01-01.50.30:793][211]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/NewMapLevelWithTerrain_BuiltData.NewMapLevelWithTerrain_BuiltData
+[2020.03.01-01.54.05:293][823]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_House_Corner8)
+[2020.03.01-01.54.22:299][840]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_House_single3)
+[2020.03.01-01.55.25:344][618]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_house_doorway)
+[2020.03.01-01.55.43:851][725]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_House_single3)
+[2020.03.01-01.55.48:688][  7]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2020.03.01-01.55.48:871][  7]LogSavePackage: Moving '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Saved/NewMapLevelWithTerrain8BB48F144F44A56833821EAEFEAF8709.tmp' to '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Content/Maps/NewMapLevelWithTerrain.umap'
+[2020.03.01-01.55.49:348][  7]LogSavePackage: Moving '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Saved/NewMapLevelWithTerrain_BuiltData5695761746E7BAE9716677A5FCD3CF3F.tmp' to '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Content/Maps/NewMapLevelWithTerrain_BuiltData.uasset'
+[2020.03.01-01.55.49:365][  7]AssetCheck: New page: Asset Save: multiple assets
+[2020.03.01-01.55.49:365][  7]LogContentValidation: Display: Validating World /Game/Maps/NewMapLevelWithTerrain.NewMapLevelWithTerrain
+[2020.03.01-01.55.49:366][  7]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/NewMapLevelWithTerrain_BuiltData.NewMapLevelWithTerrain_BuiltData
+[2020.03.01-01.55.58:062][524]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.01-01.55.58:079][524]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.01-01.55.58:079][524]PIE: New page: PIE session: NewMapLevelWithTerrain (Mar 1, 2020, 3:55:58 AM)
+[2020.03.01-01.55.58:080][524]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewMapLevelWithTerrain
+[2020.03.01-01.55.58:379][524]LogPlayLevel: PIE: StaticDuplicateObject took: (0.299419s)
+[2020.03.01-01.55.58:380][524]LogAIModule: Creating AISystem for world NewMapLevelWithTerrain
+[2020.03.01-01.55.58:381][524]LogPlayLevel: PIE: World Init took: (0.001255s)
+[2020.03.01-01.55.58:381][524]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewMapLevelWithTerrain.NewMapLevelWithTerrain to /Game/Maps/UEDPIE_0_NewMapLevelWithTerrain.NewMapLevelWithTerrain (0.300861s)
+[2020.03.01-01.55.58:408][524]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2020.03.01-01.55.58:410][524]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.01-01.55.58:410][524]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.01-01.55.58:410][524]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.01-01.55.58:410][524]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.01-01.55.58:410][524]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.01-01.55.58:410][524]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.01-01.55.58:410][524]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.01-01.55.58:410][524]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.01-01.55.58:410][524]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.01-01.55.58:410][524]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.01-01.55.58:425][524]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.01-01.55.58:425][524]LogAudioMixer: Display: Name: Headphones (Cirrus Logic CS8409 (AB 57))
+[2020.03.01-01.55.58:425][524]LogAudioMixer: Display: Is Default: Yes
+[2020.03.01-01.55.58:425][524]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.01-01.55.58:425][524]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.01-01.55.58:425][524]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.01-01.55.58:425][524]LogAudioMixer: Display: Channel Order:
+[2020.03.01-01.55.58:425][524]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.01-01.55.58:425][524]LogAudioMixer: Display: 1: FrontRight
+[2020.03.01-01.55.58:435][524]LogAudioMixer: Display: Using Audio Device Headphones (Cirrus Logic CS8409 (AB 57))
+[2020.03.01-01.55.58:437][524]LogInit: FAudioDevice initialized.
+[2020.03.01-01.55.58:448][524]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.03.01-01.55.58:452][524]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMapLevelWithTerrain.NewMapLevelWithTerrain up for play (max tick rate 60) at 2020.03.01-02.55.58
+[2020.03.01-01.55.58:452][524]LogWorld: Bringing up level for play took: 0.003010
+[2020.03.01-01.55.58:453][524]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2020.03.01-01.55.58:457][524]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_NewMapLevelWithTerrain 0.874
+[2020.03.01-01.56.10:176][227]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.01-01.56.10:176][227]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.01-01.56.10:176][227]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.01-01.56.10:176][227]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_NewMapLevelWithTerrain
+[2020.03.01-01.56.10:176][227]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.01-01.56.10:177][227]LogWorld: UWorld::CleanupWorld for NewMapLevelWithTerrain, bSessionEnded=true, bCleanupResources=true
+[2020.03.01-01.56.10:177][227]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.01-01.56.10:188][227]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.01-01.56.10:191][227]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.01-01.56.10:217][227]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.01-01.56.10:220][227]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.01-01.56.10:231][227]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2020.03.01-01.56.10:281][229]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2020.03.01-01.56.12:031][334]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_House_single3)
+[2020.03.01-01.56.20:959][866]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_House_single3)
+[2020.03.01-01.57.00:620][243]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_House_single2)
+[2020.03.01-01.57.17:998][276]Cmd: DELETE
+[2020.03.01-01.57.17:998][276]Cmd: ACTOR DELETE
+[2020.03.01-01.57.18:002][276]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.01-01.57.18:031][276]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2020.03.01-01.57.18:032][276]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2020.03.01-01.57.23:502][601]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2020.03.01-01.57.23:653][601]LogSavePackage: Moving '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Saved/NewMapLevelWithTerrain7B9D132F4741A51E6F0F0A8AF234A3E3.tmp' to '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Content/Maps/NewMapLevelWithTerrain.umap'
+[2020.03.01-01.57.24:108][601]LogSavePackage: Moving '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Saved/NewMapLevelWithTerrain_BuiltData6F9938314ECC230BA98F039C2360BE11.tmp' to '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Content/Maps/NewMapLevelWithTerrain_BuiltData.uasset'
+[2020.03.01-01.57.24:124][601]AssetCheck: New page: Asset Save: multiple assets
+[2020.03.01-01.57.24:124][601]LogContentValidation: Display: Validating World /Game/Maps/NewMapLevelWithTerrain.NewMapLevelWithTerrain
+[2020.03.01-01.57.24:124][601]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/NewMapLevelWithTerrain_BuiltData.NewMapLevelWithTerrain_BuiltData
+[2020.03.01-01.57.50:872][206]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.01-01.57.50:890][206]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.01-01.57.50:890][206]PIE: New page: PIE session: NewMapLevelWithTerrain (Mar 1, 2020, 3:57:50 AM)
+[2020.03.01-01.57.50:890][206]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewMapLevelWithTerrain
+[2020.03.01-01.57.51:154][206]LogPlayLevel: PIE: StaticDuplicateObject took: (0.264180s)
+[2020.03.01-01.57.51:155][206]LogAIModule: Creating AISystem for world NewMapLevelWithTerrain
+[2020.03.01-01.57.51:156][206]LogPlayLevel: PIE: World Init took: (0.001036s)
+[2020.03.01-01.57.51:156][206]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewMapLevelWithTerrain.NewMapLevelWithTerrain to /Game/Maps/UEDPIE_0_NewMapLevelWithTerrain.NewMapLevelWithTerrain (0.265397s)
+[2020.03.01-01.57.51:185][206]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2020.03.01-01.57.51:186][206]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.01-01.57.51:186][206]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.01-01.57.51:186][206]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.01-01.57.51:186][206]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.01-01.57.51:186][206]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.01-01.57.51:186][206]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.01-01.57.51:186][206]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.01-01.57.51:186][206]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.01-01.57.51:187][206]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.01-01.57.51:187][206]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.01-01.57.51:200][206]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.01-01.57.51:200][206]LogAudioMixer: Display: Name: Headphones (Cirrus Logic CS8409 (AB 57))
+[2020.03.01-01.57.51:200][206]LogAudioMixer: Display: Is Default: Yes
+[2020.03.01-01.57.51:200][206]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.01-01.57.51:200][206]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.01-01.57.51:200][206]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.01-01.57.51:200][206]LogAudioMixer: Display: Channel Order:
+[2020.03.01-01.57.51:200][206]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.01-01.57.51:200][206]LogAudioMixer: Display: 1: FrontRight
+[2020.03.01-01.57.51:211][206]LogAudioMixer: Display: Using Audio Device Headphones (Cirrus Logic CS8409 (AB 57))
+[2020.03.01-01.57.51:213][206]LogInit: FAudioDevice initialized.
+[2020.03.01-01.57.51:220][206]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.03.01-01.57.51:223][206]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMapLevelWithTerrain.NewMapLevelWithTerrain up for play (max tick rate 60) at 2020.03.01-02.57.51
+[2020.03.01-01.57.51:223][206]LogWorld: Bringing up level for play took: 0.002599
+[2020.03.01-01.57.51:223][206]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2020.03.01-01.57.51:227][206]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_NewMapLevelWithTerrain -0.356
+[2020.03.01-01.58.02:062][842]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.01-01.58.02:062][842]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.01-01.58.02:063][842]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.01-01.58.02:063][842]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_NewMapLevelWithTerrain
+[2020.03.01-01.58.02:063][842]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.01-01.58.02:063][842]LogWorld: UWorld::CleanupWorld for NewMapLevelWithTerrain, bSessionEnded=true, bCleanupResources=true
+[2020.03.01-01.58.02:064][842]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.01-01.58.02:075][842]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.01-01.58.02:078][842]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.01-01.58.02:107][842]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.01-01.58.02:110][842]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.01-01.58.02:121][842]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2020.03.01-01.58.02:169][844]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2020.03.01-01.59.33:022][291]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.01-01.59.33:037][291]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.01-01.59.33:037][291]PIE: New page: PIE session: NewMapLevelWithTerrain (Mar 1, 2020, 3:59:33 AM)
+[2020.03.01-01.59.33:037][291]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewMapLevelWithTerrain
+[2020.03.01-01.59.33:308][291]LogPlayLevel: PIE: StaticDuplicateObject took: (0.270734s)
+[2020.03.01-01.59.33:309][291]LogAIModule: Creating AISystem for world NewMapLevelWithTerrain
+[2020.03.01-01.59.33:309][291]LogPlayLevel: PIE: World Init took: (0.001024s)
+[2020.03.01-01.59.33:309][291]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewMapLevelWithTerrain.NewMapLevelWithTerrain to /Game/Maps/UEDPIE_0_NewMapLevelWithTerrain.NewMapLevelWithTerrain (0.271917s)
+[2020.03.01-01.59.33:341][291]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2020.03.01-01.59.33:342][291]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.01-01.59.33:342][291]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.01-01.59.33:342][291]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.01-01.59.33:342][291]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.01-01.59.33:342][291]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.01-01.59.33:342][291]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.01-01.59.33:342][291]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.01-01.59.33:342][291]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.01-01.59.33:343][291]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.01-01.59.33:343][291]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.01-01.59.33:355][291]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.01-01.59.33:355][291]LogAudioMixer: Display: Name: Headphones (Cirrus Logic CS8409 (AB 57))
+[2020.03.01-01.59.33:355][291]LogAudioMixer: Display: Is Default: Yes
+[2020.03.01-01.59.33:355][291]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.01-01.59.33:355][291]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.01-01.59.33:355][291]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.01-01.59.33:355][291]LogAudioMixer: Display: Channel Order:
+[2020.03.01-01.59.33:355][291]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.01-01.59.33:355][291]LogAudioMixer: Display: 1: FrontRight
+[2020.03.01-01.59.33:364][291]LogAudioMixer: Display: Using Audio Device Headphones (Cirrus Logic CS8409 (AB 57))
+[2020.03.01-01.59.33:366][291]LogInit: FAudioDevice initialized.
+[2020.03.01-01.59.33:371][291]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.03.01-01.59.33:374][291]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMapLevelWithTerrain.NewMapLevelWithTerrain up for play (max tick rate 60) at 2020.03.01-02.59.33
+[2020.03.01-01.59.33:374][291]LogWorld: Bringing up level for play took: 0.002505
+[2020.03.01-01.59.33:374][291]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2020.03.01-01.59.33:378][291]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_NewMapLevelWithTerrain -0.205
+[2020.03.01-01.59.42:822][857]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.01-01.59.42:822][857]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.01-01.59.42:822][857]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.01-01.59.42:822][857]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_NewMapLevelWithTerrain
+[2020.03.01-01.59.42:822][857]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.01-01.59.42:823][857]LogWorld: UWorld::CleanupWorld for NewMapLevelWithTerrain, bSessionEnded=true, bCleanupResources=true
+[2020.03.01-01.59.42:823][857]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.01-01.59.42:834][857]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.01-01.59.42:838][857]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.01-01.59.42:866][857]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.01-01.59.42:869][857]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.01-01.59.42:879][857]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2020.03.01-01.59.42:929][859]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2020.03.01-01.59.45:329][  3]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_House_Corner7)
+[2020.03.01-02.00.28:595][593]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_House_Corner7)
+[2020.03.01-02.00.29:960][674]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_House_Corner7)
+[2020.03.01-02.00.39:171][219]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_House_Corner5)
+[2020.03.01-02.00.55:341][175]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_House_single4)
+[2020.03.01-02.01.01:898][563]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_House_single2)
+[2020.03.01-02.01.03:238][641]Cmd: EDIT COPY
+[2020.03.01-02.01.03:660][666]Cmd: EDIT PASTE
+[2020.03.01-02.01.07:310][882]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_House_single3)
+[2020.03.01-02.01.08:333][941]Cmd: EDIT COPY
+[2020.03.01-02.01.08:716][964]Cmd: EDIT PASTE
+[2020.03.01-02.01.12:040][161]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_House_Corner6)
+[2020.03.01-02.01.24:924][926]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2020.03.01-02.01.25:078][926]LogSavePackage: Moving '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Saved/NewMapLevelWithTerrain630715BD481C271D16144B9C1F67FF5D.tmp' to '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Content/Maps/NewMapLevelWithTerrain.umap'
+[2020.03.01-02.01.25:547][926]LogSavePackage: Moving '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Saved/NewMapLevelWithTerrain_BuiltData9F96294D4B60D2E8708044A16D635938.tmp' to '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Content/Maps/NewMapLevelWithTerrain_BuiltData.uasset'
+[2020.03.01-02.01.25:567][926]AssetCheck: New page: Asset Save: multiple assets
+[2020.03.01-02.01.25:567][926]LogContentValidation: Display: Validating World /Game/Maps/NewMapLevelWithTerrain.NewMapLevelWithTerrain
+[2020.03.01-02.01.25:567][926]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/NewMapLevelWithTerrain_BuiltData.NewMapLevelWithTerrain_BuiltData
+[2020.03.01-02.02.21:956][305]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2020.03.01-02.02.22:105][305]LogSavePackage: Moving '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Saved/NewMapLevelWithTerrainC4F09543435671FC49626983B2F10126.tmp' to '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Content/Maps/NewMapLevelWithTerrain.umap'
+[2020.03.01-02.02.22:569][305]LogSavePackage: Moving '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Saved/NewMapLevelWithTerrain_BuiltData235CE4C5420D76E58EB040BF0048CFF2.tmp' to '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Content/Maps/NewMapLevelWithTerrain_BuiltData.uasset'
+[2020.03.01-02.02.22:586][305]AssetCheck: New page: Asset Save: multiple assets
+[2020.03.01-02.02.22:586][305]LogContentValidation: Display: Validating World /Game/Maps/NewMapLevelWithTerrain.NewMapLevelWithTerrain
+[2020.03.01-02.02.22:586][305]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/NewMapLevelWithTerrain_BuiltData.NewMapLevelWithTerrain_BuiltData
+[2020.03.01-02.02.37:958][466]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2020.03.01-02.02.38:107][466]LogSavePackage: Moving '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Saved/NewMapLevelWithTerrainF60F47264AE5A9B8E102CEBAD713AD2D.tmp' to '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Content/Maps/NewMapLevelWithTerrain.umap'
+[2020.03.01-02.02.38:556][466]LogSavePackage: Moving '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Saved/NewMapLevelWithTerrain_BuiltDataABAE80FF4AA8AD523BD53D975E0A839E.tmp' to '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Content/Maps/NewMapLevelWithTerrain_BuiltData.uasset'
+[2020.03.01-02.02.38:571][466]AssetCheck: New page: Asset Save: multiple assets
+[2020.03.01-02.02.38:572][466]LogContentValidation: Display: Validating World /Game/Maps/NewMapLevelWithTerrain.NewMapLevelWithTerrain
+[2020.03.01-02.02.38:572][466]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/NewMapLevelWithTerrain_BuiltData.NewMapLevelWithTerrain_BuiltData
+[2020.03.01-02.03.59:618][953]MapCheck: New page: Map Check
+[2020.03.01-02.03.59:636][953]Cmd: MAP REBUILD ALLVISIBLE
+[2020.03.01-02.03.59:636][953]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.03.01-02.03.59:639][953]LogWorld: UWorld::CleanupWorld for NewMapLevelWithTerrain, bSessionEnded=true, bCleanupResources=false
+[2020.03.01-02.03.59:691][953]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2020.03.01-02.03.59:716][953]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.03.01-02.03.59:748][953]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.03.01-02.03.59:748][953]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.03.01-02.03.59:748][953]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.03.01-02.03.59:776][953]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.03.01-02.03.59:776][953]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.03.01-02.03.59:776][953]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.03.01-02.03.59:839][953]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.03.01-02.03.59:862][953]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.03.01-02.03.59:880][953]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.03.01-02.03.59:900][953]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.03.01-02.03.59:924][953]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.03.01-02.03.59:950][953]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.03.01-02.03.59:967][953]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.03.01-02.03.59:984][953]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.03.01-02.04.00:013][953]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.03.01-02.04.02:078][953]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 20
+[2020.03.01-02.04.02:078][953]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 19
+[2020.03.01-02.04.02:078][953]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 18
+[2020.03.01-02.04.02:078][953]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 17
+[2020.03.01-02.04.02:078][953]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 16
+[2020.03.01-02.04.02:078][953]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2020.03.01-02.04.02:078][953]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 14
+[2020.03.01-02.04.02:078][953]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2020.03.01-02.04.02:078][953]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2020.03.01-02.04.02:078][953]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.03.01-02.04.02:078][953]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2020.03.01-02.04.02:078][953]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2020.03.01-02.04.02:078][953]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.03.01-02.04.02:078][953]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2020.03.01-02.04.02:078][953]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2020.03.01-02.04.02:078][953]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2020.03.01-02.04.02:078][953]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2020.03.01-02.04.02:078][953]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2020.03.01-02.04.02:078][953]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.03.01-02.04.02:078][953]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.03.01-02.04.02:078][953]TextureStreamingBuild: Display: Compiling optional shaders took 2.385 seconds.
+[2020.03.01-02.04.02:095][953]LogLevel: Display: Export Material TexCoord Scales took 0.017 seconds.
+[2020.03.01-02.04.02:107][953]TextureStreamingBuild: Display: Build Texture Streaming took 0.012 seconds.
+[2020.03.01-02.04.02:135][953]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2020.03.01-02.04.02:138][953]LightingResults: New page: Lighting Build - Mar 1, 2020, 4:04:02 AM
+[2020.03.01-02.04.02:144][953]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2020.03.01-02.04.02:144][953]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2020.03.01-02.04.02:144][953]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2020.03.01-02.04.02:147][953]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.03.01-02.04.02:151][953]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.03.01-02.04.02:151][953]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.03.01-02.04.02:152][953]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.03.01-02.04.02:152][953]LogSwarmInterface: [TryOpenConnection] Local Process ID is 18056
+[2020.03.01-02.04.06:662][953]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2020.03.01-02.04.06:662][953]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.03.01-02.04.06:662][953]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.03.01-02.04.06:662][953]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.03.01-02.04.06:662][953]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.03.01-02.04.06:662][953]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.03.01-02.04.06:758][953]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2020.03.01-02.04.06:758][953]MapCheck: New page: NewMapLevelWithTerrain - Mar 1, 2020, 4:04:06 AM
+[2020.03.01-02.04.06:758][953]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2020.03.01-02.04.06:758][953]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 0.594ms to complete.
+[2020.03.01-02.04.06:760][953]LogEditorBuildUtils: Build time 0:07
+[2020.03.01-02.04.07:268][957]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2020.03.01-02.04.25:252][939]LightingResults: Warning: SM_House_single Object has overlapping UVs.
+[2020.03.01-02.04.25:252][939]LightingResults: SM_House_single Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2020.03.01-02.04.40:447][690]LightingResults: Warning: SM_tree1 Object has wrapping UVs.
+[2020.03.01-02.04.40:447][690]LightingResults: Warning: SM_tree1 Object has overlapping UVs.
+[2020.03.01-02.04.40:447][690]LightingResults: SM_tree1 Lightmap UV are overlapping by 98.9%. Please adjust content - Enable Error Coloring to visualize.
+[2020.03.01-02.05.06:497][992]LightingResults: Warning: SM_House_single Object has overlapping UVs.
+[2020.03.01-02.05.06:497][992]LightingResults: SM_House_single Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2020.03.01-02.05.07:664][ 51]LightingResults: Warning: SM_House_single Object has overlapping UVs.
+[2020.03.01-02.05.07:664][ 51]LightingResults: SM_House_single Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2020.03.01-02.05.09:287][130]LightingResults: Warning: SM_House_single Object has overlapping UVs.
+[2020.03.01-02.05.09:287][130]LightingResults: SM_House_single Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2020.03.01-02.05.11:216][224]LightingResults: Warning: SM_House_single Object has overlapping UVs.
+[2020.03.01-02.05.11:216][224]LightingResults: SM_House_single Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2020.03.01-02.05.14:937][405]LightingResults: Warning: SM_House_single Object has overlapping UVs.
+[2020.03.01-02.05.14:937][405]LightingResults: SM_House_single Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2020.03.01-02.05.19:086][609]Job is a success!
+[2020.03.01-02.05.19:336][610]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.085s
+[2020.03.01-02.05.19:336][610]LogVolumetricLightmapImport:      Indirection Texture 32x32x16 = 0.1Mb
+[2020.03.01-02.05.19:336][610]LogVolumetricLightmapImport:      BrickData (all levels) 2.3Mb (trimmed 1.0Mb due to 0.010000 MinBrickError)
+[2020.03.01-02.05.19:336][610]LogVolumetricLightmapImport:      Bricks at depth
+[2020.03.01-02.05.19:336][610]LogVolumetricLightmapImport:          0: 1.3% covering 100.0% of volume
+[2020.03.01-02.05.19:336][610]LogVolumetricLightmapImport:          1: 9.2% covering 11.3% of volume
+[2020.03.01-02.05.19:336][610]LogVolumetricLightmapImport:          2: 89.5% covering 1.7% of volume
+[2020.03.01-02.05.19:336][610]LogVolumetricLightmapImport:      Bricks in each level
+[2020.03.01-02.05.19:336][610]LogVolumetricLightmapImport:          NewMapLevelWithTerrain 			 315 bricks 	 100.0% (Persistent Level)
+[2020.03.01-02.05.21:747][610]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2020.03.01-02.05.21:747][610]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2020.03.01-02.05.21:747][610]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2020.03.01-02.05.21:748][610]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2020.03.01-02.05.21:748][610]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 64X64)
+[2020.03.01-02.05.21:748][610]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 64X64)
+[2020.03.01-02.05.21:947][610]LogTexture: Display: Building textures: ShadowMapTexture2D_11 (G8, 32X32)
+[2020.03.01-02.05.22:014][610]LogTexture: Display: Building textures: ShadowMapTexture2D_10 (G8, 1024X1024)
+[2020.03.01-02.05.22:014][610]LogStaticLightingSystem: NewMapLevelWithTerrain_BuiltData storing lightmap data for 91 meshes in 4 LightmapResourceClusters (22.8 Meshes per cluster).
+[2020.03.01-02.05.22:020][610]Lightmass on DESKTOP-PTE761A: 1:14 min total, 1.00 sec importing, 2.21 sec setup, 12.6 sec photons, 58.2 sec processing, 0 ms extra exporting [288/288 mappings]. Threads: 6:47 min total, 4:46 min processing.
+[2020.03.01-02.05.22:022][610]LogMaterial: Display: Material /Game/DarkForest/Materials/M_pipe.M_pipe needed to have new flag set bUsedWithStaticLighting !
+[2020.03.01-02.05.22:033][610]LogMaterial: Display: Missing cached shader map for material M_pipe, compiling. 
+[2020.03.01-02.05.22:061][610]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 24
+[2020.03.01-02.05.22:061][610]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2020.03.01-02.05.22:061][610]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2020.03.01-02.05.22:061][610]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.03.01-02.05.22:101][610]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2020.03.01-02.05.22:128][610]LogStaticLightingSystem: Illumination: 1:19 min (1.97 sec encoding lightmaps, 254 ms encoding shadowmaps)
+[2020.03.01-02.05.22:128][610]LogStaticLightingSystem: Lightmap texture memory:  4.0 MB (4.0 MB streaming, 0.0 MB non-streaming), 6 textures
+[2020.03.01-02.05.22:128][610]LogStaticLightingSystem: Shadowmap texture memory: 1.3 MB (1.3 MB streaming, 0.0 MB non-streaming), 2 textures
+[2020.03.01-02.05.22:714][610]DumpUnbuiltLightIteractions
+[2020.03.01-02.05.22:714][610]Lights with unbuilt interactions: 0
+[2020.03.01-02.05.22:714][610]
+[2020.03.01-02.05.22:714][610]Primitives with unbuilt interactions: 0
+[2020.03.01-02.05.25:439][611]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.03.01-02.05.25:439][611]MapCheck: New page: NewMapLevelWithTerrain - Mar 1, 2020, 4:05:25 AM
+[2020.03.01-02.05.25:439][611]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.604ms to complete.
+[2020.03.01-02.06.13:066][467]LogSlate: Window 'Message Log' being destroyed
+[2020.03.01-02.06.13:076][467]LogSlate: Window 'Message Log' being destroyed
+[2020.03.01-02.06.21:042][944]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_House_single4)
+[2020.03.01-02.07.00:826][326]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_House_Corner6)
+[2020.03.01-02.07.04:102][516]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2020.03.01-02.07.04:260][516]LogSavePackage: Moving '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Saved/NewMapLevelWithTerrain7D5459BB4FB2C0D7A36F4289FB947D5A.tmp' to '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Content/Maps/NewMapLevelWithTerrain.umap'
+[2020.03.01-02.07.04:756][516]LogSavePackage: Moving '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Saved/NewMapLevelWithTerrain_BuiltDataD1CEEA9743606B054F2DF986353CD156.tmp' to '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Content/Maps/NewMapLevelWithTerrain_BuiltData.uasset'
+[2020.03.01-02.07.04:774][516]AssetCheck: New page: Asset Save: multiple assets
+[2020.03.01-02.07.04:774][516]LogContentValidation: Display: Validating World /Game/Maps/NewMapLevelWithTerrain.NewMapLevelWithTerrain
+[2020.03.01-02.07.04:774][516]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/NewMapLevelWithTerrain_BuiltData.NewMapLevelWithTerrain_BuiltData
+[2020.03.01-02.07.07:590][682]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2020.03.01-02.07.13:661][682]LogSlate: Window 'Save Content' being destroyed
+[2020.03.01-02.07.13:733][682]LogSavePackage: Moving '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Saved/M_imp_1ACA679C24B2891CA6C18BFB1F911CFE1.tmp' to '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Content/DarkForest/Materials/Instances/M_imp_1.uasset'
+[2020.03.01-02.07.13:797][682]LogSavePackage: Moving '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Saved/M_Roof20FA8C8946A5D88513D8609AD124EE26.tmp' to '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Content/DarkForest/Materials/Instances/M_Roof.uasset'
+[2020.03.01-02.07.13:824][682]LogSavePackage: Moving '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Saved/M_Carpet3CE7FD4842A52DD13BC0169295438FBC.tmp' to '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Content/DarkForest/Materials/M_Carpet.uasset'
+[2020.03.01-02.07.13:833][682]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DarkForest/Materials/M_Glass" FILE="../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Content/DarkForest/Materials/M_Glass.uasset" SILENT=true
+[2020.03.01-02.07.13:861][682]LogSavePackage: Moving '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Saved/M_Glass05C40E0F464FB6993B436891DD812230.tmp' to '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Content/DarkForest/Materials/M_Glass.uasset'
+[2020.03.01-02.07.13:870][682]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DarkForest/Materials/M_House" FILE="../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Content/DarkForest/Materials/M_House.uasset" SILENT=true
+[2020.03.01-02.07.13:900][682]LogSavePackage: Moving '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Saved/M_House5CE86D0D490782D31818E6B0F3332447.tmp' to '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Content/DarkForest/Materials/M_House.uasset'
+[2020.03.01-02.07.13:940][682]LogSavePackage: Moving '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Saved/M_impostersB9D7B12E4AB59E6C87262F90F2A7DEF5.tmp' to '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Content/DarkForest/Materials/M_imposters.uasset'
+[2020.03.01-02.07.13:967][682]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DarkForest/Materials/M_pipe" FILE="../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Content/DarkForest/Materials/M_pipe.uasset" SILENT=true
+[2020.03.01-02.07.14:002][682]LogSavePackage: Moving '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Saved/M_pipe905FC1A74A9867AE0A86DB9449FD5706.tmp' to '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Content/DarkForest/Materials/M_pipe.uasset'
+[2020.03.01-02.07.14:028][682]LogSavePackage: Moving '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Saved/M_stairs5B9150854DFAA6262679D7BFBD865E90.tmp' to '../../../../../../Users/Alba Samaranch/Documents/GitHub/TheDoors2/TheDoors2/Content/DarkForest/Materials/M_stairs.uasset'
+[2020.03.01-02.07.14:113][682]LogSlate: Window 'TheDoors2 - Unreal Editor' being destroyed
+[2020.03.01-02.07.14:385][682]AssetCheck: New page: Asset Save: multiple assets
+[2020.03.01-02.07.14:385][682]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/DarkForest/Materials/Instances/M_imp_1.M_imp_1
+[2020.03.01-02.07.14:385][682]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/DarkForest/Materials/Instances/M_Roof.M_Roof
+[2020.03.01-02.07.14:385][682]LogContentValidation: Display: Validating Material /Game/DarkForest/Materials/M_Carpet.M_Carpet
+[2020.03.01-02.07.14:385][682]LogContentValidation: Display: Validating Material /Game/DarkForest/Materials/M_Glass.M_Glass
+[2020.03.01-02.07.14:385][682]LogContentValidation: Display: Validating Material /Game/DarkForest/Materials/M_House.M_House
+[2020.03.01-02.07.14:385][682]LogContentValidation: Display: Validating Material /Game/DarkForest/Materials/M_imposters.M_imposters
+[2020.03.01-02.07.14:385][682]LogContentValidation: Display: Validating Material /Game/DarkForest/Materials/M_pipe.M_pipe
+[2020.03.01-02.07.14:385][682]LogContentValidation: Display: Validating Material /Game/DarkForest/Materials/M_stairs.M_stairs
+[2020.03.01-02.07.14:419][683]Cmd: QUIT_EDITOR
+[2020.03.01-02.07.14:421][683]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2020.03.01-02.07.14:440][683]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2020.03.01-02.07.14:440][683]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.01-02.07.14:825][683]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.03.01-02.07.14:846][683]LogExit: Preparing to exit.
+[2020.03.01-02.07.15:498][683]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.03.01-02.07.15:499][683]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.03.01-02.07.15:513][683]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.03.01-02.07.15:532][683]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.03.01-02.07.15:579][683]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.03.01-02.07.15:579][683]LogExit: Editor shut down
+[2020.03.01-02.07.15:581][683]LogExit: Transaction tracking system shut down
+[2020.03.01-02.07.16:270][683]LogExit: Object subsystem successfully closed.
+[2020.03.01-02.07.16:311][683]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.03.01-02.07.16:408][683]LogModuleManager: Shutting down and abandoning module MeshBuilder (704)
+[2020.03.01-02.07.16:408][683]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (702)
+[2020.03.01-02.07.16:408][683]LogModuleManager: Shutting down and abandoning module Voice (700)
+[2020.03.01-02.07.16:409][683]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (698)
+[2020.03.01-02.07.16:409][683]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (696)
+[2020.03.01-02.07.16:409][683]LogModuleManager: Shutting down and abandoning module SceneOutliner (694)
+[2020.03.01-02.07.16:409][683]LogModuleManager: Shutting down and abandoning module AddContentDialog (692)
+[2020.03.01-02.07.16:421][683]LogModuleManager: Shutting down and abandoning module WidgetCarousel (691)
+[2020.03.01-02.07.16:421][683]LogModuleManager: Shutting down and abandoning module EditorWidgets (688)
+[2020.03.01-02.07.16:421][683]LogModuleManager: Shutting down and abandoning module CollectionManager (686)
+[2020.03.01-02.07.16:422][683]LogModuleManager: Shutting down and abandoning module StatsViewer (684)
+[2020.03.01-02.07.16:423][683]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (682)
+[2020.03.01-02.07.16:424][683]LogModuleManager: Shutting down and abandoning module FoliageEdit (680)
+[2020.03.01-02.07.16:424][683]LogModuleManager: Shutting down and abandoning module LandscapeEditor (678)
+[2020.03.01-02.07.16:427][683]LogModuleManager: Shutting down and abandoning module MeshPaintMode (676)
+[2020.03.01-02.07.16:427][683]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (674)
+[2020.03.01-02.07.16:427][683]LogModuleManager: Shutting down and abandoning module ActorPickerMode (672)
+[2020.03.01-02.07.16:427][683]LogModuleManager: Shutting down and abandoning module GeometryMode (670)
+[2020.03.01-02.07.16:427][683]LogModuleManager: Shutting down and abandoning module TextureAlignMode (668)
+[2020.03.01-02.07.16:427][683]LogModuleManager: Shutting down and abandoning module BspMode (666)
+[2020.03.01-02.07.16:427][683]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (664)
+[2020.03.01-02.07.16:428][683]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (662)
+[2020.03.01-02.07.16:429][683]LogModuleManager: Shutting down and abandoning module AutomationWorker (660)
+[2020.03.01-02.07.16:429][683]LogModuleManager: Shutting down and abandoning module SteamVREditor (658)
+[2020.03.01-02.07.16:429][683]LogModuleManager: Shutting down and abandoning module OculusMR (656)
+[2020.03.01-02.07.16:429][683]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (654)
+[2020.03.01-02.07.16:430][683]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (652)
+[2020.03.01-02.07.16:430][683]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (650)
+[2020.03.01-02.07.16:434][683]LogModuleManager: Shutting down and abandoning module PlacementMode (649)
+[2020.03.01-02.07.16:434][683]LogModuleManager: Shutting down and abandoning module MaterialEditor (648)
+[2020.03.01-02.07.16:435][683]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (644)
+[2020.03.01-02.07.16:437][683]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (642)
+[2020.03.01-02.07.16:437][683]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (640)
+[2020.03.01-02.07.16:437][683]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (638)
+[2020.03.01-02.07.16:437][683]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (636)
+[2020.03.01-02.07.16:437][683]LogModuleManager: Shutting down and abandoning module WebMMedia (634)
+[2020.03.01-02.07.16:437][683]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (632)
+[2020.03.01-02.07.16:439][683]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (630)
+[2020.03.01-02.07.16:441][683]LogModuleManager: Shutting down and abandoning module SequenceRecorder (629)
+[2020.03.01-02.07.16:441][683]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (626)
+[2020.03.01-02.07.16:441][683]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (624)
+[2020.03.01-02.07.16:441][683]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (622)
+[2020.03.01-02.07.16:441][683]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (620)
+[2020.03.01-02.07.16:441][683]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (618)
+[2020.03.01-02.07.16:441][683]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (616)
+[2020.03.01-02.07.16:441][683]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (614)
+[2020.03.01-02.07.16:441][683]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (612)
+[2020.03.01-02.07.16:441][683]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (610)
+[2020.03.01-02.07.16:441][683]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (608)
+[2020.03.01-02.07.16:441][683]LogModuleManager: Shutting down and abandoning module CharacterAI (606)
+[2020.03.01-02.07.16:441][683]LogModuleManager: Shutting down and abandoning module SmartSnapping (604)
+[2020.03.01-02.07.16:441][683]LogModuleManager: Shutting down and abandoning module SessionServices (602)
+[2020.03.01-02.07.16:441][683]LogModuleManager: Shutting down and abandoning module MeshPaint (600)
+[2020.03.01-02.07.16:442][683]LogModuleManager: Shutting down and abandoning module ViewportSnapping (598)
+[2020.03.01-02.07.16:443][683]LogModuleManager: Shutting down and abandoning module ViewportInteraction (596)
+[2020.03.01-02.07.16:443][683]LogModuleManager: Shutting down and abandoning module ClothPainter (594)
+[2020.03.01-02.07.16:444][683]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (593)
+[2020.03.01-02.07.16:445][683]LogModuleManager: Shutting down and abandoning module LogVisualizer (590)
+[2020.03.01-02.07.16:447][683]LogModuleManager: Shutting down and abandoning module IntroTutorials (588)
+[2020.03.01-02.07.16:449][683]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (587)
+[2020.03.01-02.07.16:450][683]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (584)
+[2020.03.01-02.07.16:450][683]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (582)
+[2020.03.01-02.07.16:450][683]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (580)
+[2020.03.01-02.07.16:451][683]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (579)
+[2020.03.01-02.07.17:303][683]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (576)
+[2020.03.01-02.07.17:303][683]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (574)
+[2020.03.01-02.07.17:303][683]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (572)
+[2020.03.01-02.07.17:303][683]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (570)
+[2020.03.01-02.07.17:304][683]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (568)
+[2020.03.01-02.07.17:304][683]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (566)
+[2020.03.01-02.07.17:304][683]LogModuleManager: Shutting down and abandoning module InputBindingEditor (564)
+[2020.03.01-02.07.17:310][683]LogModuleManager: Shutting down and abandoning module MergeActors (562)
+[2020.03.01-02.07.17:312][683]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (560)
+[2020.03.01-02.07.17:313][683]LogModuleManager: Shutting down and abandoning module LocalizationService (559)
+[2020.03.01-02.07.17:313][683]LogModuleManager: Shutting down and abandoning module HardwareTargeting (556)
+[2020.03.01-02.07.17:313][683]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (554)
+[2020.03.01-02.07.17:313][683]LogModuleManager: Shutting down and abandoning module UndoHistory (552)
+[2020.03.01-02.07.17:314][683]LogModuleManager: Shutting down and abandoning module XmlParser (550)
+[2020.03.01-02.07.17:314][683]LogModuleManager: Shutting down and abandoning module Blutility (548)
+[2020.03.01-02.07.17:314][683]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (546)
+[2020.03.01-02.07.17:314][683]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (545)
+[2020.03.01-02.07.17:315][683]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (542)
+[2020.03.01-02.07.17:315][683]LogModuleManager: Shutting down and abandoning module SettingsEditor (540)
+[2020.03.01-02.07.17:316][683]LogModuleManager: Shutting down and abandoning module ProjectLauncher (538)
+[2020.03.01-02.07.17:317][683]LogModuleManager: Shutting down and abandoning module SessionFrontend (536)
+[2020.03.01-02.07.17:317][683]LogModuleManager: Shutting down and abandoning module ProfilerClient (534)
+[2020.03.01-02.07.17:317][683]LogModuleManager: Shutting down and abandoning module DeviceManager (532)
+[2020.03.01-02.07.17:318][683]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (531)
+[2020.03.01-02.07.17:352][683]LogModuleManager: Shutting down and abandoning module AutomationController (528)
+[2020.03.01-02.07.17:352][683]LogModuleManager: Shutting down and abandoning module AutomationWindow (526)
+[2020.03.01-02.07.17:353][683]LogModuleManager: Shutting down and abandoning module Layers (524)
+[2020.03.01-02.07.17:355][683]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (522)
+[2020.03.01-02.07.17:356][683]LogModuleManager: Shutting down and abandoning module DetailCustomizations (520)
+[2020.03.01-02.07.17:356][683]LogModuleManager: Shutting down and abandoning module PackagesDialog (518)
+[2020.03.01-02.07.17:356][683]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (516)
+[2020.03.01-02.07.17:359][683]LogModuleManager: Shutting down and abandoning module Persona (514)
+[2020.03.01-02.07.17:360][683]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (513)
+[2020.03.01-02.07.17:360][683]LogModuleManager: Shutting down and abandoning module AnimGraph (511)
+[2020.03.01-02.07.17:360][683]LogModuleManager: Shutting down and abandoning module Kismet (508)
+[2020.03.01-02.07.17:362][683]LogModuleManager: Shutting down and abandoning module KismetWidgets (507)
+[2020.03.01-02.07.17:362][683]LogModuleManager: Shutting down and abandoning module GraphEditor (504)
+[2020.03.01-02.07.17:365][683]LogModuleManager: Shutting down and abandoning module StructViewer (502)
+[2020.03.01-02.07.17:365][683]LogModuleManager: Shutting down and abandoning module ClassViewer (500)
+[2020.03.01-02.07.17:365][683]LogModuleManager: Shutting down and abandoning module Toolbox (498)
+[2020.03.01-02.07.17:365][683]LogModuleManager: Shutting down and abandoning module ModuleUI (496)
+[2020.03.01-02.07.17:365][683]LogModuleManager: Shutting down and abandoning module OutputLog (494)
+[2020.03.01-02.07.17:367][683]LogModuleManager: Shutting down and abandoning module GammaUI (492)
+[2020.03.01-02.07.17:368][683]LogModuleManager: Shutting down and abandoning module Documentation (490)
+[2020.03.01-02.07.17:368][683]LogModuleManager: Shutting down and abandoning module ToolMenus (488)
+[2020.03.01-02.07.17:368][683]LogModuleManager: Shutting down and abandoning module LiveCoding (486)
+[2020.03.01-02.07.17:369][683]LogModuleManager: Shutting down and abandoning module LevelSequence (484)
+[2020.03.01-02.07.17:369][683]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (482)
+[2020.03.01-02.07.17:369][683]LogModuleManager: Shutting down and abandoning module MovieScene (480)
+[2020.03.01-02.07.17:369][683]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (478)
+[2020.03.01-02.07.17:370][683]LogModuleManager: Shutting down and abandoning module LauncherPlatform (476)
+[2020.03.01-02.07.17:370][683]LogModuleManager: Shutting down and abandoning module AnalyticsET (474)
+[2020.03.01-02.07.17:370][683]LogModuleManager: Shutting down and abandoning module PortalServices (472)
+[2020.03.01-02.07.17:370][683]LogModuleManager: Shutting down and abandoning module PortalRpc (470)
+[2020.03.01-02.07.17:370][683]LogModuleManager: Shutting down and abandoning module MessagingRpc (468)
+[2020.03.01-02.07.17:370][683]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (466)
+[2020.03.01-02.07.17:370][683]LogModuleManager: Shutting down and abandoning module AIModule (464)
+[2020.03.01-02.07.17:370][683]LogModuleManager: Shutting down and abandoning module GameplayDebugger (463)
+[2020.03.01-02.07.17:370][683]LogModuleManager: Shutting down and abandoning module AITestSuite (461)
+[2020.03.01-02.07.17:370][683]LogModuleManager: Shutting down and abandoning module NavigationSystem (459)
+[2020.03.01-02.07.17:370][683]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (456)
+[2020.03.01-02.07.17:375][683]LogModuleManager: Shutting down and abandoning module ProfilerService (454)
+[2020.03.01-02.07.17:386][683]LogModuleManager: Shutting down and abandoning module TaskGraph (452)
+[2020.03.01-02.07.17:388][683]LogModuleManager: Shutting down and abandoning module ScreenshotTools (450)
+[2020.03.01-02.07.17:388][683]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (448)
+[2020.03.01-02.07.17:388][683]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (446)
+[2020.03.01-02.07.17:388][683]LogModuleManager: Shutting down and abandoning module OculusEditor (444)
+[2020.03.01-02.07.17:388][683]LogModuleManager: Shutting down and abandoning module OculusInput (442)
+[2020.03.01-02.07.17:388][683]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (440)
+[2020.03.01-02.07.17:388][683]LogModuleManager: Shutting down and abandoning module EditableMesh (438)
+[2020.03.01-02.07.17:388][683]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (436)
+[2020.03.01-02.07.17:389][683]LogModuleManager: Shutting down and abandoning module CableComponent (434)
+[2020.03.01-02.07.17:389][683]LogModuleManager: Shutting down and abandoning module AudioCapture (432)
+[2020.03.01-02.07.17:389][683]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (431)
+[2020.03.01-02.07.17:389][683]LogModuleManager: Shutting down and abandoning module AssetTags (428)
+[2020.03.01-02.07.17:389][683]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (426)
+[2020.03.01-02.07.17:389][683]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (424)
+[2020.03.01-02.07.17:389][683]LogModuleManager: Shutting down and abandoning module AppleImageUtils (422)
+[2020.03.01-02.07.17:389][683]LogModuleManager: Shutting down and abandoning module AndroidPermission (420)
+[2020.03.01-02.07.17:389][683]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (418)
+[2020.03.01-02.07.17:389][683]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (416)
+[2020.03.01-02.07.17:390][683]LogModuleManager: Shutting down and abandoning module MediaCompositing (414)
+[2020.03.01-02.07.17:390][683]LogModuleManager: Shutting down and abandoning module ImgMedia (412)
+[2020.03.01-02.07.17:390][683]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (410)
+[2020.03.01-02.07.17:390][683]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (408)
+[2020.03.01-02.07.17:390][683]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (406)
+[2020.03.01-02.07.17:390][683]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (404)
+[2020.03.01-02.07.17:390][683]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (402)
+[2020.03.01-02.07.17:390][683]LogModuleManager: Shutting down and abandoning module BackChannel (400)
+[2020.03.01-02.07.17:391][683]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (398)
+[2020.03.01-02.07.17:391][683]LogModuleManager: Shutting down and abandoning module AutomationUtils (396)
+[2020.03.01-02.07.17:391][683]LogModuleManager: Shutting down and abandoning module AlembicImporter (394)
+[2020.03.01-02.07.17:391][683]LogModuleManager: Shutting down and abandoning module AlembicLibrary (393)
+[2020.03.01-02.07.17:391][683]LogModuleManager: Shutting down and abandoning module GeometryCache (392)
+[2020.03.01-02.07.17:392][683]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (391)
+[2020.03.01-02.07.17:392][683]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (386)
+[2020.03.01-02.07.17:392][683]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (384)
+[2020.03.01-02.07.17:392][683]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (382)
+[2020.03.01-02.07.17:392][683]LogModuleManager: Shutting down and abandoning module PluginBrowser (380)
+[2020.03.01-02.07.17:396][683]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (378)
+[2020.03.01-02.07.17:398][683]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (376)
+[2020.03.01-02.07.17:398][683]LogModuleManager: Shutting down and abandoning module CurveEditorTools (374)
+[2020.03.01-02.07.17:399][683]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (372)
+[2020.03.01-02.07.17:399][683]LogModuleManager: Shutting down and abandoning module CryptoKeys (370)
+[2020.03.01-02.07.17:399][683]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (368)
+[2020.03.01-02.07.17:400][683]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (366)
+[2020.03.01-02.07.17:400][683]LogModuleManager: Shutting down and abandoning module UObjectPlugin (364)
+[2020.03.01-02.07.17:400][683]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (362)
+[2020.03.01-02.07.17:401][683]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (360)
+[2020.03.01-02.07.17:402][683]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (358)
+[2020.03.01-02.07.17:404][683]LogModuleManager: Shutting down and abandoning module GitSourceControl (356)
+[2020.03.01-02.07.17:406][683]LogModuleManager: Shutting down and abandoning module SourceControl (355)
+[2020.03.01-02.07.17:406][683]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (352)
+[2020.03.01-02.07.17:406][683]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (350)
+[2020.03.01-02.07.17:406][683]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (348)
+[2020.03.01-02.07.17:406][683]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (346)
+[2020.03.01-02.07.17:406][683]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (344)
+[2020.03.01-02.07.17:406][683]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (342)
+[2020.03.01-02.07.17:406][683]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (340)
+[2020.03.01-02.07.17:406][683]LogModuleManager: Shutting down and abandoning module Paper2DEditor (338)
+[2020.03.01-02.07.17:409][683]LogModuleManager: Shutting down and abandoning module SignificanceManager (336)
+[2020.03.01-02.07.17:409][683]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (334)
+[2020.03.01-02.07.17:409][683]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (332)
+[2020.03.01-02.07.17:409][683]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (328)
+[2020.03.01-02.07.17:409][683]LogModuleManager: Shutting down and abandoning module ActorSequence (326)
+[2020.03.01-02.07.17:409][683]LogModuleManager: Shutting down and abandoning module UdpMessaging (324)
+[2020.03.01-02.07.17:510][683]LogModuleManager: Shutting down and abandoning module TcpMessaging (322)
+[2020.03.01-02.07.17:619][683]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (320)
+[2020.03.01-02.07.17:620][683]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (318)
+[2020.03.01-02.07.17:620][683]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2020.03.01-02.07.17:621][683]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (316)
+[2020.03.01-02.07.17:621][683]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (314)
+[2020.03.01-02.07.17:621][683]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (312)
+[2020.03.01-02.07.17:621][683]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (310)
+[2020.03.01-02.07.17:621][683]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (308)
+[2020.03.01-02.07.17:621][683]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (306)
+[2020.03.01-02.07.17:621][683]LogModuleManager: Shutting down and abandoning module MagicLeapController (304)
+[2020.03.01-02.07.17:622][683]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.03.01-02.07.17:622][683]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (302)
+[2020.03.01-02.07.17:622][683]LogModuleManager: Shutting down and abandoning module MagicLeapAR (300)
+[2020.03.01-02.07.17:622][683]LogModuleManager: Shutting down and abandoning module AugmentedReality (299)
+[2020.03.01-02.07.17:622][683]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (296)
+[2020.03.01-02.07.17:623][683]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (294)
+[2020.03.01-02.07.17:623][683]LogModuleManager: Shutting down and abandoning module FacialAnimation (292)
+[2020.03.01-02.07.17:623][683]LogModuleManager: Shutting down and abandoning module DataValidation (290)
+[2020.03.01-02.07.17:623][683]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (288)
+[2020.03.01-02.07.17:624][683]LogModuleManager: Shutting down and abandoning module LevelEditor (287)
+[2020.03.01-02.07.17:626][683]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (286)
+[2020.03.01-02.07.17:627][683]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (284)
+[2020.03.01-02.07.17:627][683]LogModuleManager: Shutting down and abandoning module MainFrame (282)
+[2020.03.01-02.07.17:627][683]LogModuleManager: Shutting down and abandoning module HotReload (281)
+[2020.03.01-02.07.17:628][683]LogModuleManager: Shutting down and abandoning module ContentBrowser (277)
+[2020.03.01-02.07.17:631][683]LogModuleManager: Shutting down and abandoning module TreeMap (275)
+[2020.03.01-02.07.17:632][683]LogModuleManager: Shutting down and abandoning module AnimationSharing (272)
+[2020.03.01-02.07.17:632][683]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (270)
+[2020.03.01-02.07.17:632][683]LogModuleManager: Shutting down and abandoning module Paper2D (268)
+[2020.03.01-02.07.17:632][683]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (266)
+[2020.03.01-02.07.17:637][683]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (264)
+[2020.03.01-02.07.17:638][683]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (262)
+[2020.03.01-02.07.17:638][683]LogModuleManager: Shutting down and abandoning module PacketHandler (260)
+[2020.03.01-02.07.17:638][683]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (258)
+[2020.03.01-02.07.17:638][683]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (256)
+[2020.03.01-02.07.17:639][683]LogModuleManager: Shutting down and abandoning module MediaAssets (254)
+[2020.03.01-02.07.17:639][683]LogModuleManager: Shutting down and abandoning module Overlay (252)
+[2020.03.01-02.07.17:639][683]LogModuleManager: Shutting down and abandoning module OverlayEditor (251)
+[2020.03.01-02.07.17:639][683]LogModuleManager: Shutting down and abandoning module VREditor (248)
+[2020.03.01-02.07.17:640][683]LogModuleManager: Shutting down and abandoning module StringTableEditor (246)
+[2020.03.01-02.07.17:640][683]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (244)
+[2020.03.01-02.07.17:641][683]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (242)
+[2020.03.01-02.07.17:642][683]LogModuleManager: Shutting down and abandoning module FunctionalTesting (240)
+[2020.03.01-02.07.17:643][683]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (238)
+[2020.03.01-02.07.17:644][683]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (237)
+[2020.03.01-02.07.17:645][683]LogModuleManager: Shutting down and abandoning module UMG (234)
+[2020.03.01-02.07.17:645][683]LogModuleManager: Shutting down and abandoning module UMGEditor (233)
+[2020.03.01-02.07.17:646][683]LogModuleManager: Shutting down and abandoning module MessageLog (231)
+[2020.03.01-02.07.17:646][683]LogModuleManager: Shutting down and abandoning module SlateReflector (226)
+[2020.03.01-02.07.17:649][683]LogModuleManager: Shutting down and abandoning module Slate (224)
+[2020.03.01-02.07.17:649][683]LogModuleManager: Shutting down and abandoning module SlateCore (222)
+[2020.03.01-02.07.17:649][683]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (220)
+[2020.03.01-02.07.17:649][683]LogModuleManager: Shutting down and abandoning module UnrealEd (218)
+[2020.03.01-02.07.17:650][683]LogModuleManager: Shutting down and abandoning module MRMesh (216)
+[2020.03.01-02.07.17:650][683]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (214)
+[2020.03.01-02.07.17:650][683]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (212)
+[2020.03.01-02.07.17:650][683]LogModuleManager: Shutting down and abandoning module XAudio2 (210)
+[2020.03.01-02.07.17:650][683]LogModuleManager: Shutting down and abandoning module Networking (208)
+[2020.03.01-02.07.17:650][683]LogModuleManager: Shutting down and abandoning module Core (206)
+[2020.03.01-02.07.17:650][683]LogModuleManager: Shutting down and abandoning module MovieSceneTools (204)
+[2020.03.01-02.07.17:652][683]LogModuleManager: Shutting down and abandoning module CurveEditor (203)
+[2020.03.01-02.07.17:654][683]LogModuleManager: Shutting down and abandoning module Sequencer (201)
+[2020.03.01-02.07.17:657][683]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2020.03.01-02.07.17:661][683]LogModuleManager: Shutting down and abandoning module KismetCompiler (196)
+[2020.03.01-02.07.17:661][683]LogModuleManager: Shutting down and abandoning module MeshUtilities (194)
+[2020.03.01-02.07.17:662][683]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (193)
+[2020.03.01-02.07.17:664][683]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (192)
+[2020.03.01-02.07.17:664][683]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (191)
+[2020.03.01-02.07.17:664][683]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (189)
+[2020.03.01-02.07.17:665][683]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (187)
+[2020.03.01-02.07.17:666][683]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (185)
+[2020.03.01-02.07.17:666][683]LogModuleManager: Shutting down and abandoning module MaterialBaking (181)
+[2020.03.01-02.07.17:667][683]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (176)
+[2020.03.01-02.07.17:667][683]LogModuleManager: Shutting down and abandoning module DerivedDataCache (174)
+[2020.03.01-02.07.17:667][683]LogDerivedDataCache: Shutdown
+[2020.03.01-02.07.17:667][683]LogModuleManager: Shutting down and abandoning module XGEController (172)
+[2020.03.01-02.07.17:667][683]LogModuleManager: Shutting down and abandoning module TargetPlatform (170)
+[2020.03.01-02.07.17:668][683]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (169)
+[2020.03.01-02.07.17:668][683]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (167)
+[2020.03.01-02.07.17:668][683]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (165)
+[2020.03.01-02.07.17:669][683]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (163)
+[2020.03.01-02.07.17:669][683]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (161)
+[2020.03.01-02.07.17:670][683]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (159)
+[2020.03.01-02.07.17:670][683]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (157)
+[2020.03.01-02.07.17:670][683]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (155)
+[2020.03.01-02.07.17:670][683]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (153)
+[2020.03.01-02.07.17:671][683]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (151)
+[2020.03.01-02.07.17:671][683]LogModuleManager: Shutting down and abandoning module ImageWrapper (150)
+[2020.03.01-02.07.17:671][683]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (147)
+[2020.03.01-02.07.17:671][683]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (145)
+[2020.03.01-02.07.17:671][683]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (143)
+[2020.03.01-02.07.17:671][683]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (141)
+[2020.03.01-02.07.17:671][683]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (139)
+[2020.03.01-02.07.17:671][683]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (137)
+[2020.03.01-02.07.17:671][683]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (135)
+[2020.03.01-02.07.17:671][683]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (133)
+[2020.03.01-02.07.17:671][683]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (131)
+[2020.03.01-02.07.17:682][683]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (129)
+[2020.03.01-02.07.17:688][683]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (127)
+[2020.03.01-02.07.17:688][683]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (125)
+[2020.03.01-02.07.17:688][683]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (123)
+[2020.03.01-02.07.17:689][683]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2020.03.01-02.07.17:689][683]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2020.03.01-02.07.17:689][683]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (117)
+[2020.03.01-02.07.17:690][683]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2020.03.01-02.07.17:690][683]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2020.03.01-02.07.17:694][683]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (111)
+[2020.03.01-02.07.17:727][683]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (109)
+[2020.03.01-02.07.17:727][683]LogModuleManager: Shutting down and abandoning module InputCore (106)
+[2020.03.01-02.07.17:727][683]LogModuleManager: Shutting down and abandoning module Settings (104)
+[2020.03.01-02.07.17:727][683]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (102)
+[2020.03.01-02.07.17:729][683]LogModuleManager: Shutting down and abandoning module PhysXCooking (100)
+[2020.03.01-02.07.17:729][683]LogModuleManager: Shutting down and abandoning module ChaosSolvers (98)
+[2020.03.01-02.07.17:730][683]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (97)
+[2020.03.01-02.07.17:730][683]LogModuleManager: Shutting down and abandoning module Chaos (94)
+[2020.03.01-02.07.17:730][683]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (92)
+[2020.03.01-02.07.17:730][683]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (91)
+[2020.03.01-02.07.17:731][683]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (88)
+[2020.03.01-02.07.17:731][683]LogModuleManager: Shutting down and abandoning module SteamVRInput (86)
+[2020.03.01-02.07.17:731][683]LogModuleManager: Shutting down and abandoning module SteamVR (84)
+[2020.03.01-02.07.17:731][683]LogHMD: Freeing OpenVRDLLHandle.
+[2020.03.01-02.07.17:731][683]LogModuleManager: Shutting down and abandoning module OculusHMD (82)
+[2020.03.01-02.07.17:731][683]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (80)
+[2020.03.01-02.07.17:731][683]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (78)
+[2020.03.01-02.07.17:731][683]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (76)
+[2020.03.01-02.07.17:731][683]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (72)
+[2020.03.01-02.07.17:733][683]LogModuleManager: Shutting down and abandoning module XMPP (67)
+[2020.03.01-02.07.17:733][683]LogModuleManager: Shutting down and abandoning module WebSockets (66)
+[2020.03.01-02.07.17:741][683]LogModuleManager: Shutting down and abandoning module HTTP (63)
+[2020.03.01-02.07.17:741][683]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.03.01-02.07.17:741][683]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B86BF73C7-484D-BB89-1C82-D38D17A03815%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.2-11100242%2B%2B%2BUE4%2BRelease-4.24&UserID=72b8937d4c98625ee789f6ba86a620a4%7C1d804a590b0e44a9a8f9ec539797846e%7Cb15a4a18-d6b6-470d-a3b9-fb141e7c3417&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2020.03.01-02.07.17:772][683]LogModuleManager: Shutting down and abandoning module SSL (62)
+[2020.03.01-02.07.17:776][683]LogModuleManager: Shutting down and abandoning module WmfMedia (58)
+[2020.03.01-02.07.17:778][683]LogModuleManager: Shutting down and abandoning module Media (57)
+[2020.03.01-02.07.17:779][683]LogModuleManager: Shutting down and abandoning module MagicLeap (54)
+[2020.03.01-02.07.17:779][683]LogModuleManager: Shutting down and abandoning module VariantManagerContent (52)
+[2020.03.01-02.07.17:779][683]LogModuleManager: Shutting down and abandoning module DatasmithContent (50)
+[2020.03.01-02.07.17:779][683]LogModuleManager: Shutting down and abandoning module AISupportModule (48)
+[2020.03.01-02.07.17:779][683]LogModuleManager: Shutting down and abandoning module DesktopPlatform (46)
+[2020.03.01-02.07.17:779][683]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2020.03.01-02.07.17:780][683]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2020.03.01-02.07.17:780][683]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2020.03.01-02.07.17:780][683]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.03.01-02.07.17:780][683]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.03.01-02.07.17:781][683]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.03.01-02.07.17:783][683]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.03.01-02.07.17:783][683]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.03.01-02.07.17:783][683]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.03.01-02.07.17:783][683]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.03.01-02.07.17:792][683]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.03.01-02.07.17:792][683]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.03.01-02.07.17:792][683]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.03.01-02.07.17:793][683]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.03.01-02.07.17:793][683]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.03.01-02.07.17:793][683]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.03.01-02.07.17:793][683]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.03.01-02.07.17:794][683]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.03.01-02.07.17:794][683]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.03.01-02.07.17:794][683]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.03.01-02.07.17:794][683]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.03.01-02.07.17:794][683]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.03.01-02.07.17:797][683]LogD3D11RHI: Shutdown
+[2020.03.01-02.07.17:797][683]LogD3D11RHI: CleanupD3DDevice
+[2020.03.01-02.07.17:813][683]LogExit: Exiting.
+[2020.03.01-02.07.17:827][683]Log file closed, 03/01/20 03:07:17
